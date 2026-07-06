@@ -1,0 +1,100 @@
+# Audio / DSP / Instruments — raw index
+
+96 conversations, 4777 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-05-21 — **Top 3 Music Learning** (41 msgs) — `raw/chatgpt/audio/2023-05-21--top-3-music-learning.md`
+- 2023-05-27 — **SEO plugin** (17 msgs) — `raw/chatgpt/audio/2023-05-27--seo-plugin.md`
+- 2023-07-08 — **Norah Jones Interview: Transition and Music** (12 msgs) — `raw/chatgpt/audio/2023-07-08--norah-jones-interview-transition-and-music.md`
+- 2023-07-09 — **GPT Chart Visualization Plugin** (30 msgs) — `raw/chatgpt/audio/2023-07-09--gpt-chart-visualization-plugin.md`
+- 2023-08-20 — **Eurorack: Ultimate Synth Solution** (26 msgs) — `raw/chatgpt/audio/2023-08-20--eurorack-ultimate-synth-solution.md`
+- 2023-08-24 — **Instasite - audio production** (10 msgs) — `raw/chatgpt/audio/2023-08-24--instasite-audio-production.md`
+- 2023-08-25 — **Audio Production Companies** (6 msgs) — `raw/chatgpt/audio/2023-08-25--audio-production-companies.md`
+- 2023-09-03 — **Identifying Audio Loop Tempo** (14 msgs) — `raw/chatgpt/audio/2023-09-03--identifying-audio-loop-tempo.md`
+- 2023-10-15 — **Tracks from Samples** (36 msgs) — `raw/chatgpt/audio/2023-10-15--tracks-from-samples.md`
+- 2023-10-28 — **Extracted Song Samples Data** (14 msgs) — `raw/chatgpt/audio/2023-10-28--extracted-song-samples-data.md`
+- 2023-11-21 — **Sound explorer(playlist) - GPT** (16 msgs) — `raw/chatgpt/audio/2023-11-21--sound-explorer-playlist-gpt.md`
+- 2023-12-01 — **Mail Setup Master - GPT** (10 msgs) — `raw/chatgpt/audio/2023-12-01--mail-setup-master-gpt.md`
+- 2023-12-02 — **Sampler - MCA / Guthrie** (33 msgs) — `raw/chatgpt/audio/2023-12-02--sampler-mca-guthrie.md`
+- 2023-12-08 — **Electronic Music Device Image** (4 msgs) — `raw/chatgpt/audio/2023-12-08--electronic-music-device-image.md`
+- 2023-12-08 — **Music Device Image Creation** (2 msgs) — `raw/chatgpt/audio/2023-12-08--music-device-image-creation.md`
+- 2023-12-14 — **ProductGPT - GPT (beat tutorial)** (103 msgs) — `raw/chatgpt/audio/2023-12-14--productgpt-gpt-beat-tutorial.md`
+- 2023-12-16 — **Music Nerd / patches description** (262 msgs) — `raw/chatgpt/audio/2023-12-16--music-nerd-patches-description.md`
+- 2023-12-19 — **Multilingual Music Composition - GPT** (11 msgs) — `raw/chatgpt/audio/2023-12-19--multilingual-music-composition-gpt.md`
+- 2023-12-21 — **Chord Creator - GPT** (6 msgs) — `raw/chatgpt/audio/2023-12-21--chord-creator-gpt.md`
+- 2023-12-21 — **Create McA Beat Tape Art** (2 msgs) — `raw/chatgpt/audio/2023-12-21--create-mca-beat-tape-art.md`
+- 2024-01-01 — **sample pack description** (14 msgs) — `raw/chatgpt/audio/2024-01-01--sample-pack-description.md`
+- 2024-01-04 — **Music Promotion - GPT** (6 msgs) — `raw/chatgpt/audio/2024-01-04--music-promotion-gpt.md`
+- 2024-01-06 — **Sample Library Creation Rules** (76 msgs) — `raw/chatgpt/audio/2024-01-06--sample-library-creation-rules.md`
+- 2024-01-07 — **stable audio diffusion** (60 msgs) — `raw/chatgpt/audio/2024-01-07--stable-audio-diffusion.md`
+- 2024-01-08 — **AI Music Production Assistant- GPT** (128 msgs) — `raw/chatgpt/audio/2024-01-08--ai-music-production-assistant-gpt.md`
+- 2024-01-11 — **Grimoire-Audio Sample Pack Landing** (11 msgs) — `raw/chatgpt/audio/2024-01-11--grimoire-audio-sample-pack-landing.md`
+- 2024-01-21 — **Audio Synthesis Research Papers** (7 msgs) — `raw/chatgpt/audio/2024-01-21--audio-synthesis-research-papers.md`
+- 2024-01-29 — **AI Music Production Assistant** (4 msgs) — `raw/chatgpt/audio/2024-01-29--ai-music-production-assistant.md`
+- 2024-02-09 — **Audio Prompt Optimization Guide** (128 msgs) — `raw/chatgpt/audio/2024-02-09--audio-prompt-optimization-guide.md`
+- 2024-02-18 — **Sample Library Naming: AI Inspiration** (6 msgs) — `raw/chatgpt/audio/2024-02-18--sample-library-naming-ai-inspiration.md`
+- 2024-03-13 — **Stable Audio AI** (22 msgs) — `raw/chatgpt/audio/2024-03-13--stable-audio-ai.md`
+- 2024-04-06 — **Stable Audio AI Review** (16 msgs) — `raw/chatgpt/audio/2024-04-06--stable-audio-ai-review.md`
+- 2024-06-18 — **Hip-Hop Beats: Sampling & Production** (13 msgs) — `raw/chatgpt/audio/2024-06-18--hip-hop-beats-sampling-production.md`
+- 2024-06-19 — **musical critique PROMPT** (26 msgs) — `raw/chatgpt/audio/2024-06-19--musical-critique-prompt.md`
+- 2024-10-16 — **Reaper Bluetooth Output Setup** (2 msgs) — `raw/chatgpt/audio/2024-10-16--reaper-bluetooth-output-setup.md`
+- 2024-11-23 — **Command Line Mastery Summary** (4 msgs) — `raw/chatgpt/audio/2024-11-23--command-line-mastery-summary.md`
+- 2024-11-28 — **REAPER manual download** (4 msgs) — `raw/chatgpt/audio/2024-11-28--reaper-manual-download.md`
+- 2024-12-07 — **Reaper** (20 msgs) — `raw/chatgpt/audio/2024-12-07--reaper.md`
+- 2025-02-11 — **Beautiful Melody Request** (13 msgs) — `raw/chatgpt/audio/2025-02-11--beautiful-melody-request.md`
+- 2025-02-14 — **Stable Audio Prompts** (143 msgs) — `raw/chatgpt/audio/2025-02-14--stable-audio-prompts.md`
+- 2025-02-15 — **Bass Station Audio Prompts** (12 msgs) — `raw/chatgpt/audio/2025-02-15--bass-station-audio-prompts.md`
+- 2025-02-15 — **Stable Audio Guide Summary** (7 msgs) — `raw/chatgpt/audio/2025-02-15--stable-audio-guide-summary.md`
+- 2025-02-16 — **Stable Audio Manual Summary** (56 msgs) — `raw/chatgpt/audio/2025-02-16--stable-audio-manual-summary.md`
+- 2025-02-18 — **Dilla Beat Generation** (2 msgs) — `raw/chatgpt/audio/2025-02-18--dilla-beat-generation.md`
+- 2025-03-14 — **Music History Expert Overview** (18 msgs) — `raw/chatgpt/audio/2025-03-14--music-history-expert-overview.md`
+- 2025-08-03 — **Sample search** (615 msgs) — `raw/chatgpt/audio/2025-08-03--sample-search.md`
+- 2025-08-26 — **Agent mode sample ARB - FB** (158 msgs) — `raw/chatgpt/audio/2025-08-26--agent-mode-sample-arb-fb.md`
+- 2025-09-01 — **AT LIVE SHOW/ SAMPLE PACKS** (177 msgs) — `raw/chatgpt/audio/2025-09-01--at-live-show-sample-packs.md`
+- 2025-10-02 — **Daringer whosampled** (15 msgs) — `raw/chatgpt/audio/2025-10-02--daringer-whosampled.md`
+- 2025-10-03 — **REAPER** (12 msgs) — `raw/chatgpt/audio/2025-10-03--reaper.md`
+- 2025-10-04 — **Sample source search** (78 msgs) — `raw/chatgpt/audio/2025-10-04--sample-source-search.md`
+- 2025-10-09 — **AGENT - Reddit sample‑pack** (208 msgs) — `raw/chatgpt/audio/2025-10-09--agent-reddit-sample-pack.md`
+- 2025-10-09 — **New samples - AGENT** (256 msgs) — `raw/chatgpt/audio/2025-10-09--new-samples-agent.md`
+- 2025-11-22 — **Agent mode - sample packs and synths** (75 msgs) — `raw/chatgpt/audio/2025-11-22--agent-mode-sample-packs-and-synths.md`
+- 2025-11-23 — **Build audio sampler** (50 msgs) — `raw/chatgpt/audio/2025-11-23--build-audio-sampler.md`
+- 2025-11-23 — **Tech stack for soft synth** (106 msgs) — `raw/chatgpt/audio/2025-11-23--tech-stack-for-soft-synth.md`
+- 2025-11-24 — **Render sampler UI** (8 msgs) — `raw/chatgpt/audio/2025-11-24--render-sampler-ui.md`
+- 2025-11-24 — **Fixed sampler code** (14 msgs) — `raw/chatgpt/audio/2025-11-24--fixed-sampler-code.md`
+- 2025-11-24 — **Drum sampler frameworks** (44 msgs) — `raw/chatgpt/audio/2025-11-24--drum-sampler-frameworks.md`
+- 2025-11-26 — **Optimize audio sampler prompt** (41 msgs) — `raw/chatgpt/audio/2025-11-26--optimize-audio-sampler-prompt.md`
+- 2025-11-26 — **Build audio sampler#2** (15 msgs) — `raw/chatgpt/audio/2025-11-26--build-audio-sampler-2.md`
+- 2025-11-27 — **Audio software development** (51 msgs) — `raw/chatgpt/audio/2025-11-27--audio-software-development.md`
+- 2025-11-27 — **Battery-style sampler manual images** (20 msgs) — `raw/chatgpt/audio/2025-11-27--battery-style-sampler-manual-images.md`
+- 2025-11-29 — **Codex Audio Sampler Working** (129 msgs) — `raw/chatgpt/audio/2025-11-29--codex-audio-sampler-working.md`
+- 2025-11-30 — **Audio sampler build** (4 msgs) — `raw/chatgpt/audio/2025-11-30--audio-sampler-build.md`
+- 2025-12-02 — **Render audio sampler** (6 msgs) — `raw/chatgpt/audio/2025-12-02--render-audio-sampler.md`
+- 2025-12-02 — **Audio software questions** (20 msgs) — `raw/chatgpt/audio/2025-12-02--audio-software-questions.md`
+- 2025-12-25 — **React Audio App Conversion** (54 msgs) — `raw/chatgpt/audio/2025-12-25--react-audio-app-conversion.md`
+- 2025-12-30 — **Music Player UI Prompt** (29 msgs) — `raw/chatgpt/audio/2025-12-30--music-player-ui-prompt.md`
+- 2026-01-01 — **DJ MIDI Controller UI** (101 msgs) — `raw/chatgpt/audio/2026-01-01--dj-midi-controller-ui.md`
+- 2026-01-05 — **Social Media Image Looping** (2 msgs) — `raw/chatgpt/audio/2026-01-05--social-media-image-looping.md`
+- 2026-01-11 — **LFM2.5-Audio Features** (22 msgs) — `raw/chatgpt/audio/2026-01-11--lfm2-5-audio-features.md`
+- 2026-01-19 — **Audio Frameworks and Plugins** (20 msgs) — `raw/chatgpt/audio/2026-01-19--audio-frameworks-and-plugins.md`
+- 2026-01-22 — **Sampler Architecture Overview** (134 msgs) — `raw/chatgpt/audio/2026-01-22--sampler-architecture-overview.md`
+- 2026-01-29 — **Audio Sampler Creation** (10 msgs) — `raw/chatgpt/audio/2026-01-29--audio-sampler-creation.md`
+- 2026-02-16 — **DOOM Step Mother synth** (26 msgs) — `raw/chatgpt/audio/2026-02-16--doom-step-mother-synth.md`
+- 2026-02-16 — **Stable Audio Remix Tips** (8 msgs) — `raw/chatgpt/audio/2026-02-16--stable-audio-remix-tips.md`
+- 2026-02-16 — **Stable Audio Pipeline** (13 msgs) — `raw/chatgpt/audio/2026-02-16--stable-audio-pipeline.md`
+- 2026-02-17 — **Able Doom Sampler Build** (268 msgs) — `raw/chatgpt/audio/2026-02-17--able-doom-sampler-build.md`
+- 2026-02-25 — **Audio Programming Expertise** (36 msgs) — `raw/chatgpt/audio/2026-02-25--audio-programming-expertise.md`
+- 2026-02-26 — **MIDI Channel Routing Update** (37 msgs) — `raw/chatgpt/audio/2026-02-26--midi-channel-routing-update.md`
+- 2026-02-28 — **Audio Web App Tech Stack** (198 msgs) — `raw/chatgpt/audio/2026-02-28--audio-web-app-tech-stack.md`
+- 2026-02-28 — **Waveform Zoom and Pan** (34 msgs) — `raw/chatgpt/audio/2026-02-28--waveform-zoom-and-pan.md`
+- 2026-02-28 — **Wave Editor Sampler UI** (12 msgs) — `raw/chatgpt/audio/2026-02-28--wave-editor-sampler-ui.md`
+- 2026-03-15 — **Optimizing Audio Synth Prompt** (6 msgs) — `raw/chatgpt/audio/2026-03-15--optimizing-audio-synth-prompt.md`
+- 2026-06-29 — **PDF Audio Converter** (91 msgs) — `raw/chatgpt/audio/2026-06-29--pdf-audio-converter.md`
+- 2026-06-29 — **GPT4 plugins** (12 msgs) — `raw/chatgpt/audio/2026-06-29--gpt4-plugins.md`
+- 2026-06-29 — **Italian Mafia and music theory** (103 msgs) — `raw/chatgpt/audio/2026-06-29--italian-mafia-and-music-theory.md`
+- 2026-06-29 — **Build ChatGPT API Plugin.** (6 msgs) — `raw/chatgpt/audio/2026-06-29--build-chatgpt-api-plugin.md`
+- unknown — **asset:Ableton Move zoom in.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-ableton-move-zoom-in-png.md`
+- unknown — **asset:future cardia snippet.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-future-cardia-snippet-png.md`
+- unknown — **asset:BATTERY 4 Manual 2021.pdf** (null msgs) — `raw/chatgpt/audio/unknown--asset-battery-4-manual-2021-pdf.md`
+- unknown — **asset:stable audio input 2.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-stable-audio-input-2-png.md`
+- unknown — **asset:stable audio input 3.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-stable-audio-input-3-png.md`
+- unknown — **asset:future cardia snippet 2.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-future-cardia-snippet-2-png.md`
+- unknown — **asset:Ableton Move full pic.png** (null msgs) — `raw/chatgpt/audio/unknown--asset-ableton-move-full-pic-png.md`

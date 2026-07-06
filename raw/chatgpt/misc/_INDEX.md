@@ -1,0 +1,449 @@
+# Misc / Uncategorized — raw index
+
+445 conversations, 15565 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-02-22 — **Java** (205 msgs) — `raw/chatgpt/misc/2023-02-22--java.md`
+- 2023-02-22 — **King Crimson Vroom** (49 msgs) — `raw/chatgpt/misc/2023-02-22--king-crimson-vroom.md`
+- 2023-03-14 — **Customize Conversions Tracking.** (21 msgs) — `raw/chatgpt/misc/2023-03-14--customize-conversions-tracking.md`
+- 2023-03-18 — **Datavis Libraries for Coding.** (6 msgs) — `raw/chatgpt/misc/2023-03-18--datavis-libraries-for-coding.md`
+- 2023-03-26 — **Excel Data Management.** (37 msgs) — `raw/chatgpt/misc/2023-03-26--excel-data-management.md`
+- 2023-04-02 — **Parse PDF with Pandas** (8 msgs) — `raw/chatgpt/misc/2023-04-02--parse-pdf-with-pandas.md`
+- 2023-04-06 — **attribute republican** (34 msgs) — `raw/chatgpt/misc/2023-04-06--attribute-republican.md`
+- 2023-04-14 — **Extracting Text from Emails.** (12 msgs) — `raw/chatgpt/misc/2023-04-14--extracting-text-from-emails.md`
+- 2023-04-14 — **Advanced Photoshop Techniques** (4 msgs) — `raw/chatgpt/misc/2023-04-14--advanced-photoshop-techniques.md`
+- 2023-04-16 — **4-17-23** (27 msgs) — `raw/chatgpt/misc/2023-04-16--4-17-23.md`
+- 2023-04-17 — **AI for Web Data Collection.** (31 msgs) — `raw/chatgpt/misc/2023-04-17--ai-for-web-data-collection.md`
+- 2023-04-18 — **opening email 4-18** (6 msgs) — `raw/chatgpt/misc/2023-04-18--opening-email-4-18.md`
+- 2023-04-19 — **Apify actor 4-17** (13 msgs) — `raw/chatgpt/misc/2023-04-19--apify-actor-4-17.md`
+- 2023-04-20 — **Analyze web 4-21** (32 msgs) — `raw/chatgpt/misc/2023-04-20--analyze-web-4-21.md`
+- 2023-04-22 — **SVM retrieval for @gpt_index** (12 msgs) — `raw/chatgpt/misc/2023-04-22--svm-retrieval-for-gpt-index.md`
+- 2023-04-23 — **Software Developer Assistance.** (10 msgs) — `raw/chatgpt/misc/2023-04-23--software-developer-assistance.md`
+- 2023-04-23 — **AutoGPT 4-23** (14 msgs) — `raw/chatgpt/misc/2023-04-23--autogpt-4-23.md`
+- 2023-04-28 — **GSpread and Gensim.** (62 msgs) — `raw/chatgpt/misc/2023-04-28--gspread-and-gensim.md`
+- 2023-04-28 — **Excel Analysis with Gensim** (2 msgs) — `raw/chatgpt/misc/2023-04-28--excel-analysis-with-gensim.md`
+- 2023-04-29 — **Keywords 4-29** (8 msgs) — `raw/chatgpt/misc/2023-04-29--keywords-4-29.md`
+- 2023-04-30 — **Cool Out of Box Chat.** (29 msgs) — `raw/chatgpt/misc/2023-04-30--cool-out-of-box-chat.md`
+- 2023-05-08 — **3x optimized** (66 msgs) — `raw/chatgpt/misc/2023-05-08--3x-optimized.md`
+- 2023-05-10 — **"ChatGPT and Data Visualization"** (6 msgs) — `raw/chatgpt/misc/2023-05-10--chatgpt-and-data-visualization.md`
+- 2023-05-15 — **Markdown_File_5-15** (15 msgs) — `raw/chatgpt/misc/2023-05-15--markdown-file-5-15.md`
+- 2023-05-16 — **AdSense Income Generation Guide** (10 msgs) — `raw/chatgpt/misc/2023-05-16--adsense-income-generation-guide.md`
+- 2023-05-17 — **Keyword Insights_5-17** (2 msgs) — `raw/chatgpt/misc/2023-05-17--keyword-insights-5-17.md`
+- 2023-05-18 — **Flask app enhances text generation.** (2 msgs) — `raw/chatgpt/misc/2023-05-18--flask-app-enhances-text-generation.md`
+- 2023-05-20 — **Google's Keyword Ranking System** (8 msgs) — `raw/chatgpt/misc/2023-05-20--google-s-keyword-ranking-system.md`
+- 2023-05-21 — **Wolfram visualization** (80 msgs) — `raw/chatgpt/misc/2023-05-21--wolfram-visualization.md`
+- 2023-05-22 — **Attribute modeling** (11 msgs) — `raw/chatgpt/misc/2023-05-22--attribute-modeling.md`
+- 2023-05-28 — **Bisection Method for Root-Finding** (21 msgs) — `raw/chatgpt/misc/2023-05-28--bisection-method-for-root-finding.md`
+- 2023-05-29 — **Cognitive Assessment Advances** (6 msgs) — `raw/chatgpt/misc/2023-05-29--cognitive-assessment-advances.md`
+- 2023-05-29 — **Cognitive Skills in Driving** (4 msgs) — `raw/chatgpt/misc/2023-05-29--cognitive-skills-in-driving.md`
+- 2023-06-01 — **6 step AI instructions** (16 msgs) — `raw/chatgpt/misc/2023-06-01--6-step-ai-instructions.md`
+- 2023-06-01 — **8 step** (56 msgs) — `raw/chatgpt/misc/2023-06-01--8-step.md`
+- 2023-06-01 — **eco-Friendly** (6 msgs) — `raw/chatgpt/misc/2023-06-01--eco-friendly.md`
+- 2023-06-02 — **execute these commands** (4 msgs) — `raw/chatgpt/misc/2023-06-02--execute-these-commands.md`
+- 2023-06-04 — **Integromat** (22 msgs) — `raw/chatgpt/misc/2023-06-04--integromat.md`
+- 2023-06-05 — **Dog Training Guide** (9 msgs) — `raw/chatgpt/misc/2023-06-05--dog-training-guide.md`
+- 2023-06-06 — **Tiny House Vacations** (15 msgs) — `raw/chatgpt/misc/2023-06-06--tiny-house-vacations.md`
+- 2023-06-07 — **Electric Microcars** (22 msgs) — `raw/chatgpt/misc/2023-06-07--electric-microcars.md`
+- 2023-06-09 — **Analyze AHREFS Data** (16 msgs) — `raw/chatgpt/misc/2023-06-09--analyze-ahrefs-data.md`
+- 2023-06-10 — **Diagr** (26 msgs) — `raw/chatgpt/misc/2023-06-10--diagr.md`
+- 2023-06-13 — **FB ad library** (6 msgs) — `raw/chatgpt/misc/2023-06-13--fb-ad-library.md`
+- 2023-06-16 — **AskYour_PDF** (8 msgs) — `raw/chatgpt/misc/2023-06-16--askyour-pdf.md`
+- 2023-06-19 — **OpenLLaMA: Open Source Language Model** (16 msgs) — `raw/chatgpt/misc/2023-06-19--openllama-open-source-language-model.md`
+- 2023-06-20 — **AHREFS/Wolfram(Byrdie)** (72 msgs) — `raw/chatgpt/misc/2023-06-20--ahrefs-wolfram-byrdie.md`
+- 2023-06-22 — **web requests - recreate** (16 msgs) — `raw/chatgpt/misc/2023-06-22--web-requests-recreate.md`
+- 2023-06-23 — **Roomba s9+ Reviews & Sites** (4 msgs) — `raw/chatgpt/misc/2023-06-23--roomba-s9-reviews-sites.md`
+- 2023-06-24 — **What would you ask ?** (20 msgs) — `raw/chatgpt/misc/2023-06-24--what-would-you-ask.md`
+- 2023-06-25 — **Analyze Google Sheet Efficiently.** (16 msgs) — `raw/chatgpt/misc/2023-06-25--analyze-google-sheet-efficiently.md`
+- 2023-07-01 — **Using GitHub Pages** (11 msgs) — `raw/chatgpt/misc/2023-07-01--using-github-pages.md`
+- 2023-07-02 — **Replying to Craigslist Listing** (12 msgs) — `raw/chatgpt/misc/2023-07-02--replying-to-craigslist-listing.md`
+- 2023-07-04 — **Wolfram visualization Twitter data** (6 msgs) — `raw/chatgpt/misc/2023-07-04--wolfram-visualization-twitter-data.md`
+- 2023-07-05 — **Automate Cold Emails with Zapier** (6 msgs) — `raw/chatgpt/misc/2023-07-05--automate-cold-emails-with-zapier.md`
+- 2023-07-05 — **Zapier_Outlook_AUTO** (33 msgs) — `raw/chatgpt/misc/2023-07-05--zapier-outlook-auto.md`
+- 2023-07-06 — **Email Collaboration Opportunity** (20 msgs) — `raw/chatgpt/misc/2023-07-06--email-collaboration-opportunity.md`
+- 2023-07-07 — **Email Zapier Outlook Automation** (9 msgs) — `raw/chatgpt/misc/2023-07-07--email-zapier-outlook-automation.md`
+- 2023-07-07 — **Follow Up Request** (22 msgs) — `raw/chatgpt/misc/2023-07-07--follow-up-request.md`
+- 2023-07-09 — **Code_Interpreter** (107 msgs) — `raw/chatgpt/misc/2023-07-09--code-interpreter.md`
+- 2023-07-12 — **Room Inquiry and Details** (10 msgs) — `raw/chatgpt/misc/2023-07-12--room-inquiry-and-details.md`
+- 2023-07-12 — **Twitter_CSV_codeInt** (38 msgs) — `raw/chatgpt/misc/2023-07-12--twitter-csv-codeint.md`
+- 2023-07-18 — **Product Review Search** (29 msgs) — `raw/chatgpt/misc/2023-07-18--product-review-search.md`
+- 2023-07-19 — **Content Extraction from URL** (10 msgs) — `raw/chatgpt/misc/2023-07-19--content-extraction-from-url.md`
+- 2023-07-21 — **Zap auto email / emoji** (17 msgs) — `raw/chatgpt/misc/2023-07-21--zap-auto-email-emoji.md`
+- 2023-07-23 — **Jesse video** (14 msgs) — `raw/chatgpt/misc/2023-07-23--jesse-video.md`
+- 2023-07-23 — **Stun Gun Blog Ideas.** (14 msgs) — `raw/chatgpt/misc/2023-07-23--stun-gun-blog-ideas.md`
+- 2023-07-24 — **Power of Questions.** (10 msgs) — `raw/chatgpt/misc/2023-07-24--power-of-questions.md`
+- 2023-07-24 — **CI - Keyword Visualizations** (27 msgs) — `raw/chatgpt/misc/2023-07-24--ci-keyword-visualizations.md`
+- 2023-08-02 — **CSV File Assistance** (12 msgs) — `raw/chatgpt/misc/2023-08-02--csv-file-assistance.md`
+- 2023-08-10 — **CSV Data Assistance** (20 msgs) — `raw/chatgpt/misc/2023-08-10--csv-data-assistance.md`
+- 2023-08-11 — **Collaboration Opportunity with Expert** (8 msgs) — `raw/chatgpt/misc/2023-08-11--collaboration-opportunity-with-expert.md`
+- 2023-08-12 — **Visualizing Traffic Data** (200 msgs) — `raw/chatgpt/misc/2023-08-12--visualizing-traffic-data.md`
+- 2023-08-24 — **Create Blog Site & Analyze Competitor** (6 msgs) — `raw/chatgpt/misc/2023-08-24--create-blog-site-analyze-competitor.md`
+- 2023-09-02 — **Cubase Pro 12 Tips** (76 msgs) — `raw/chatgpt/misc/2023-09-02--cubase-pro-12-tips.md`
+- 2023-09-18 — **Data Criteria for Segmentation** (29 msgs) — `raw/chatgpt/misc/2023-09-18--data-criteria-for-segmentation.md`
+- 2023-09-19 — **Utilize PACER Effectively** (2 msgs) — `raw/chatgpt/misc/2023-09-19--utilize-pacer-effectively.md`
+- 2023-09-29 — **LinkedIn BIO message** (42 msgs) — `raw/chatgpt/misc/2023-09-29--linkedin-bio-message.md`
+- 2023-10-13 — **Run Random Forest Model** (54 msgs) — `raw/chatgpt/misc/2023-10-13--run-random-forest-model.md`
+- 2023-10-14 — **CL email** (38 msgs) — `raw/chatgpt/misc/2023-10-14--cl-email.md`
+- 2023-10-16 — **Dall-E images** (8 msgs) — `raw/chatgpt/misc/2023-10-16--dall-e-images.md`
+- 2023-10-17 — **Stacking in Machine Learning** (20 msgs) — `raw/chatgpt/misc/2023-10-17--stacking-in-machine-learning.md`
+- 2023-10-18 — **LSTM model** (71 msgs) — `raw/chatgpt/misc/2023-10-18--lstm-model.md`
+- 2023-10-21 — **Google My Business Listings** (4 msgs) — `raw/chatgpt/misc/2023-10-21--google-my-business-listings.md`
+- 2023-10-21 — **Create Data Table: Broward County** (2 msgs) — `raw/chatgpt/misc/2023-10-21--create-data-table-broward-county.md`
+- 2023-10-27 — **Apollo custom emails** (61 msgs) — `raw/chatgpt/misc/2023-10-27--apollo-custom-emails.md`
+- 2023-10-30 — **CapCut** (10 msgs) — `raw/chatgpt/misc/2023-10-30--capcut.md`
+- 2023-10-31 — **2nd response email ZAP** (47 msgs) — `raw/chatgpt/misc/2023-10-31--2nd-response-email-zap.md`
+- 2023-11-01 — **NY times clean URLs** (20 msgs) — `raw/chatgpt/misc/2023-11-01--ny-times-clean-urls.md`
+- 2023-11-05 — **Circle of Fifths Diagram** (112 msgs) — `raw/chatgpt/misc/2023-11-05--circle-of-fifths-diagram.md`
+- 2023-11-25 — **Consonant Intervals Circle of Fifths** (7 msgs) — `raw/chatgpt/misc/2023-11-25--consonant-intervals-circle-of-fifths.md`
+- 2023-11-27 — **Unsolved Tech Problems** (2 msgs) — `raw/chatgpt/misc/2023-11-27--unsolved-tech-problems.md`
+- 2023-12-02 — **Ennio album cover** (12 msgs) — `raw/chatgpt/misc/2023-12-02--ennio-album-cover.md`
+- 2023-12-06 — **Henna Peace Sign Illustration** (16 msgs) — `raw/chatgpt/misc/2023-12-06--henna-peace-sign-illustration.md`
+- 2023-12-06 — **Model Training and Abilities** (6 msgs) — `raw/chatgpt/misc/2023-12-06--model-training-and-abilities.md`
+- 2023-12-07 — **Vintage Movie Posters Collage** (15 msgs) — `raw/chatgpt/misc/2023-12-07--vintage-movie-posters-collage.md`
+- 2023-12-07 — **Vintage Movie Poster Collage** (3 msgs) — `raw/chatgpt/misc/2023-12-07--vintage-movie-poster-collage.md`
+- 2023-12-11 — **Data Analysis Training Process** (4 msgs) — `raw/chatgpt/misc/2023-12-11--data-analysis-training-process.md`
+- 2023-12-16 — **Multiple Businesses in Florida** (14 msgs) — `raw/chatgpt/misc/2023-12-16--multiple-businesses-in-florida.md`
+- 2023-12-16 — **Data analysis PDF** (6 msgs) — `raw/chatgpt/misc/2023-12-16--data-analysis-pdf.md`
+- 2023-12-16 — **Quant Coding Guidelines** (6 msgs) — `raw/chatgpt/misc/2023-12-16--quant-coding-guidelines.md`
+- 2023-12-20 — **Abstract Image Analysis** (36 msgs) — `raw/chatgpt/misc/2023-12-20--abstract-image-analysis.md`
+- 2023-12-24 — **Camelot Wheel Key Reference** (31 msgs) — `raw/chatgpt/misc/2023-12-24--camelot-wheel-key-reference.md`
+- 2024-01-05 — **CO2 Data Visualization Tips** (32 msgs) — `raw/chatgpt/misc/2024-01-05--co2-data-visualization-tips.md`
+- 2024-01-05 — **resume** (6 msgs) — `raw/chatgpt/misc/2024-01-05--resume.md`
+- 2024-01-08 — **20-Week EMA Data Request** (12 msgs) — `raw/chatgpt/misc/2024-01-08--20-week-ema-data-request.md`
+- 2024-01-19 — **Simply the Best - objections** (68 msgs) — `raw/chatgpt/misc/2024-01-19--simply-the-best-objections.md`
+- 2024-01-27 — **Vibraphone Track in Roy Ayers Style** (4 msgs) — `raw/chatgpt/misc/2024-01-27--vibraphone-track-in-roy-ayers-style.md`
+- 2024-01-29 — **Email King** (6 msgs) — `raw/chatgpt/misc/2024-01-29--email-king.md`
+- 2024-02-02 — **webRequests** (28 msgs) — `raw/chatgpt/misc/2024-02-02--webrequests.md`
+- 2024-02-08 — **Presentation Slide Creation.** (6 msgs) — `raw/chatgpt/misc/2024-02-08--presentation-slide-creation.md`
+- 2024-02-09 — **Google Slides** (6 msgs) — `raw/chatgpt/misc/2024-02-09--google-slides.md`
+- 2024-02-10 — **Electric Guitar: High-Quality Recording** (28 msgs) — `raw/chatgpt/misc/2024-02-10--electric-guitar-high-quality-recording.md`
+- 2024-02-14 — **SPY and QQQ Analysis** (13 msgs) — `raw/chatgpt/misc/2024-02-14--spy-and-qqq-analysis.md`
+- 2024-02-20 — **Dollar's impact on bonds** (22 msgs) — `raw/chatgpt/misc/2024-02-20--dollar-s-impact-on-bonds.md`
+- 2024-02-21 — **Economic Events Access Challenge** (14 msgs) — `raw/chatgpt/misc/2024-02-21--economic-events-access-challenge.md`
+- 2024-02-27 — **AI Lawyer** (8 msgs) — `raw/chatgpt/misc/2024-02-27--ai-lawyer.md`
+- 2024-03-04 — **(untitled)** (2 msgs) — `raw/chatgpt/misc/2024-03-04--untitled.md`
+- 2024-04-01 — **AI Chatbot Workflow Analysis** (12 msgs) — `raw/chatgpt/misc/2024-04-01--ai-chatbot-workflow-analysis.md`
+- 2024-04-13 — **Email Drip Sequence Strategy** (31 msgs) — `raw/chatgpt/misc/2024-04-13--email-drip-sequence-strategy.md`
+- 2024-04-15 — **Enhanced Digital Presence Strategy** (10 msgs) — `raw/chatgpt/misc/2024-04-15--enhanced-digital-presence-strategy.md`
+- 2024-04-19 — **Graph Data Requested.** (19 msgs) — `raw/chatgpt/misc/2024-04-19--graph-data-requested.md`
+- 2024-04-23 — **Account Management SOPs** (4 msgs) — `raw/chatgpt/misc/2024-04-23--account-management-sops.md`
+- 2024-04-24 — **Diagram Appt.** (51 msgs) — `raw/chatgpt/misc/2024-04-24--diagram-appt.md`
+- 2024-04-26 — **Beautiful Jazz Fusion Composition** (65 msgs) — `raw/chatgpt/misc/2024-04-26--beautiful-jazz-fusion-composition.md`
+- 2024-05-14 — **Automate PDF Invoice Filling.** (6 msgs) — `raw/chatgpt/misc/2024-05-14--automate-pdf-invoice-filling.md`
+- 2024-05-14 — **Voice/Style/Tone Generator** (2 msgs) — `raw/chatgpt/misc/2024-05-14--voice-style-tone-generator.md`
+- 2024-06-18 — **Help with problem frameworks** (6 msgs) — `raw/chatgpt/misc/2024-06-18--help-with-problem-frameworks.md`
+- 2024-06-30 — **Bernoulli's Logarithmic Insight** (26 msgs) — `raw/chatgpt/misc/2024-06-30--bernoulli-s-logarithmic-insight.md`
+- 2024-07-01 — **S&P 500 Mixed Outlook** (40 msgs) — `raw/chatgpt/misc/2024-07-01--s-p-500-mixed-outlook.md`
+- 2024-07-03 — **FOMC MINUTES** (10 msgs) — `raw/chatgpt/misc/2024-07-03--fomc-minutes.md`
+- 2024-07-10 — **Parse CSV for YouTube links.** (14 msgs) — `raw/chatgpt/misc/2024-07-10--parse-csv-for-youtube-links.md`
+- 2024-07-10 — **Downloadable Song List Request** (5 msgs) — `raw/chatgpt/misc/2024-07-10--downloadable-song-list-request.md`
+- 2024-07-19 — **TOS NEWS week of 7-21** (124 msgs) — `raw/chatgpt/misc/2024-07-19--tos-news-week-of-7-21.md`
+- 2024-07-21 — **Top Authors of 2000s** (26 msgs) — `raw/chatgpt/misc/2024-07-21--top-authors-of-2000s.md`
+- 2024-08-08 — **TLT Price Movement Analysis** (33 msgs) — `raw/chatgpt/misc/2024-08-08--tlt-price-movement-analysis.md`
+- 2024-08-10 — **Introduction to Game Theory** (14 msgs) — `raw/chatgpt/misc/2024-08-10--introduction-to-game-theory.md`
+- 2024-08-12 — **Florida Population Inquiry** (8 msgs) — `raw/chatgpt/misc/2024-08-12--florida-population-inquiry.md`
+- 2024-08-15 — **S&P 500 Rally Analysis** (12 msgs) — `raw/chatgpt/misc/2024-08-15--s-p-500-rally-analysis.md`
+- 2024-08-21 — **NFP Revisions Impact Analysis** (12 msgs) — `raw/chatgpt/misc/2024-08-21--nfp-revisions-impact-analysis.md`
+- 2024-08-30 — **Underrated Movie Recommendation** (50 msgs) — `raw/chatgpt/misc/2024-08-30--underrated-movie-recommendation.md`
+- 2024-09-09 — **Resume Sales Tailoring** (18 msgs) — `raw/chatgpt/misc/2024-09-09--resume-sales-tailoring.md`
+- 2024-09-18 — **SPY and QQQ Short-term Analysis** (14 msgs) — `raw/chatgpt/misc/2024-09-18--spy-and-qqq-short-term-analysis.md`
+- 2024-09-18 — **FOMC Rate Decision Impact** (6 msgs) — `raw/chatgpt/misc/2024-09-18--fomc-rate-decision-impact.md`
+- 2024-10-02 — **Finding New Businesses Boca Raton** (2 msgs) — `raw/chatgpt/misc/2024-10-02--finding-new-businesses-boca-raton.md`
+- 2024-10-02 — **Posting Schedule Impact** (2 msgs) — `raw/chatgpt/misc/2024-10-02--posting-schedule-impact.md`
+- 2024-10-12 — **Lyric Analysis and Interpretation** (8 msgs) — `raw/chatgpt/misc/2024-10-12--lyric-analysis-and-interpretation.md`
+- 2024-10-30 — **Audience Profile for Renovations** (9 msgs) — `raw/chatgpt/misc/2024-10-30--audience-profile-for-renovations.md`
+- 2024-10-30 — **BuildZoom Overview** (6 msgs) — `raw/chatgpt/misc/2024-10-30--buildzoom-overview.md`
+- 2024-11-04 — **Accounting Services Specialization** (2 msgs) — `raw/chatgpt/misc/2024-11-04--accounting-services-specialization.md`
+- 2024-11-05 — **Wealth Management Business Overview** (2 msgs) — `raw/chatgpt/misc/2024-11-05--wealth-management-business-overview.md`
+- 2024-11-13 — **Business Consulting Text Strategy** (10 msgs) — `raw/chatgpt/misc/2024-11-13--business-consulting-text-strategy.md`
+- 2024-11-23 — **AI Movie Recommendations** (16 msgs) — `raw/chatgpt/misc/2024-11-23--ai-movie-recommendations.md`
+- 2024-12-02 — **Audience Building Strategy** (4 msgs) — `raw/chatgpt/misc/2024-12-02--audience-building-strategy.md`
+- 2024-12-04 — **Image Analysis Breakdown** (31 msgs) — `raw/chatgpt/misc/2024-12-04--image-analysis-breakdown.md`
+- 2024-12-09 — **CSV conversion - SUPRISE, AZ** (68 msgs) — `raw/chatgpt/misc/2024-12-09--csv-conversion-suprise-az.md`
+- 2024-12-12 — **Subscriber OPT-IN Laws** (16 msgs) — `raw/chatgpt/misc/2024-12-12--subscriber-opt-in-laws.md`
+- 2024-12-17 — **PHONE NUMBER LOOKUP** (2 msgs) — `raw/chatgpt/misc/2024-12-17--phone-number-lookup.md`
+- 2024-12-24 — **BandLab Platform Overview** (6 msgs) — `raw/chatgpt/misc/2024-12-24--bandlab-platform-overview.md`
+- 2024-12-26 — **Ableton MOVE** (120 msgs) — `raw/chatgpt/misc/2024-12-26--ableton-move.md`
+- 2025-01-03 — **Craigslist ad - BeeSearchable** (38 msgs) — `raw/chatgpt/misc/2025-01-03--craigslist-ad-beesearchable.md`
+- 2025-01-05 — **Create LLC in Florida** (4 msgs) — `raw/chatgpt/misc/2025-01-05--create-llc-in-florida.md`
+- 2025-01-07 — **Creating DocuSign Template** (2 msgs) — `raw/chatgpt/misc/2025-01-07--creating-docusign-template.md`
+- 2025-01-07 — **DATA ENRICHMENT SERVICES** (65 msgs) — `raw/chatgpt/misc/2025-01-07--data-enrichment-services.md`
+- 2025-01-08 — **Data Structuring Request** (56 msgs) — `raw/chatgpt/misc/2025-01-08--data-structuring-request.md`
+- 2025-01-08 — **California BIZ data** (8 msgs) — `raw/chatgpt/misc/2025-01-08--california-biz-data.md`
+- 2025-01-11 — **Create similar image** (11 msgs) — `raw/chatgpt/misc/2025-01-11--create-similar-image.md`
+- 2025-01-12 — **DOC Invoice - Bee Searchable** (36 msgs) — `raw/chatgpt/misc/2025-01-12--doc-invoice-bee-searchable.md`
+- 2025-01-12 — **Invoice Formatting Review** (6 msgs) — `raw/chatgpt/misc/2025-01-12--invoice-formatting-review.md`
+- 2025-01-14 — **network solutions email set up** (28 msgs) — `raw/chatgpt/misc/2025-01-14--network-solutions-email-set-up.md`
+- 2025-01-18 — **Scalable DM Agency Ideas** (2 msgs) — `raw/chatgpt/misc/2025-01-18--scalable-dm-agency-ideas.md`
+- 2025-01-19 — **clean_restrucrure_california_biz_data** (12 msgs) — `raw/chatgpt/misc/2025-01-19--clean-restrucrure-california-biz-data.md`
+- 2025-01-22 — **Initial DOS Filing Date Explanation** (46 msgs) — `raw/chatgpt/misc/2025-01-22--initial-dos-filing-date-explanation.md`
+- 2025-01-23 — **Plumbing Companies CSV** (4 msgs) — `raw/chatgpt/misc/2025-01-23--plumbing-companies-csv.md`
+- 2025-01-29 — **New chat** (1 msgs) — `raw/chatgpt/misc/2025-01-29--new-chat.md`
+- 2025-01-30 — **Target Audience and Keywords** (16 msgs) — `raw/chatgpt/misc/2025-01-30--target-audience-and-keywords.md`
+- 2025-02-04 — **business tax records search** (8 msgs) — `raw/chatgpt/misc/2025-02-04--business-tax-records-search.md`
+- 2025-02-08 — **Types of Diagrams** (26 msgs) — `raw/chatgpt/misc/2025-02-08--types-of-diagrams.md`
+- 2025-02-09 — **Broward county tax collector clean** (6 msgs) — `raw/chatgpt/misc/2025-02-09--broward-county-tax-collector-clean.md`
+- 2025-02-09 — **Setting Up Payment Link** (2 msgs) — `raw/chatgpt/misc/2025-02-09--setting-up-payment-link.md`
+- 2025-02-10 — **Data Cleaning and Structuring** (11 msgs) — `raw/chatgpt/misc/2025-02-10--data-cleaning-and-structuring.md`
+- 2025-02-12 — **ReScale SORA video** (4 msgs) — `raw/chatgpt/misc/2025-02-12--rescale-sora-video.md`
+- 2025-02-13 — **Data Structuring Request#2** (16 msgs) — `raw/chatgpt/misc/2025-02-13--data-structuring-request-2.md`
+- 2025-02-14 — **Jaco Pastorius Bass Solo** (22 msgs) — `raw/chatgpt/misc/2025-02-14--jaco-pastorius-bass-solo.md`
+- 2025-02-19 — **Diagrams** (8 msgs) — `raw/chatgpt/misc/2025-02-19--diagrams.md`
+- 2025-02-19 — **Image style creation** (21 msgs) — `raw/chatgpt/misc/2025-02-19--image-style-creation.md`
+- 2025-02-26 — **YouTube Channel Setup Guide** (5 msgs) — `raw/chatgpt/misc/2025-02-26--youtube-channel-setup-guide.md`
+- 2025-03-14 — **Historical Figures Overview** (8 msgs) — `raw/chatgpt/misc/2025-03-14--historical-figures-overview.md`
+- 2025-03-18 — **LinkedIn Professional Role** (141 msgs) — `raw/chatgpt/misc/2025-03-18--linkedin-professional-role.md`
+- 2025-03-18 — **LinkedIn Sales Navigator Manual** (70 msgs) — `raw/chatgpt/misc/2025-03-18--linkedin-sales-navigator-manual.md`
+- 2025-03-19 — **Google Screened for Surgeons** (6 msgs) — `raw/chatgpt/misc/2025-03-19--google-screened-for-surgeons.md`
+- 2025-03-25 — **Origin of Black Holes** (5 msgs) — `raw/chatgpt/misc/2025-03-25--origin-of-black-holes.md`
+- 2025-03-27 — **Sales Navigator Features Overview** (39 msgs) — `raw/chatgpt/misc/2025-03-27--sales-navigator-features-overview.md`
+- 2025-03-31 — **Water Damage Restoration CSV** (5 msgs) — `raw/chatgpt/misc/2025-03-31--water-damage-restoration-csv.md`
+- 2025-03-31 — **Effective Social Media Content** (5 msgs) — `raw/chatgpt/misc/2025-03-31--effective-social-media-content.md`
+- 2025-04-02 — **eCommerce Site Upgrade Plan** (2 msgs) — `raw/chatgpt/misc/2025-04-02--ecommerce-site-upgrade-plan.md`
+- 2025-04-16 — **LinkedIn Message Optimization** (34 msgs) — `raw/chatgpt/misc/2025-04-16--linkedin-message-optimization.md`
+- 2025-04-16 — **Advanced Social Media Package** (4 msgs) — `raw/chatgpt/misc/2025-04-16--advanced-social-media-package.md`
+- 2025-04-28 — **Text Message Expert Advice** (12 msgs) — `raw/chatgpt/misc/2025-04-28--text-message-expert-advice.md`
+- 2025-05-02 — **Names List Extraction** (10 msgs) — `raw/chatgpt/misc/2025-05-02--names-list-extraction.md`
+- 2025-05-05 — **Garage Door Services CSV** (2 msgs) — `raw/chatgpt/misc/2025-05-05--garage-door-services-csv.md`
+- 2025-05-05 — **National Small Business Week Event** (14 msgs) — `raw/chatgpt/misc/2025-05-05--national-small-business-week-event.md`
+- 2025-05-06 — **Apex Drone Clean** (8 msgs) — `raw/chatgpt/misc/2025-05-06--apex-drone-clean.md`
+- 2025-05-12 — **Target Audience Construction Business** (10 msgs) — `raw/chatgpt/misc/2025-05-12--target-audience-construction-business.md`
+- 2025-05-12 — **Target Audience Profile** (5 msgs) — `raw/chatgpt/misc/2025-05-12--target-audience-profile.md`
+- 2025-05-14 — **Adam LinkedIn connections** (2 msgs) — `raw/chatgpt/misc/2025-05-14--adam-linkedin-connections.md`
+- 2025-05-17 — **Odds Analysis and Picks** (40 msgs) — `raw/chatgpt/misc/2025-05-17--odds-analysis-and-picks.md`
+- 2025-05-17 — **Sports Betting Data Analysis** (2 msgs) — `raw/chatgpt/misc/2025-05-17--sports-betting-data-analysis.md`
+- 2025-05-17 — **BASEBALL PICK MODEL** (146 msgs) — `raw/chatgpt/misc/2025-05-17--baseball-pick-model.md`
+- 2025-05-19 — **Local Ads and Google Guarantee** (17 msgs) — `raw/chatgpt/misc/2025-05-19--local-ads-and-google-guarantee.md`
+- 2025-05-24 — **The Next Conversation** (28 msgs) — `raw/chatgpt/misc/2025-05-24--the-next-conversation.md`
+- 2025-05-25 — **Tennis Parlay Bet Analysis** (5 msgs) — `raw/chatgpt/misc/2025-05-25--tennis-parlay-bet-analysis.md`
+- 2025-05-25 — **Tennis Parlay Bet Analysis#2** (75 msgs) — `raw/chatgpt/misc/2025-05-25--tennis-parlay-bet-analysis-2.md`
+- 2025-05-26 — **French Open Match Details** (6 msgs) — `raw/chatgpt/misc/2025-05-26--french-open-match-details.md`
+- 2025-05-27 — **Baseball Betting Model Guide** (10 msgs) — `raw/chatgpt/misc/2025-05-27--baseball-betting-model-guide.md`
+- 2025-05-28 — **LinkedIn Med Spa Contacts** (6 msgs) — `raw/chatgpt/misc/2025-05-28--linkedin-med-spa-contacts.md`
+- 2025-05-28 — **LinkedIn Med Spa Data** (9 msgs) — `raw/chatgpt/misc/2025-05-28--linkedin-med-spa-data.md`
+- 2025-05-29 — **Image Creation Request** (2 msgs) — `raw/chatgpt/misc/2025-05-29--image-creation-request.md`
+- 2025-06-01 — **Sports Betting Picks 6/1** (4 msgs) — `raw/chatgpt/misc/2025-06-01--sports-betting-picks-6-1.md`
+- 2025-06-01 — **Tennis Betting Analysis Guide** (2 msgs) — `raw/chatgpt/misc/2025-06-01--tennis-betting-analysis-guide.md`
+- 2025-06-01 — **Tennis Match Analysis** (4 msgs) — `raw/chatgpt/misc/2025-06-01--tennis-match-analysis.md`
+- 2025-06-01 — **Tennis Betting Analysis** (6 msgs) — `raw/chatgpt/misc/2025-06-01--tennis-betting-analysis.md`
+- 2025-06-03 — **another model 6-29** (34 msgs) — `raw/chatgpt/misc/2025-06-03--another-model-6-29.md`
+- 2025-06-03 — **DEEP DIVE - Model Tennis 7-1** (221 msgs) — `raw/chatgpt/misc/2025-06-03--deep-dive-model-tennis-7-1.md`
+- 2025-06-03 — **Gemini Model - SD @ SF** (168 msgs) — `raw/chatgpt/misc/2025-06-03--gemini-model-sd-sf.md`
+- 2025-06-03 — **Baseball Betting Model Analysis** (31 msgs) — `raw/chatgpt/misc/2025-06-03--baseball-betting-model-analysis.md`
+- 2025-06-03 — **Baseball Betting Analysis Process** (107 msgs) — `raw/chatgpt/misc/2025-06-03--baseball-betting-analysis-process.md`
+- 2025-06-03 — **Custom Odds - Model 7-3** (218 msgs) — `raw/chatgpt/misc/2025-06-03--custom-odds-model-7-3.md`
+- 2025-06-04 — **Baseball Betting Model Analysis#2** (4 msgs) — `raw/chatgpt/misc/2025-06-04--baseball-betting-model-analysis-2.md`
+- 2025-06-04 — **In depth Model** (160 msgs) — `raw/chatgpt/misc/2025-06-04--in-depth-model.md`
+- 2025-06-04 — **HOU vs PIT Preview 6-29** (155 msgs) — `raw/chatgpt/misc/2025-06-04--hou-vs-pit-preview-6-29.md`
+- 2025-06-07 — **Training data response only** (49 msgs) — `raw/chatgpt/misc/2025-06-07--training-data-response-only.md`
+- 2025-06-07 — **Baseball Handicapping Pipeline** (25 msgs) — `raw/chatgpt/misc/2025-06-07--baseball-handicapping-pipeline.md`
+- 2025-06-08 — **Tennis Betting Model Analysis** (5 msgs) — `raw/chatgpt/misc/2025-06-08--tennis-betting-model-analysis.md`
+- 2025-06-12 — **New Model 6-29** (173 msgs) — `raw/chatgpt/misc/2025-06-12--new-model-6-29.md`
+- 2025-06-13 — **MLB Betting Analysis Model** (18 msgs) — `raw/chatgpt/misc/2025-06-13--mlb-betting-analysis-model.md`
+- 2025-06-13 — **MLB Game Analysis Request** (72 msgs) — `raw/chatgpt/misc/2025-06-13--mlb-game-analysis-request.md`
+- 2025-06-13 — **MLB Betting Analysis** (148 msgs) — `raw/chatgpt/misc/2025-06-13--mlb-betting-analysis.md`
+- 2025-06-15 — **Sports Betting Model Guide** (9 msgs) — `raw/chatgpt/misc/2025-06-15--sports-betting-model-guide.md`
+- 2025-06-16 — **OUTSIDE THE BOX 6-29** (231 msgs) — `raw/chatgpt/misc/2025-06-16--outside-the-box-6-29.md`
+- 2025-06-18 — **CLAY** (269 msgs) — `raw/chatgpt/misc/2025-06-18--clay.md`
+- 2025-06-25 — **Clay Enrichment Assistance** (8 msgs) — `raw/chatgpt/misc/2025-06-25--clay-enrichment-assistance.md`
+- 2025-06-25 — **Clay Expert Assistance** (10 msgs) — `raw/chatgpt/misc/2025-06-25--clay-expert-assistance.md`
+- 2025-06-25 — **CLay Magic / find DATA** (95 msgs) — `raw/chatgpt/misc/2025-06-25--clay-magic-find-data.md`
+- 2025-06-28 — **Basketball under** (224 msgs) — `raw/chatgpt/misc/2025-06-28--basketball-under.md`
+- 2025-06-29 — **Betting Edge Analysis** (16 msgs) — `raw/chatgpt/misc/2025-06-29--betting-edge-analysis.md`
+- 2025-06-29 — **Cubs 7-3** (107 msgs) — `raw/chatgpt/misc/2025-06-29--cubs-7-3.md`
+- 2025-06-29 — **A's vs Yankees Analysis** (8 msgs) — `raw/chatgpt/misc/2025-06-29--a-s-vs-yankees-analysis.md`
+- 2025-06-29 — **MLB Betting Analysis Frameworks** (27 msgs) — `raw/chatgpt/misc/2025-06-29--mlb-betting-analysis-frameworks.md`
+- 2025-06-29 — **MLB Game Analysis Frameworks** (27 msgs) — `raw/chatgpt/misc/2025-06-29--mlb-game-analysis-frameworks.md`
+- 2025-06-29 — **Mets vs Pirates Analysis** (142 msgs) — `raw/chatgpt/misc/2025-06-29--mets-vs-pirates-analysis.md`
+- 2025-06-29 — **Blue jays consensus** (85 msgs) — `raw/chatgpt/misc/2025-06-29--blue-jays-consensus.md`
+- 2025-06-30 — **MLB Bet Analysis** (15 msgs) — `raw/chatgpt/misc/2025-06-30--mlb-bet-analysis.md`
+- 2025-07-01 — **Predictive Model Game Winner** (8 msgs) — `raw/chatgpt/misc/2025-07-01--predictive-model-game-winner.md`
+- 2025-07-01 — **Fritz vs Mpetshi Perricard Analysis** (55 msgs) — `raw/chatgpt/misc/2025-07-01--fritz-vs-mpetshi-perricard-analysis.md`
+- 2025-07-01 — **New Business Journey** (63 msgs) — `raw/chatgpt/misc/2025-07-01--new-business-journey.md`
+- 2025-07-01 — **Online Product Opportunities** (2 msgs) — `raw/chatgpt/misc/2025-07-01--online-product-opportunities.md`
+- 2025-07-02 — **Major US Cities** (14 msgs) — `raw/chatgpt/misc/2025-07-02--major-us-cities.md`
+- 2025-07-03 — **Setting up Conversational AI** (49 msgs) — `raw/chatgpt/misc/2025-07-03--setting-up-conversational-ai.md`
+- 2025-07-06 — **Predictive Betting Data Sources** (28 msgs) — `raw/chatgpt/misc/2025-07-06--predictive-betting-data-sources.md`
+- 2025-07-09 — **Sinner vs Shelton Analysis** (334 msgs) — `raw/chatgpt/misc/2025-07-09--sinner-vs-shelton-analysis.md`
+- 2025-07-10 — **Text Message Expert** (104 msgs) — `raw/chatgpt/misc/2025-07-10--text-message-expert.md`
+- 2025-07-12 — **Effective Web Search Methods** (14 msgs) — `raw/chatgpt/misc/2025-07-12--effective-web-search-methods.md`
+- 2025-07-14 — **Sports Betting Analysis Criteria** (36 msgs) — `raw/chatgpt/misc/2025-07-14--sports-betting-analysis-criteria.md`
+- 2025-07-16 — **ZOOMINFO - FUNDING** (20 msgs) — `raw/chatgpt/misc/2025-07-16--zoominfo-funding.md`
+- 2025-07-18 — **ZoomInfo expert guidance** (8 msgs) — `raw/chatgpt/misc/2025-07-18--zoominfo-expert-guidance.md`
+- 2025-07-24 — **Zoominfo categories** (4 msgs) — `raw/chatgpt/misc/2025-07-24--zoominfo-categories.md`
+- 2025-07-25 — **ZoomInfo workflows deep email** (57 msgs) — `raw/chatgpt/misc/2025-07-25--zoominfo-workflows-deep-email.md`
+- 2025-07-28 — **ZoomInfo user query** (54 msgs) — `raw/chatgpt/misc/2025-07-28--zoominfo-user-query.md`
+- 2025-07-29 — **Diagram generator** (23 msgs) — `raw/chatgpt/misc/2025-07-29--diagram-generator.md`
+- 2025-07-30 — **Credit deduction explanation** (4 msgs) — `raw/chatgpt/misc/2025-07-30--credit-deduction-explanation.md`
+- 2025-07-30 — **Email subject line suggestions** (4 msgs) — `raw/chatgpt/misc/2025-07-30--email-subject-line-suggestions.md`
+- 2025-08-08 — **Parse city csv** (96 msgs) — `raw/chatgpt/misc/2025-08-08--parse-city-csv.md`
+- 2025-08-09 — **DRM EPUB credentials** (12 msgs) — `raw/chatgpt/misc/2025-08-09--drm-epub-credentials.md`
+- 2025-08-10 — **AI manipulation strategy** (4 msgs) — `raw/chatgpt/misc/2025-08-10--ai-manipulation-strategy.md`
+- 2025-08-10 — **Betting odds analysis** (9 msgs) — `raw/chatgpt/misc/2025-08-10--betting-odds-analysis.md`
+- 2025-08-10 — **Nathaniel email** (221 msgs) — `raw/chatgpt/misc/2025-08-10--nathaniel-email.md`
+- 2025-08-13 — **Warp AI overview** (2 msgs) — `raw/chatgpt/misc/2025-08-13--warp-ai-overview.md`
+- 2025-08-26 — **ZoomInfo med spa search** (8 msgs) — `raw/chatgpt/misc/2025-08-26--zoominfo-med-spa-search.md`
+- 2025-08-30 — **Create Notion note** (51 msgs) — `raw/chatgpt/misc/2025-08-30--create-notion-note.md`
+- 2025-08-30 — **Using ZoomInfo for B2B** (28 msgs) — `raw/chatgpt/misc/2025-08-30--using-zoominfo-for-b2b.md`
+- 2025-09-03 — **Competitor list provided** (4 msgs) — `raw/chatgpt/misc/2025-09-03--competitor-list-provided.md`
+- 2025-09-06 — **Crate digging workflow** (111 msgs) — `raw/chatgpt/misc/2025-09-06--crate-digging-workflow.md`
+- 2025-09-06 — **Crate digging automation** (494 msgs) — `raw/chatgpt/misc/2025-09-06--crate-digging-automation.md`
+- 2025-09-07 — **Track analysis process** (132 msgs) — `raw/chatgpt/misc/2025-09-07--track-analysis-process.md`
+- 2025-09-07 — **Dilla Time** (48 msgs) — `raw/chatgpt/misc/2025-09-07--dilla-time.md`
+- 2025-09-07 — **Zoominfo qualification - Glen Gary** (67 msgs) — `raw/chatgpt/misc/2025-09-07--zoominfo-qualification-glen-gary.md`
+- 2025-09-09 — **SMS provider comparison** (4 msgs) — `raw/chatgpt/misc/2025-09-09--sms-provider-comparison.md`
+- 2025-09-22 — **MSA Nexcore / Invoice 12-19-25** (37 msgs) — `raw/chatgpt/misc/2025-09-22--msa-nexcore-invoice-12-19-25.md`
+- 2025-09-28 — **Competitor analysis workflow** (70 msgs) — `raw/chatgpt/misc/2025-09-28--competitor-analysis-workflow.md`
+- 2025-09-30 — **NexCore services list** (20 msgs) — `raw/chatgpt/misc/2025-09-30--nexcore-services-list.md`
+- 2025-10-05 — **Paul's boutique TXT** (19 msgs) — `raw/chatgpt/misc/2025-10-05--paul-s-boutique-txt.md`
+- 2025-10-05 — **Dilla Donuts identity production** (6 msgs) — `raw/chatgpt/misc/2025-10-05--dilla-donuts-identity-production.md`
+- 2025-10-07 — **Merge snippets into file** (4 msgs) — `raw/chatgpt/misc/2025-10-07--merge-snippets-into-file.md`
+- 2025-11-01 — **AI web developer manual** (2 msgs) — `raw/chatgpt/misc/2025-11-01--ai-web-developer-manual.md`
+- 2025-11-01 — **Edit email header color** (14 msgs) — `raw/chatgpt/misc/2025-11-01--edit-email-header-color.md`
+- 2025-11-02 — **Entrepreneur biography search** (5 msgs) — `raw/chatgpt/misc/2025-11-02--entrepreneur-biography-search.md`
+- 2025-11-04 — **3D rendering request** (8 msgs) — `raw/chatgpt/misc/2025-11-04--3d-rendering-request.md`
+- 2025-11-09 — **Email creative variation** (13 msgs) — `raw/chatgpt/misc/2025-11-09--email-creative-variation.md`
+- 2025-11-11 — **Kitchen hood inspection cost** (47 msgs) — `raw/chatgpt/misc/2025-11-11--kitchen-hood-inspection-cost.md`
+- 2025-11-11 — **Fire Sprinkler Specialist Guide** (90 msgs) — `raw/chatgpt/misc/2025-11-11--fire-sprinkler-specialist-guide.md`
+- 2025-11-14 — **Ninja smoke bomb SVG** (56 msgs) — `raw/chatgpt/misc/2025-11-14--ninja-smoke-bomb-svg.md`
+- 2025-11-19 — **Custom intent topics ZoomInfo** (27 msgs) — `raw/chatgpt/misc/2025-11-19--custom-intent-topics-zoominfo.md`
+- 2025-11-21 — **Message explanation** (2 msgs) — `raw/chatgpt/misc/2025-11-21--message-explanation.md`
+- 2025-11-21 — **Remove shooting star effect** (8 msgs) — `raw/chatgpt/misc/2025-11-21--remove-shooting-star-effect.md`
+- 2025-11-22 — **Nonfiction 2025 deep dive** (297 msgs) — `raw/chatgpt/misc/2025-11-22--nonfiction-2025-deep-dive.md`
+- 2025-11-23 — **Convert data to CSV** (23 msgs) — `raw/chatgpt/misc/2025-11-23--convert-data-to-csv.md`
+- 2025-11-25 — **Lovable - contact page** (44 msgs) — `raw/chatgpt/misc/2025-11-25--lovable-contact-page.md`
+- 2025-11-26 — **Mobile menu optimization** (4 msgs) — `raw/chatgpt/misc/2025-11-26--mobile-menu-optimization.md`
+- 2025-11-27 — **Claude Opus 4.5 comparison** (5 msgs) — `raw/chatgpt/misc/2025-11-27--claude-opus-4-5-comparison.md`
+- 2025-11-30 — **AI coding tools list** (24 msgs) — `raw/chatgpt/misc/2025-11-30--ai-coding-tools-list.md`
+- 2025-12-01 — **Cleaned business data** (8 msgs) — `raw/chatgpt/misc/2025-12-01--cleaned-business-data.md`
+- 2025-12-08 — **Search LinkedIn Family Offices** (8 msgs) — `raw/chatgpt/misc/2025-12-08--search-linkedin-family-offices.md`
+- 2025-12-10 — **Effective social media accounts** (9 msgs) — `raw/chatgpt/misc/2025-12-10--effective-social-media-accounts.md`
+- 2025-12-20 — **Mr. Hood Repair - 12-19** (55 msgs) — `raw/chatgpt/misc/2025-12-20--mr-hood-repair-12-19.md`
+- 2025-12-25 — **FutzVerb-style UI** (5 msgs) — `raw/chatgpt/misc/2025-12-25--futzverb-style-ui.md`
+- 2025-12-26 — **Kalshi Snapshot Dashboard** (5 msgs) — `raw/chatgpt/misc/2025-12-26--kalshi-snapshot-dashboard.md`
+- 2025-12-26 — **Kalshi-style Site Demo** (22 msgs) — `raw/chatgpt/misc/2025-12-26--kalshi-style-site-demo.md`
+- 2025-12-27 — **Yellow landing Walter** (13 msgs) — `raw/chatgpt/misc/2025-12-27--yellow-landing-walter.md`
+- 2025-12-27 — **Lovable Checklist to go live** (30 msgs) — `raw/chatgpt/misc/2025-12-27--lovable-checklist-to-go-live.md`
+- 2025-12-28 — **Mr Hood Repair offer TEMPLATE** (5 msgs) — `raw/chatgpt/misc/2025-12-28--mr-hood-repair-offer-template.md`
+- 2025-12-30 — **Fire Sprinkler Inspection Guide** (126 msgs) — `raw/chatgpt/misc/2025-12-30--fire-sprinkler-inspection-guide.md`
+- 2025-12-31 — **Motorcycle Garage Photo Request** (8 msgs) — `raw/chatgpt/misc/2025-12-31--motorcycle-garage-photo-request.md`
+- 2025-12-31 — **Split Word Doc File** (28 msgs) — `raw/chatgpt/misc/2025-12-31--split-word-doc-file.md`
+- 2026-01-01 — **NHL Betting Analysis** (15 msgs) — `raw/chatgpt/misc/2026-01-01--nhl-betting-analysis.md`
+- 2026-01-04 — **Mr Hood Repair Minimalist** (21 msgs) — `raw/chatgpt/misc/2026-01-04--mr-hood-repair-minimalist.md`
+- 2026-01-05 — **Michael Legends Invoice** (4 msgs) — `raw/chatgpt/misc/2026-01-05--michael-legends-invoice.md`
+- 2026-01-08 — **Exhibitor list** (14 msgs) — `raw/chatgpt/misc/2026-01-08--exhibitor-list.md`
+- 2026-01-08 — **ZoomInfo Pain Clinic Search** (2 msgs) — `raw/chatgpt/misc/2026-01-08--zoominfo-pain-clinic-search.md`
+- 2026-01-10 — **Run Dexter Step-by-Step** (10 msgs) — `raw/chatgpt/misc/2026-01-10--run-dexter-step-by-step.md`
+- 2026-01-11 — **Futuristic Image** (4 msgs) — `raw/chatgpt/misc/2026-01-11--futuristic-image.md`
+- 2026-01-19 — **FB Posts 1-20-26** (39 msgs) — `raw/chatgpt/misc/2026-01-19--fb-posts-1-20-26.md`
+- 2026-01-22 — **New Nonfiction Releases 2026** (18 msgs) — `raw/chatgpt/misc/2026-01-22--new-nonfiction-releases-2026.md`
+- 2026-01-22 — **Ken Burns Effect Check** (47 msgs) — `raw/chatgpt/misc/2026-01-22--ken-burns-effect-check.md`
+- 2026-01-22 — **mPOWR email subject lines** (15 msgs) — `raw/chatgpt/misc/2026-01-22--mpowr-email-subject-lines.md`
+- 2026-01-30 — **January 2026 Nonfiction Releases** (106 msgs) — `raw/chatgpt/misc/2026-01-30--january-2026-nonfiction-releases.md`
+- 2026-02-01 — **Butler to the world txt** (131 msgs) — `raw/chatgpt/misc/2026-02-01--butler-to-the-world-txt.md`
+- 2026-02-02 — **Invoice Template Generator** (18 msgs) — `raw/chatgpt/misc/2026-02-02--invoice-template-generator.md`
+- 2026-02-03 — **Filing Taxes Without Payment** (14 msgs) — `raw/chatgpt/misc/2026-02-03--filing-taxes-without-payment.md`
+- 2026-02-04 — **Invoice Clarification Request** (11 msgs) — `raw/chatgpt/misc/2026-02-04--invoice-clarification-request.md`
+- 2026-02-07 — **Nonfiction New Releases Tracker** (43 msgs) — `raw/chatgpt/misc/2026-02-07--nonfiction-new-releases-tracker.md`
+- 2026-02-07 — **Codex 5.3 Non-Coder Guide** (65 msgs) — `raw/chatgpt/misc/2026-02-07--codex-5-3-non-coder-guide.md`
+- 2026-02-13 — **Open Socrates Chapter 1** (37 msgs) — `raw/chatgpt/misc/2026-02-13--open-socrates-chapter-1.md`
+- 2026-02-14 — **Codex Output Explanation** (8 msgs) — `raw/chatgpt/misc/2026-02-14--codex-output-explanation.md`
+- 2026-02-15 — **Claude Teams CLI Overview** (2 msgs) — `raw/chatgpt/misc/2026-02-15--claude-teams-cli-overview.md`
+- 2026-02-16 — **LinkedIn Message to Techstars** (10 msgs) — `raw/chatgpt/misc/2026-02-16--linkedin-message-to-techstars.md`
+- 2026-02-16 — **Recreating LinkedIn Post** (130 msgs) — `raw/chatgpt/misc/2026-02-16--recreating-linkedin-post.md`
+- 2026-02-16 — **Linnstrument** (21 msgs) — `raw/chatgpt/misc/2026-02-16--linnstrument.md`
+- 2026-02-17 — **Naval Ravikant** (5 msgs) — `raw/chatgpt/misc/2026-02-17--naval-ravikant.md`
+- 2026-02-17 — **Digital product ideas** (42 msgs) — `raw/chatgpt/misc/2026-02-17--digital-product-ideas.md`
+- 2026-02-18 — **WeBoost VC Similarity Search** (127 msgs) — `raw/chatgpt/misc/2026-02-18--weboost-vc-similarity-search.md`
+- 2026-02-19 — **Ecommerce Site Planning** (25 msgs) — `raw/chatgpt/misc/2026-02-19--ecommerce-site-planning.md`
+- 2026-02-19 — **Ray LinkedIn posts** (64 msgs) — `raw/chatgpt/misc/2026-02-19--ray-linkedin-posts.md`
+- 2026-02-20 — **Businesses in Image List** (6 msgs) — `raw/chatgpt/misc/2026-02-20--businesses-in-image-list.md`
+- 2026-02-22 — **MPOWR INTERACTIVE DEMO REVOLVER** (193 msgs) — `raw/chatgpt/misc/2026-02-22--mpowr-interactive-demo-revolver.md`
+- 2026-02-23 — **Multiple Chats vs One Chat** (18 msgs) — `raw/chatgpt/misc/2026-02-23--multiple-chats-vs-one-chat.md`
+- 2026-02-23 — **Avalon Patent Explanation** (13 msgs) — `raw/chatgpt/misc/2026-02-23--avalon-patent-explanation.md`
+- 2026-02-25 — **Business Search Request** (19 msgs) — `raw/chatgpt/misc/2026-02-25--business-search-request.md`
+- 2026-02-26 — **Modern Fonts / AdviseWisely** (326 msgs) — `raw/chatgpt/misc/2026-02-26--modern-fonts-advisewisely.md`
+- 2026-02-27 — **Refresh Miami** (38 msgs) — `raw/chatgpt/misc/2026-02-27--refresh-miami.md`
+- 2026-02-27 — **Larry recorded from Ray** (4 msgs) — `raw/chatgpt/misc/2026-02-27--larry-recorded-from-ray.md`
+- 2026-03-01 — **Ableton Move Emulator** (47 msgs) — `raw/chatgpt/misc/2026-03-01--ableton-move-emulator.md`
+- 2026-03-02 — **Ableton Move Emulator markdown file** (15 msgs) — `raw/chatgpt/misc/2026-03-02--ableton-move-emulator-markdown-file.md`
+- 2026-03-03 — **ZoomInfo Targeting Method** (4 msgs) — `raw/chatgpt/misc/2026-03-03--zoominfo-targeting-method.md`
+- 2026-03-05 — **Pro Tennis Betting Analysis** (12 msgs) — `raw/chatgpt/misc/2026-03-05--pro-tennis-betting-analysis.md`
+- 2026-03-05 — **Betting Analysis +170 Value** (5 msgs) — `raw/chatgpt/misc/2026-03-05--betting-analysis-170-value.md`
+- 2026-03-05 — **Electra Bridge Loan Analysis** (1 msgs) — `raw/chatgpt/misc/2026-03-05--electra-bridge-loan-analysis.md`
+- 2026-03-05 — **UTR Tennis Betting Analysis** (20 msgs) — `raw/chatgpt/misc/2026-03-05--utr-tennis-betting-analysis.md`
+- 2026-03-05 — **Pro Tennis Betting Analysis#2** (23 msgs) — `raw/chatgpt/misc/2026-03-05--pro-tennis-betting-analysis-2.md`
+- 2026-03-05 — **Tennis Betting Edge Analysis** (9 msgs) — `raw/chatgpt/misc/2026-03-05--tennis-betting-edge-analysis.md`
+- 2026-03-05 — **NBA Bet Analysis** (8 msgs) — `raw/chatgpt/misc/2026-03-05--nba-bet-analysis.md`
+- 2026-03-05 — **Mark Rucco | The Rucco Group | Compass** (2 msgs) — `raw/chatgpt/misc/2026-03-05--mark-rucco-the-rucco-group-compass.md`
+- 2026-03-05 — **MPOWR Elevator Pitch** (10 msgs) — `raw/chatgpt/misc/2026-03-05--mpowr-elevator-pitch.md`
+- 2026-03-06 — **LSA List to CSV** (2 msgs) — `raw/chatgpt/misc/2026-03-06--lsa-list-to-csv.md`
+- 2026-03-06 — **LinkedIn post creation** (5 msgs) — `raw/chatgpt/misc/2026-03-06--linkedin-post-creation.md`
+- 2026-03-07 — **Discord best use cases ALBT** (32 msgs) — `raw/chatgpt/misc/2026-03-07--discord-best-use-cases-albt.md`
+- 2026-03-07 — **3D Flight Tracker App** (48 msgs) — `raw/chatgpt/misc/2026-03-07--3d-flight-tracker-app.md`
+- 2026-03-08 — **Lesser-Known Nonfiction Gems** (108 msgs) — `raw/chatgpt/misc/2026-03-08--lesser-known-nonfiction-gems.md`
+- 2026-03-08 — **Lesser-Known Nonfiction Gems#2** (348 msgs) — `raw/chatgpt/misc/2026-03-08--lesser-known-nonfiction-gems-2.md`
+- 2026-03-16 — **Insurance Information Screenshot** (2 msgs) — `raw/chatgpt/misc/2026-03-16--insurance-information-screenshot.md`
+- 2026-03-17 — **AI Video Creation Tools** (2 msgs) — `raw/chatgpt/misc/2026-03-17--ai-video-creation-tools.md`
+- 2026-03-17 — **Virus Removal HP Laptop** (28 msgs) — `raw/chatgpt/misc/2026-03-17--virus-removal-hp-laptop.md`
+- 2026-03-22 — **Replicating Karpathy's AI Setup** (2 msgs) — `raw/chatgpt/misc/2026-03-22--replicating-karpathy-s-ai-setup.md`
+- 2026-03-29 — **Keyboard Compatibility Mac Mini** (11 msgs) — `raw/chatgpt/misc/2026-03-29--keyboard-compatibility-mac-mini.md`
+- 2026-05-19 — **Spare Tire Lifespan** (2 msgs) — `raw/chatgpt/misc/2026-05-19--spare-tire-lifespan.md`
+- 2026-06-29 — **Baby AGI Development** (110 msgs) — `raw/chatgpt/misc/2026-06-29--baby-agi-development.md`
+- 2026-06-29 — **Polar vortex midjourney** (10 msgs) — `raw/chatgpt/misc/2026-06-29--polar-vortex-midjourney.md`
+- 2026-06-29 — **cert plus long form** (312 msgs) — `raw/chatgpt/misc/2026-06-29--cert-plus-long-form.md`
+- 2026-06-29 — **YouTube as CTV** (7 msgs) — `raw/chatgpt/misc/2026-06-29--youtube-as-ctv.md`
+- 2026-06-29 — **Ideas 2023** (54 msgs) — `raw/chatgpt/misc/2026-06-29--ideas-2023.md`
+- 2026-06-29 — **DigDev misc** (100 msgs) — `raw/chatgpt/misc/2026-06-29--digdev-misc.md`
+- 2026-06-29 — **Autechre & elseq 3 Overview** (2 msgs) — `raw/chatgpt/misc/2026-06-29--autechre-elseq-3-overview.md`
+- 2026-06-29 — **Google Certification Study Resources** (222 msgs) — `raw/chatgpt/misc/2026-06-29--google-certification-study-resources.md`
+- 2026-06-29 — **Adsense** (12 msgs) — `raw/chatgpt/misc/2026-06-29--adsense.md`
+- 2026-06-29 — **Download OpenAI APIs** (6 msgs) — `raw/chatgpt/misc/2026-06-29--download-openai-apis.md`
+- 2026-06-29 — **Timmy** (16 msgs) — `raw/chatgpt/misc/2026-06-29--timmy.md`
+- 2026-06-29 — **MISC INFO AND JAVA** (302 msgs) — `raw/chatgpt/misc/2026-06-29--misc-info-and-java.md`
+- 2026-06-29 — **Google Maps Tips & Tricks.** (10 msgs) — `raw/chatgpt/misc/2026-06-29--google-maps-tips-tricks.md`
+- 2026-06-29 — **call openings 3-10** (34 msgs) — `raw/chatgpt/misc/2026-06-29--call-openings-3-10.md`
+- 2026-06-29 — **text message** (40 msgs) — `raw/chatgpt/misc/2026-06-29--text-message.md`
+- 2026-06-29 — **Structured query** (16 msgs) — `raw/chatgpt/misc/2026-06-29--structured-query.md`
+- 2026-06-29 — **Apify & residential proxy** (159 msgs) — `raw/chatgpt/misc/2026-06-29--apify-residential-proxy.md`
+- 2026-06-29 — **AI Science Fiction Novel** (42 msgs) — `raw/chatgpt/misc/2026-06-29--ai-science-fiction-novel.md`
+- 2026-06-29 — **Check Windows Version** (72 msgs) — `raw/chatgpt/misc/2026-06-29--check-windows-version.md`
+- 2026-06-29 — **How to Become a Non-Profit** (22 msgs) — `raw/chatgpt/misc/2026-06-29--how-to-become-a-non-profit.md`
+- 2026-06-29 — **Optimizing Ad Delivery with Data** (168 msgs) — `raw/chatgpt/misc/2026-06-29--optimizing-ad-delivery-with-data.md`
+- 2026-06-29 — **ChatGPT Automates Outgoing Emails.** (16 msgs) — `raw/chatgpt/misc/2026-06-29--chatgpt-automates-outgoing-emails.md`
+- 2026-06-29 — **AI Training Data Latest** (9 msgs) — `raw/chatgpt/misc/2026-06-29--ai-training-data-latest.md`
+- 2026-06-29 — **Help With META Blueprint Test** (146 msgs) — `raw/chatgpt/misc/2026-06-29--help-with-meta-blueprint-test.md`
+- 2026-06-29 — **"Photoshop Tutorial: Polar Vortex"** (16 msgs) — `raw/chatgpt/misc/2026-06-29--photoshop-tutorial-polar-vortex.md`
+- 2026-06-29 — **Apify practical uses.** (40 msgs) — `raw/chatgpt/misc/2026-06-29--apify-practical-uses.md`
+- 2026-06-29 — **Follow-Up email** (6 msgs) — `raw/chatgpt/misc/2026-06-29--follow-up-email.md`
+- 2026-06-29 — **Effective Promotions for Businesses** (20 msgs) — `raw/chatgpt/misc/2026-06-29--effective-promotions-for-businesses.md`
+- 2026-06-29 — **Minimized jQuery library.** (22 msgs) — `raw/chatgpt/misc/2026-06-29--minimized-jquery-library.md`
+- unknown — **asset:24cf527d-...png (generated)** (null msgs) — `raw/chatgpt/misc/unknown--asset-24cf527d-png-generated.md`
+- unknown — **asset:Generated Image Dec 01 2025.jpeg** (null msgs) — `raw/chatgpt/misc/unknown--asset-generated-image-dec-01-2025-jpeg.md`
+- unknown — **asset:Screenshot_20260305-122134.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20260305-122134-jpg.md`
+- unknown — **asset:fa1fd2f4-...png (generated)** (null msgs) — `raw/chatgpt/misc/unknown--asset-fa1fd2f4-png-generated.md`
+- unknown — **asset:Screenshot_20260305-155830.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20260305-155830-jpg.md`
+- unknown — **asset:20.PNG** (null msgs) — `raw/chatgpt/misc/unknown--asset-20-png.md`
+- unknown — **asset:Screenshot_20251010-204712.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251010-204712-jpg.md`
+- unknown — **asset:Screenshot_20251127-143731.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251127-143731-jpg.md`
+- unknown — **asset:ebab7374-...png (generated)** (null msgs) — `raw/chatgpt/misc/unknown--asset-ebab7374-png-generated.md`
+- unknown — **asset:20231028_225716 (2).jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-20231028-225716-2-jpg.md`
+- unknown — **asset:9.PNG** (null msgs) — `raw/chatgpt/misc/unknown--asset-9-png.md`
+- unknown — **asset:Screenshot_2025-11-27-13-40-45-779.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-2025-11-27-13-40-45-779-png.md`
+- unknown — **asset:Screenshot_2025-11-27-13-40-00-674.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-2025-11-27-13-40-00-674-png.md`
+- unknown — **asset:22.PNG** (null msgs) — `raw/chatgpt/misc/unknown--asset-22-png.md`
+- unknown — **asset:8cc7a386-086f-4cc0-ad9f-b069eb824b64.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-8cc7a386-086f-4cc0-ad9f-b069eb824b64-png.md`
+- unknown — **asset:5cabdba6-b19b-4499-8dfa-3d8133fa79bc.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-5cabdba6-b19b-4499-8dfa-3d8133fa79bc-png.md`
+- unknown — **asset:Screenshot_20251127-134132.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251127-134132-jpg.md`
+- unknown — **asset:db1bd110-273e-455b-aedc-10ba886a66e5.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-db1bd110-273e-455b-aedc-10ba886a66e5-png.md`
+- unknown — **asset:Screenshot_20251127-134132.jpg#b17** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251127-134132-jpg-b17.md`
+- unknown — **asset:Screenshot_2025-12-23-10-50-50-038.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-2025-12-23-10-50-50-038-png.md`
+- unknown — **asset:23.PNG** (null msgs) — `raw/chatgpt/misc/unknown--asset-23-png.md`
+- unknown — **asset:7.PNG** (null msgs) — `raw/chatgpt/misc/unknown--asset-7-png.md`
+- unknown — **asset:51c780e3-569f-439d-a98d-7eb701847498.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-51c780e3-569f-439d-a98d-7eb701847498-png.md`
+- unknown — **asset:20240305_180649 (1).jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-20240305-180649-1-jpg.md`
+- unknown — **asset:Screenshot_20251127-134132.jpg#c8** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251127-134132-jpg-c8.md`
+- unknown — **asset:2284.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-2284-jpg.md`
+- unknown — **asset:Screenshot_20251127-134554.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20251127-134554-jpg.md`
+- unknown — **asset:(export HTML/asset)#c12** (null msgs) — `raw/chatgpt/misc/unknown--asset-export-html-asset-c12.md`
+- unknown — **asset:db78c1fb-3e6c-457b-9931-054ceb51483c.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-db78c1fb-3e6c-457b-9931-054ceb51483c-png.md`
+- unknown — **asset:Screenshot_2025-11-27-13-43-22-593.png** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-2025-11-27-13-43-22-593-png.md`
+- unknown — **asset:Screenshot_20260208-195143.jpg** (null msgs) — `raw/chatgpt/misc/unknown--asset-screenshot-20260208-195143-jpg.md`

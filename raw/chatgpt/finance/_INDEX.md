@@ -1,0 +1,126 @@
+# Finance / Trading / Markets — raw index
+
+122 conversations, 3396 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-03-24 — **effective social media marketing strategy** (38 msgs) — `raw/chatgpt/finance/2023-03-24--effective-social-media-marketing-strategy.md`
+- 2023-04-13 — **Marketing Plan in Markdown.** (20 msgs) — `raw/chatgpt/finance/2023-04-13--marketing-plan-in-markdown.md`
+- 2023-04-13 — **Trading Plan: Improvement & Adaptation.** (2 msgs) — `raw/chatgpt/finance/2023-04-13--trading-plan-improvement-adaptation.md`
+- 2023-04-24 — **Unique Ideas for Marketing Agency** (12 msgs) — `raw/chatgpt/finance/2023-04-24--unique-ideas-for-marketing-agency.md`
+- 2023-05-01 — **Finance News Analysis** (8 msgs) — `raw/chatgpt/finance/2023-05-01--finance-news-analysis.md`
+- 2023-05-03 — **Financial trends and insights.** (18 msgs) — `raw/chatgpt/finance/2023-05-03--financial-trends-and-insights.md`
+- 2023-05-07 — **Automating ThinkorSwim Trades.** (6 msgs) — `raw/chatgpt/finance/2023-05-07--automating-thinkorswim-trades.md`
+- 2023-05-08 — **Python Financial Analysis.** (4 msgs) — `raw/chatgpt/finance/2023-05-08--python-financial-analysis.md`
+- 2023-05-08 — **Email Marketing for Law Firms** (13 msgs) — `raw/chatgpt/finance/2023-05-08--email-marketing-for-law-firms.md`
+- 2023-05-08 — **Email Market_template** (4 msgs) — `raw/chatgpt/finance/2023-05-08--email-market-template.md`
+- 2023-05-11 — **Unlock Digital Marketing Potential** (2 msgs) — `raw/chatgpt/finance/2023-05-11--unlock-digital-marketing-potential.md`
+- 2023-05-11 — **Creating Grid Trading Bot** (7 msgs) — `raw/chatgpt/finance/2023-05-11--creating-grid-trading-bot.md`
+- 2023-05-12 — **MikeSimspon_trades** (2 msgs) — `raw/chatgpt/finance/2023-05-12--mikesimspon-trades.md`
+- 2023-05-13 — **whalewisdom_BRK** (4 msgs) — `raw/chatgpt/finance/2023-05-13--whalewisdom-brk.md`
+- 2023-06-24 — **Twitter Trend Data Extraction** (11 msgs) — `raw/chatgpt/finance/2023-06-24--twitter-trend-data-extraction.md`
+- 2023-07-06 — **Marketing Partnership with Instaclick** (21 msgs) — `raw/chatgpt/finance/2023-07-06--marketing-partnership-with-instaclick.md`
+- 2023-07-10 — **ESG Consulting Partnership** (8 msgs) — `raw/chatgpt/finance/2023-07-10--esg-consulting-partnership.md`
+- 2023-07-10 — **Concordia-ESG** (16 msgs) — `raw/chatgpt/finance/2023-07-10--concordia-esg.md`
+- 2023-07-13 — **Website Marketing Solutions** (6 msgs) — `raw/chatgpt/finance/2023-07-13--website-marketing-solutions.md`
+- 2023-07-18 — **YouTube Trending Consumer Videos** (12 msgs) — `raw/chatgpt/finance/2023-07-18--youtube-trending-consumer-videos.md`
+- 2023-07-19 — **Affiliate Marketing: Niche Selection** (2 msgs) — `raw/chatgpt/finance/2023-07-19--affiliate-marketing-niche-selection.md`
+- 2023-07-26 — **yahoo finance summary** (26 msgs) — `raw/chatgpt/finance/2023-07-26--yahoo-finance-summary.md`
+- 2023-07-26 — **Financial Sentiment Analysis** (35 msgs) — `raw/chatgpt/finance/2023-07-26--financial-sentiment-analysis.md`
+- 2023-08-01 — **Finance Themes Analyzed** (15 msgs) — `raw/chatgpt/finance/2023-08-01--finance-themes-analyzed.md`
+- 2023-08-01 — **Finance Keywords Table.** (6 msgs) — `raw/chatgpt/finance/2023-08-01--finance-keywords-table.md`
+- 2023-08-01 — **Finance Article Summaries.** (6 msgs) — `raw/chatgpt/finance/2023-08-01--finance-article-summaries.md`
+- 2023-08-02 — **Finance Articles Sentiments** (23 msgs) — `raw/chatgpt/finance/2023-08-02--finance-articles-sentiments.md`
+- 2023-08-03 — **Sentiment Analysis Summary.** (128 msgs) — `raw/chatgpt/finance/2023-08-03--sentiment-analysis-summary.md`
+- 2023-08-08 — **Finance Article Sentiment Analysis** (32 msgs) — `raw/chatgpt/finance/2023-08-08--finance-article-sentiment-analysis.md`
+- 2023-08-10 — **Sentiment Analysis & Topics** (33 msgs) — `raw/chatgpt/finance/2023-08-10--sentiment-analysis-topics.md`
+- 2023-08-14 — **Financial Data Analysis Guide** (65 msgs) — `raw/chatgpt/finance/2023-08-14--financial-data-analysis-guide.md`
+- 2023-08-16 — **Affiliate Marketing Strategies & Ideas** (6 msgs) — `raw/chatgpt/finance/2023-08-16--affiliate-marketing-strategies-ideas.md`
+- 2023-08-30 — **Digital Marketing Segmentation** (40 msgs) — `raw/chatgpt/finance/2023-08-30--digital-marketing-segmentation.md`
+- 2023-09-07 — **Affiliate Marketing NICHE selection** (26 msgs) — `raw/chatgpt/finance/2023-09-07--affiliate-marketing-niche-selection.md`
+- 2023-09-07 — **Affiliate Marketing Tips & Resources** (6 msgs) — `raw/chatgpt/finance/2023-09-07--affiliate-marketing-tips-resources.md`
+- 2023-09-08 — **Harvard review charts** (15 msgs) — `raw/chatgpt/finance/2023-09-08--harvard-review-charts.md`
+- 2023-09-18 — **Finance Websites with Paywalls** (6 msgs) — `raw/chatgpt/finance/2023-09-18--finance-websites-with-paywalls.md`
+- 2023-09-25 — **Visualizing Financial Data: S&P & More** (19 msgs) — `raw/chatgpt/finance/2023-09-25--visualizing-financial-data-s-p-more.md`
+- 2023-10-04 — **Quant Trading Methods Explained** (84 msgs) — `raw/chatgpt/finance/2023-10-04--quant-trading-methods-explained.md`
+- 2023-10-10 — **Mean Reversion Trading Indicators** (8 msgs) — `raw/chatgpt/finance/2023-10-10--mean-reversion-trading-indicators.md`
+- 2023-10-13 — **Alpha Vantage scripts** (71 msgs) — `raw/chatgpt/finance/2023-10-13--alpha-vantage-scripts.md`
+- 2023-10-25 — **Emails to Marketing Professionals** (16 msgs) — `raw/chatgpt/finance/2023-10-25--emails-to-marketing-professionals.md`
+- 2023-11-16 — **Enhancing ProgressPlay with Marketing** (8 msgs) — `raw/chatgpt/finance/2023-11-16--enhancing-progressplay-with-marketing.md`
+- 2023-12-29 — **ActionsGPT-Alpha Vantage API Setup** (50 msgs) — `raw/chatgpt/finance/2023-12-29--actionsgpt-alpha-vantage-api-setup.md`
+- 2024-01-02 — **SPY Candlestick Chart Created** (2 msgs) — `raw/chatgpt/finance/2024-01-02--spy-candlestick-chart-created.md`
+- 2024-01-14 — **Digital Marketing Expertise & Skills** (10 msgs) — `raw/chatgpt/finance/2024-01-14--digital-marketing-expertise-skills.md`
+- 2024-02-21 — **Hedge Fund Sector Shift** (42 msgs) — `raw/chatgpt/finance/2024-02-21--hedge-fund-sector-shift.md`
+- 2024-02-24 — **Parse and Analyze WSJ.** (29 msgs) — `raw/chatgpt/finance/2024-02-24--parse-and-analyze-wsj.md`
+- 2024-03-27 — **Ecom Marketing Strategies** (10 msgs) — `raw/chatgpt/finance/2024-03-27--ecom-marketing-strategies.md`
+- 2024-04-05 — **Digital Marketing Logo Design** (12 msgs) — `raw/chatgpt/finance/2024-04-05--digital-marketing-logo-design.md`
+- 2024-04-18 — **Roofing Agency Marketing Plan** (2 msgs) — `raw/chatgpt/finance/2024-04-18--roofing-agency-marketing-plan.md`
+- 2024-04-19 — **Digital Marketing Proposal: Jackson Stoneworks** (8 msgs) — `raw/chatgpt/finance/2024-04-19--digital-marketing-proposal-jackson-stoneworks.md`
+- 2024-04-28 — **Calendar Access Flowchart** (4 msgs) — `raw/chatgpt/finance/2024-04-28--calendar-access-flowchart.md`
+- 2024-04-28 — **Flowchart Optimization Discussion** (4 msgs) — `raw/chatgpt/finance/2024-04-28--flowchart-optimization-discussion.md`
+- 2024-04-30 — **Contact Creation Flowchart** (10 msgs) — `raw/chatgpt/finance/2024-04-30--contact-creation-flowchart.md`
+- 2024-05-22 — **Algorithmic Trading Strategies Overview** (14 msgs) — `raw/chatgpt/finance/2024-05-22--algorithmic-trading-strategies-overview.md`
+- 2024-05-23 — **3D Pie Chart: Simulated Effect** (18 msgs) — `raw/chatgpt/finance/2024-05-23--3d-pie-chart-simulated-effect.md`
+- 2024-05-31 — **Markets Mixed, S&P Up.** (41 msgs) — `raw/chatgpt/finance/2024-05-31--markets-mixed-s-p-up.md`
+- 2024-06-05 — **Financial News Highlights** (13 msgs) — `raw/chatgpt/finance/2024-06-05--financial-news-highlights.md`
+- 2024-06-08 — **Financial Insights from WSJ.** (136 msgs) — `raw/chatgpt/finance/2024-06-08--financial-insights-from-wsj.md`
+- 2024-06-18 — **Financial News & Trade Setups** (18 msgs) — `raw/chatgpt/finance/2024-06-18--financial-news-trade-setups.md`
+- 2024-07-15 — **Trading Assistant Analyzes User** (64 msgs) — `raw/chatgpt/finance/2024-07-15--trading-assistant-analyzes-user.md`
+- 2024-07-20 — **WSJ July 19 Summary** (8 msgs) — `raw/chatgpt/finance/2024-07-20--wsj-july-19-summary.md`
+- 2024-07-22 — **Market Reaction to Biden's Withdrawal** (8 msgs) — `raw/chatgpt/finance/2024-07-22--market-reaction-to-biden-s-withdrawal.md`
+- 2024-07-22 — **Latest Financial Highlights** (68 msgs) — `raw/chatgpt/finance/2024-07-22--latest-financial-highlights.md`
+- 2024-07-24 — **WSJ EDITIONS** (16 msgs) — `raw/chatgpt/finance/2024-07-24--wsj-editions.md`
+- 2024-07-29 — **Trade Ideas and Setups** (38 msgs) — `raw/chatgpt/finance/2024-07-29--trade-ideas-and-setups.md`
+- 2024-07-30 — **Trend Definition and Interaction** (2 msgs) — `raw/chatgpt/finance/2024-07-30--trend-definition-and-interaction.md`
+- 2024-08-05 — **WSJ Aug** (26 msgs) — `raw/chatgpt/finance/2024-08-05--wsj-aug.md`
+- 2024-08-08 — **Trade Ideas and Strategies** (30 msgs) — `raw/chatgpt/finance/2024-08-08--trade-ideas-and-strategies.md`
+- 2024-08-09 — **Trade Ideas Summary** (10 msgs) — `raw/chatgpt/finance/2024-08-09--trade-ideas-summary.md`
+- 2024-08-16 — **WSJ 8-15 and 8-14** (28 msgs) — `raw/chatgpt/finance/2024-08-16--wsj-8-15-and-8-14.md`
+- 2024-09-07 — **Funded Trading Accounts Explained** (14 msgs) — `raw/chatgpt/finance/2024-09-07--funded-trading-accounts-explained.md`
+- 2024-09-24 — **Market Share Pie Chart** (4 msgs) — `raw/chatgpt/finance/2024-09-24--market-share-pie-chart.md`
+- 2024-10-03 — **STB Digital Marketing Call** (2 msgs) — `raw/chatgpt/finance/2024-10-03--stb-digital-marketing-call.md`
+- 2024-10-18 — **Marketing Strategy for Seminars** (8 msgs) — `raw/chatgpt/finance/2024-10-18--marketing-strategy-for-seminars.md`
+- 2024-10-28 — **Options Chain Profitability Analysis** (5 msgs) — `raw/chatgpt/finance/2024-10-28--options-chain-profitability-analysis.md`
+- 2024-11-09 — **Latest Digital Marketing Trends** (4 msgs) — `raw/chatgpt/finance/2024-11-09--latest-digital-marketing-trends.md`
+- 2024-11-11 — **Digital Marketing for Home Services** (4 msgs) — `raw/chatgpt/finance/2024-11-11--digital-marketing-for-home-services.md`
+- 2024-11-19 — **Social Media Marketing Proposal** (19 msgs) — `raw/chatgpt/finance/2024-11-19--social-media-marketing-proposal.md`
+- 2024-12-18 — **Digital Marketing Agency Proposal** (46 msgs) — `raw/chatgpt/finance/2024-12-18--digital-marketing-agency-proposal.md`
+- 2024-12-18 — **Digital Marketing Agency Proposal o1** (40 msgs) — `raw/chatgpt/finance/2024-12-18--digital-marketing-agency-proposal-o1.md`
+- 2025-01-18 — **Scalable Digital Marketing Ideas** (2 msgs) — `raw/chatgpt/finance/2025-01-18--scalable-digital-marketing-ideas.md`
+- 2025-02-03 — **Business Categories for Marketing** (10 msgs) — `raw/chatgpt/finance/2025-02-03--business-categories-for-marketing.md`
+- 2025-02-12 — **BeeSearchable Marketing Proposal** (10 msgs) — `raw/chatgpt/finance/2025-02-12--beesearchable-marketing-proposal.md`
+- 2025-02-12 — **Marketing Proposal Rescale Collaboration** (7 msgs) — `raw/chatgpt/finance/2025-02-12--marketing-proposal-rescale-collaboration.md`
+- 2025-02-12 — **Digital Marketing Proposal** (16 msgs) — `raw/chatgpt/finance/2025-02-12--digital-marketing-proposal.md`
+- 2025-04-09 — **Financial Market Analysis** (43 msgs) — `raw/chatgpt/finance/2025-04-09--financial-market-analysis.md`
+- 2025-04-15 — **Digital Marketing Proposal HVAC** (8 msgs) — `raw/chatgpt/finance/2025-04-15--digital-marketing-proposal-hvac.md`
+- 2025-04-20 — **Trade Setups and TOS Tips** (16 msgs) — `raw/chatgpt/finance/2025-04-20--trade-setups-and-tos-tips.md`
+- 2025-05-06 — **Digital Marketing Proposal#2** (8 msgs) — `raw/chatgpt/finance/2025-05-06--digital-marketing-proposal-2.md`
+- 2025-05-23 — **AIBOTICS Marketing Strategy** (17 msgs) — `raw/chatgpt/finance/2025-05-23--aibotics-marketing-strategy.md`
+- 2025-06-02 — **Digital Marketing Proposal#3** (11 msgs) — `raw/chatgpt/finance/2025-06-02--digital-marketing-proposal-3.md`
+- 2025-06-11 — **Digital Marketing Proposal RJ Precision** (31 msgs) — `raw/chatgpt/finance/2025-06-11--digital-marketing-proposal-rj-precision.md`
+- 2025-06-19 — **Digital Marketing Proposal#4** (2 msgs) — `raw/chatgpt/finance/2025-06-19--digital-marketing-proposal-4.md`
+- 2025-06-20 — **Marketing Proposal Drafting** (28 msgs) — `raw/chatgpt/finance/2025-06-20--marketing-proposal-drafting.md`
+- 2025-06-24 — **Pool Builder Marketing Segments** (8 msgs) — `raw/chatgpt/finance/2025-06-24--pool-builder-marketing-segments.md`
+- 2025-06-25 — **Digital Marketing Strategy Plan** (4 msgs) — `raw/chatgpt/finance/2025-06-25--digital-marketing-strategy-plan.md`
+- 2025-07-11 — **ZEO ScientifiX Marketing Strategy** (28 msgs) — `raw/chatgpt/finance/2025-07-11--zeo-scientifix-marketing-strategy.md`
+- 2025-07-18 — **Digital marketing proposal** (10 msgs) — `raw/chatgpt/finance/2025-07-18--digital-marketing-proposal.md`
+- 2025-07-25 — **Marketing proposal strategy** (10 msgs) — `raw/chatgpt/finance/2025-07-25--marketing-proposal-strategy.md`
+- 2025-08-01 — **Automated marketing prospecting** (18 msgs) — `raw/chatgpt/finance/2025-08-01--automated-marketing-prospecting.md`
+- 2025-08-06 — **Flow chart conversion** (11 msgs) — `raw/chatgpt/finance/2025-08-06--flow-chart-conversion.md`
+- 2025-08-29 — **FB Marketplace arbitrage analysis** (204 msgs) — `raw/chatgpt/finance/2025-08-29--fb-marketplace-arbitrage-analysis.md`
+- 2025-08-30 — **Craigslist / FB Marketplace** (120 msgs) — `raw/chatgpt/finance/2025-08-30--craigslist-fb-marketplace.md`
+- 2025-09-26 — **Ray Investment leads** (22 msgs) — `raw/chatgpt/finance/2025-09-26--ray-investment-leads.md`
+- 2025-11-11 — **Investment funds for startups** (19 msgs) — `raw/chatgpt/finance/2025-11-11--investment-funds-for-startups.md`
+- 2025-12-01 — **Proposal writing and marketing** (16 msgs) — `raw/chatgpt/finance/2025-12-01--proposal-writing-and-marketing.md`
+- 2026-01-07 — **Meta Lead Generation Options** (12 msgs) — `raw/chatgpt/finance/2026-01-07--meta-lead-generation-options.md`
+- 2026-01-24 — **Sentiment Intelligence Report** (53 msgs) — `raw/chatgpt/finance/2026-01-24--sentiment-intelligence-report.md`
+- 2026-02-15 — **Theo trade and YouTube sites** (82 msgs) — `raw/chatgpt/finance/2026-02-15--theo-trade-and-youtube-sites.md`
+- 2026-02-23 — **Digital Marketing Resume Points** (2 msgs) — `raw/chatgpt/finance/2026-02-23--digital-marketing-resume-points.md`
+- 2026-03-06 — **Live Betting Market Pause** (36 msgs) — `raw/chatgpt/finance/2026-03-06--live-betting-market-pause.md`
+- 2026-06-29 — **Digital Marketing Image Request** (2 msgs) — `raw/chatgpt/finance/2026-06-29--digital-marketing-image-request.md`
+- 2026-06-29 — **client marketing services.** (12 msgs) — `raw/chatgpt/finance/2026-06-29--client-marketing-services.md`
+- 2026-06-29 — **Marketing plan for B2B.** (14 msgs) — `raw/chatgpt/finance/2026-06-29--marketing-plan-for-b2b.md`
+- 2026-06-29 — **DeepThink Marketing** (40 msgs) — `raw/chatgpt/finance/2026-06-29--deepthink-marketing.md`
+- 2026-06-29 — **White Label Marketing Keywords.** (4 msgs) — `raw/chatgpt/finance/2026-06-29--white-label-marketing-keywords.md`
+- 2026-06-29 — **NASDAQ Futures RTH Chart** (2 msgs) — `raw/chatgpt/finance/2026-06-29--nasdaq-futures-rth-chart.md`
+- 2026-06-29 — **Digital marketing DATAsys** (611 msgs) — `raw/chatgpt/finance/2026-06-29--digital-marketing-datasys.md`
+- 2026-06-29 — **Marketing Strategy for Empire Real Estate** (78 msgs) — `raw/chatgpt/finance/2026-06-29--marketing-strategy-for-empire-real-estate.md`
+- 2026-06-29 — **Digital Marketing Strategy Ideas** (12 msgs) — `raw/chatgpt/finance/2026-06-29--digital-marketing-strategy-ideas.md`

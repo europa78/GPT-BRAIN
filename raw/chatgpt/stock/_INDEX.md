@@ -1,0 +1,65 @@
+# Stock / Equity Analysis — raw index
+
+61 conversations, 1427 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-04-30 — **Stock Trading System Spec** (9 msgs) — `raw/chatgpt/stock/2023-04-30--stock-trading-system-spec.md`
+- 2023-06-22 — **AI_ticker chat** (18 msgs) — `raw/chatgpt/stock/2023-06-22--ai-ticker-chat.md`
+- 2023-07-25 — **Oil Stocks Analysis Insights** (30 msgs) — `raw/chatgpt/stock/2023-07-25--oil-stocks-analysis-insights.md`
+- 2023-08-02 — **AI Analysis: Market Sentiment** (27 msgs) — `raw/chatgpt/stock/2023-08-02--ai-analysis-market-sentiment.md`
+- 2023-08-03 — **AAPL earnings analysis** (28 msgs) — `raw/chatgpt/stock/2023-08-03--aapl-earnings-analysis.md`
+- 2023-08-29 — **Stock Market Articles Analysis** (15 msgs) — `raw/chatgpt/stock/2023-08-29--stock-market-articles-analysis.md`
+- 2023-10-06 — **Chart Analysis: USO Trends** (17 msgs) — `raw/chatgpt/stock/2023-10-06--chart-analysis-uso-trends.md`
+- 2023-10-06 — **SEO Analysis: Optimize Article** (2 msgs) — `raw/chatgpt/stock/2023-10-06--seo-analysis-optimize-article.md`
+- 2023-10-06 — **Alpha Vantage Stock Data** (10 msgs) — `raw/chatgpt/stock/2023-10-06--alpha-vantage-stock-data.md`
+- 2023-10-13 — **Random Forests stock pred** (8 msgs) — `raw/chatgpt/stock/2023-10-13--random-forests-stock-pred.md`
+- 2023-10-17 — **MSFT Stock Price Model** (58 msgs) — `raw/chatgpt/stock/2023-10-17--msft-stock-price-model.md`
+- 2023-10-25 — **MSFT Earnings Call Analysis** (16 msgs) — `raw/chatgpt/stock/2023-10-25--msft-earnings-call-analysis.md`
+- 2023-10-25 — **Parsing META Stock News** (15 msgs) — `raw/chatgpt/stock/2023-10-25--parsing-meta-stock-news.md`
+- 2023-11-02 — **AAPL Earnings Tweets Analysis** (16 msgs) — `raw/chatgpt/stock/2023-11-02--aapl-earnings-tweets-analysis.md`
+- 2023-11-02 — **AAPL Tweets / sentiment analysis** (156 msgs) — `raw/chatgpt/stock/2023-11-02--aapl-tweets-sentiment-analysis.md`
+- 2023-11-07 — **AAPL Tweets Analysis Options** (12 msgs) — `raw/chatgpt/stock/2023-11-07--aapl-tweets-analysis-options.md`
+- 2024-01-01 — **Image Analysis: Expressive Portrait** (4 msgs) — `raw/chatgpt/stock/2024-01-01--image-analysis-expressive-portrait.md`
+- 2024-01-10 — **AAPL Stock Price Chart** (4 msgs) — `raw/chatgpt/stock/2024-01-10--aapl-stock-price-chart.md`
+- 2024-01-11 — **AAPL Last 10 Sessions Chart** (2 msgs) — `raw/chatgpt/stock/2024-01-11--aapl-last-10-sessions-chart.md`
+- 2024-02-12 — **Search Query Analysis: Summary** (20 msgs) — `raw/chatgpt/stock/2024-02-12--search-query-analysis-summary.md`
+- 2024-02-22 — **MSFT Bullish Analysis** (6 msgs) — `raw/chatgpt/stock/2024-02-22--msft-bullish-analysis.md`
+- 2024-03-06 — **Tesla Bearish Trend Analysis** (11 msgs) — `raw/chatgpt/stock/2024-03-06--tesla-bearish-trend-analysis.md`
+- 2024-03-11 — **NVIDIA Stock Analysis Prediction** (6 msgs) — `raw/chatgpt/stock/2024-03-11--nvidia-stock-analysis-prediction.md`
+- 2024-04-25 — **stock sentiment** (9 msgs) — `raw/chatgpt/stock/2024-04-25--stock-sentiment.md`
+- 2024-05-29 — **NVIDIA stock prices October** (25 msgs) — `raw/chatgpt/stock/2024-05-29--nvidia-stock-prices-october.md`
+- 2024-06-06 — **Bullish NVDA Technical Analysis** (31 msgs) — `raw/chatgpt/stock/2024-06-06--bullish-nvda-technical-analysis.md`
+- 2024-06-08 — **Stock Trades and Predictions** (4 msgs) — `raw/chatgpt/stock/2024-06-08--stock-trades-and-predictions.md`
+- 2024-06-10 — **Tech Stocks: Buy Alphabet!** (15 msgs) — `raw/chatgpt/stock/2024-06-10--tech-stocks-buy-alphabet.md`
+- 2024-06-10 — **Stock Data Diagram.** (14 msgs) — `raw/chatgpt/stock/2024-06-10--stock-data-diagram.md`
+- 2024-06-16 — **Trade Analysis: Latest Edition** (89 msgs) — `raw/chatgpt/stock/2024-06-16--trade-analysis-latest-edition.md`
+- 2024-06-24 — **Probable Outcome: NVDA Stock** (16 msgs) — `raw/chatgpt/stock/2024-06-24--probable-outcome-nvda-stock.md`
+- 2024-06-27 — **GDP Q1 2024 Summary** (10 msgs) — `raw/chatgpt/stock/2024-06-27--gdp-q1-2024-summary.md`
+- 2024-06-27 — **Micron Earnings Trade Recommendations** (31 msgs) — `raw/chatgpt/stock/2024-06-27--micron-earnings-trade-recommendations.md`
+- 2024-07-09 — **Tech Stocks Trade Setups** (28 msgs) — `raw/chatgpt/stock/2024-07-09--tech-stocks-trade-setups.md`
+- 2024-07-26 — **Visa Q3 2024 Earnings** (2 msgs) — `raw/chatgpt/stock/2024-07-26--visa-q3-2024-earnings.md`
+- 2024-08-01 — **Nvidia Meta AI Trades** (14 msgs) — `raw/chatgpt/stock/2024-08-01--nvidia-meta-ai-trades.md`
+- 2024-08-05 — **SPY Price Prediction** (14 msgs) — `raw/chatgpt/stock/2024-08-05--spy-price-prediction.md`
+- 2024-08-06 — **DIS earnings** (51 msgs) — `raw/chatgpt/stock/2024-08-06--dis-earnings.md`
+- 2024-08-07 — **Short-Term AAPL Prediction** (8 msgs) — `raw/chatgpt/stock/2024-08-07--short-term-aapl-prediction.md`
+- 2024-08-07 — **DIS Q3 Earnings Analysis** (16 msgs) — `raw/chatgpt/stock/2024-08-07--dis-q3-earnings-analysis.md`
+- 2024-08-08 — **Latest AAPL Price** (37 msgs) — `raw/chatgpt/stock/2024-08-08--latest-aapl-price.md`
+- 2024-08-08 — **Latest AAPL Price#2** (5 msgs) — `raw/chatgpt/stock/2024-08-08--latest-aapl-price-2.md`
+- 2024-08-08 — **Chart Patterns and Predictions** (22 msgs) — `raw/chatgpt/stock/2024-08-08--chart-patterns-and-predictions.md`
+- 2024-08-27 — **NVDA Earnings Analysis Prediction** (22 msgs) — `raw/chatgpt/stock/2024-08-27--nvda-earnings-analysis-prediction.md`
+- 2024-09-18 — **NVDA Earnings Reaction Analysis** (2 msgs) — `raw/chatgpt/stock/2024-09-18--nvda-earnings-reaction-analysis.md`
+- 2024-10-30 — **RTX Stock Prices Summary** (2 msgs) — `raw/chatgpt/stock/2024-10-30--rtx-stock-prices-summary.md`
+- 2025-04-05 — **Stock Market Outlook Request** (5 msgs) — `raw/chatgpt/stock/2025-04-05--stock-market-outlook-request.md`
+- 2025-06-28 — **NYM vs PIT Prediction** (50 msgs) — `raw/chatgpt/stock/2025-06-28--nym-vs-pit-prediction.md`
+- 2025-06-30 — **Sports Event Prediction Model** (22 msgs) — `raw/chatgpt/stock/2025-06-30--sports-event-prediction-model.md`
+- 2025-07-01 — **Game Prediction 7-3** (68 msgs) — `raw/chatgpt/stock/2025-07-01--game-prediction-7-3.md`
+- 2025-07-01 — **BLNE Stock Analysis Request** (7 msgs) — `raw/chatgpt/stock/2025-07-01--blne-stock-analysis-request.md`
+- 2025-07-04 — **Run Prediction Model** (15 msgs) — `raw/chatgpt/stock/2025-07-04--run-prediction-model.md`
+- 2025-07-04 — **Sports Betting Prediction Model** (30 msgs) — `raw/chatgpt/stock/2025-07-04--sports-betting-prediction-model.md`
+- 2025-07-07 — **BOS vs COL Prediction** (38 msgs) — `raw/chatgpt/stock/2025-07-07--bos-vs-col-prediction.md`
+- 2025-10-08 — **Metavesco stock pump** (63 msgs) — `raw/chatgpt/stock/2025-10-08--metavesco-stock-pump.md`
+- 2026-02-19 — **SAAS stocks** (43 msgs) — `raw/chatgpt/stock/2026-02-19--saas-stocks.md`
+- 2026-03-05 — **NBA Betting Prediction Model** (59 msgs) — `raw/chatgpt/stock/2026-03-05--nba-betting-prediction-model.md`
+- 2026-06-29 — **NVDA Analysis: Bullish Momentum** (2 msgs) — `raw/chatgpt/stock/2026-06-29--nvda-analysis-bullish-momentum.md`
+- 2026-06-29 — **Tesla Investment Hypothetical Scenario** (2 msgs) — `raw/chatgpt/stock/2026-06-29--tesla-investment-hypothetical-scenario.md`
+- 2026-06-29 — **AAPL Option Trade Ideas** (46 msgs) — `raw/chatgpt/stock/2026-06-29--aapl-option-trade-ideas.md`
+- 2026-06-29 — **BVH Q4 2022 Results.** (20 msgs) — `raw/chatgpt/stock/2026-06-29--bvh-q4-2022-results.md`

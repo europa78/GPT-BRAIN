@@ -1,0 +1,148 @@
+# STB / Marketing / Web — raw index
+
+144 conversations, 2805 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-01-25 — **Retargeting After Email Campaign.** (38 msgs) — `raw/chatgpt/stb/2023-01-25--retargeting-after-email-campaign.md`
+- 2023-03-21 — **BPA website creation.** (18 msgs) — `raw/chatgpt/stb/2023-03-21--bpa-website-creation.md`
+- 2023-04-21 — **AI Designs Landing Page.** (2 msgs) — `raw/chatgpt/stb/2023-04-21--ai-designs-landing-page.md`
+- 2023-05-04 — **Local SEO On-Page Strategy.** (6 msgs) — `raw/chatgpt/stb/2023-05-04--local-seo-on-page-strategy.md`
+- 2023-05-08 — **SEO Elevation Plan.** (2 msgs) — `raw/chatgpt/stb/2023-05-08--seo-elevation-plan.md`
+- 2023-05-09 — **Landing Page Design Guidance** (4 msgs) — `raw/chatgpt/stb/2023-05-09--landing-page-design-guidance.md`
+- 2023-05-15 — **Affiliate detailed_5_16** (27 msgs) — `raw/chatgpt/stb/2023-05-15--affiliate-detailed-5-16.md`
+- 2023-05-15 — **Website Dev_5-18** (14 msgs) — `raw/chatgpt/stb/2023-05-15--website-dev-5-18.md`
+- 2023-05-15 — **Scaling 100 Affiliate Websites** (26 msgs) — `raw/chatgpt/stb/2023-05-15--scaling-100-affiliate-websites.md`
+- 2023-05-16 — **Building 100 Affiliate Websites.** (4 msgs) — `raw/chatgpt/stb/2023-05-16--building-100-affiliate-websites.md`
+- 2023-05-16 — **Affiliate SEO Website Guide.** (9 msgs) — `raw/chatgpt/stb/2023-05-16--affiliate-seo-website-guide.md`
+- 2023-05-16 — **Scalable Affiliate Website Plan** (11 msgs) — `raw/chatgpt/stb/2023-05-16--scalable-affiliate-website-plan.md`
+- 2023-05-17 — **Affiliate Research - Sustainable Fashion** (8 msgs) — `raw/chatgpt/stb/2023-05-17--affiliate-research-sustainable-fashion.md`
+- 2023-05-31 — **High-Traffic Low-Competition SEO** (6 msgs) — `raw/chatgpt/stb/2023-05-31--high-traffic-low-competition-seo.md`
+- 2023-06-01 — **Find Kitchen Affiliate Programs** (7 msgs) — `raw/chatgpt/stb/2023-06-01--find-kitchen-affiliate-programs.md`
+- 2023-06-02 — **Condensing 9-step Affiliate Process** (6 msgs) — `raw/chatgpt/stb/2023-06-02--condensing-9-step-affiliate-process.md`
+- 2023-06-08 — **AHREFS Proficiency for Profitable Websites** (8 msgs) — `raw/chatgpt/stb/2023-06-08--ahrefs-proficiency-for-profitable-websites.md`
+- 2023-06-09 — **AI-powered Affiliate Website** (20 msgs) — `raw/chatgpt/stb/2023-06-09--ai-powered-affiliate-website.md`
+- 2023-06-11 — **Find High-Traffic Niches.** (19 msgs) — `raw/chatgpt/stb/2023-06-11--find-high-traffic-niches.md`
+- 2023-06-11 — **Affiliate Niche Selection Steps** (12 msgs) — `raw/chatgpt/stb/2023-06-11--affiliate-niche-selection-steps.md`
+- 2023-06-13 — **meal planning niche** (25 msgs) — `raw/chatgpt/stb/2023-06-13--meal-planning-niche.md`
+- 2023-06-13 — **SEO_CORE_AI** (23 msgs) — `raw/chatgpt/stb/2023-06-13--seo-core-ai.md`
+- 2023-06-22 — **HeaderINFO-SEO_CORE** (24 msgs) — `raw/chatgpt/stb/2023-06-22--headerinfo-seo-core.md`
+- 2023-06-24 — **Affiliate Keywords and Twitter** (21 msgs) — `raw/chatgpt/stb/2023-06-24--affiliate-keywords-and-twitter.md`
+- 2023-06-29 — **9 step niche identifier** (11 msgs) — `raw/chatgpt/stb/2023-06-29--9-step-niche-identifier.md`
+- 2023-07-07 — **Website search for companies** (2 msgs) — `raw/chatgpt/stb/2023-07-07--website-search-for-companies.md`
+- 2023-07-14 — **Website upload / CI** (23 msgs) — `raw/chatgpt/stb/2023-07-14--website-upload-ci.md`
+- 2023-07-17 — **website recreation** (18 msgs) — `raw/chatgpt/stb/2023-07-17--website-recreation.md`
+- 2023-07-17 — **CI - Website Spec** (8 msgs) — `raw/chatgpt/stb/2023-07-17--ci-website-spec.md`
+- 2023-07-20 — **Low-Comp Niches for Affiliate** (10 msgs) — `raw/chatgpt/stb/2023-07-20--low-comp-niches-for-affiliate.md`
+- 2023-07-21 — **Less Popular Niches** (22 msgs) — `raw/chatgpt/stb/2023-07-21--less-popular-niches.md`
+- 2023-08-17 — **Niche Selection Guide** (8 msgs) — `raw/chatgpt/stb/2023-08-17--niche-selection-guide.md`
+- 2023-09-05 — **SEO analysis** (22 msgs) — `raw/chatgpt/stb/2023-09-05--seo-analysis.md`
+- 2023-09-05 — **Ladder method / Outreach** (7 msgs) — `raw/chatgpt/stb/2023-09-05--ladder-method-outreach.md`
+- 2023-09-06 — **Email Campaign: No Sign-Ups** (2 msgs) — `raw/chatgpt/stb/2023-09-06--email-campaign-no-sign-ups.md`
+- 2023-11-17 — **Customized Outreach Emails** (8 msgs) — `raw/chatgpt/stb/2023-11-17--customized-outreach-emails.md`
+- 2023-11-20 — **Create Website Like URL** (20 msgs) — `raw/chatgpt/stb/2023-11-20--create-website-like-url.md`
+- 2023-11-26 — **Email Outreach Template** (16 msgs) — `raw/chatgpt/stb/2023-11-26--email-outreach-template.md`
+- 2023-12-27 — **Categorized Client List** (9 msgs) — `raw/chatgpt/stb/2023-12-27--categorized-client-list.md`
+- 2024-01-24 — **STB - Facebook Profile Pic** (20 msgs) — `raw/chatgpt/stb/2024-01-24--stb-facebook-profile-pic.md`
+- 2024-01-29 — **SEO** (10 msgs) — `raw/chatgpt/stb/2024-01-29--seo.md`
+- 2024-01-30 — **SEO Keywords for Appliance Repair** (4 msgs) — `raw/chatgpt/stb/2024-01-30--seo-keywords-for-appliance-repair.md`
+- 2024-02-01 — **SEO: Search Query Analyzer** (11 msgs) — `raw/chatgpt/stb/2024-02-01--seo-search-query-analyzer.md`
+- 2024-02-23 — **STB Digital - intro email** (68 msgs) — `raw/chatgpt/stb/2024-02-23--stb-digital-intro-email.md`
+- 2024-03-04 — **SEO TOOL** (12 msgs) — `raw/chatgpt/stb/2024-03-04--seo-tool.md`
+- 2024-03-05 — **SEO Optimization Proposal** (2 msgs) — `raw/chatgpt/stb/2024-03-05--seo-optimization-proposal.md`
+- 2024-03-12 — **Local SEO Package Proposal** (25 msgs) — `raw/chatgpt/stb/2024-03-12--local-seo-package-proposal.md`
+- 2024-03-24 — **YouTube GHL videos** (16 msgs) — `raw/chatgpt/stb/2024-03-24--youtube-ghl-videos.md`
+- 2024-03-24 — **GHL - instruction manual** (62 msgs) — `raw/chatgpt/stb/2024-03-24--ghl-instruction-manual.md`
+- 2024-04-09 — **Website Access via Internet** (25 msgs) — `raw/chatgpt/stb/2024-04-09--website-access-via-internet.md`
+- 2024-04-10 — **Integrate Third-Party Calendar GHL** (4 msgs) — `raw/chatgpt/stb/2024-04-10--integrate-third-party-calendar-ghl.md`
+- 2024-04-10 — **Docusign with GHL via Zapier** (4 msgs) — `raw/chatgpt/stb/2024-04-10--docusign-with-ghl-via-zapier.md`
+- 2024-04-12 — **Email Drip Sequence GHL.** (12 msgs) — `raw/chatgpt/stb/2024-04-12--email-drip-sequence-ghl.md`
+- 2024-04-13 — **canva - SEO** (30 msgs) — `raw/chatgpt/stb/2024-04-13--canva-seo.md`
+- 2024-04-16 — **Canva proposal models requested.** (3 msgs) — `raw/chatgpt/stb/2024-04-16--canva-proposal-models-requested.md`
+- 2024-04-22 — **STB Digital onboarding** (8 msgs) — `raw/chatgpt/stb/2024-04-22--stb-digital-onboarding.md`
+- 2024-04-23 — **Schedule Appointment in GHL** (8 msgs) — `raw/chatgpt/stb/2024-04-23--schedule-appointment-in-ghl.md`
+- 2024-04-30 — **PDF introduction- STB** (20 msgs) — `raw/chatgpt/stb/2024-04-30--pdf-introduction-stb.md`
+- 2024-04-30 — **Website for Business Launch** (6 msgs) — `raw/chatgpt/stb/2024-04-30--website-for-business-launch.md`
+- 2024-05-08 — **SEO Strategy - home services** (3 msgs) — `raw/chatgpt/stb/2024-05-08--seo-strategy-home-services.md`
+- 2024-05-13 — **SEO Guide: Unlock Potential** (4 msgs) — `raw/chatgpt/stb/2024-05-13--seo-guide-unlock-potential.md`
+- 2024-05-14 — **Local SEO Packages Comparison** (13 msgs) — `raw/chatgpt/stb/2024-05-14--local-seo-packages-comparison.md`
+- 2024-05-24 — **STB Digital Facebook ad** (8 msgs) — `raw/chatgpt/stb/2024-05-24--stb-digital-facebook-ad.md`
+- 2024-06-07 — **SEO Audit & GMB Optimization** (6 msgs) — `raw/chatgpt/stb/2024-06-07--seo-audit-gmb-optimization.md`
+- 2024-06-13 — **Google Ads Metrics Summary** (16 msgs) — `raw/chatgpt/stb/2024-06-13--google-ads-metrics-summary.md`
+- 2024-08-11 — **website generator** (33 msgs) — `raw/chatgpt/stb/2024-08-11--website-generator.md`
+- 2024-08-16 — **Ecommerce SEO Product Writing** (3 msgs) — `raw/chatgpt/stb/2024-08-16--ecommerce-seo-product-writing.md`
+- 2024-10-18 — **Extra Mile Billing SEO Analysis** (6 msgs) — `raw/chatgpt/stb/2024-10-18--extra-mile-billing-seo-analysis.md`
+- 2024-10-18 — **SEO Recommendations for Limo Service** (10 msgs) — `raw/chatgpt/stb/2024-10-18--seo-recommendations-for-limo-service.md`
+- 2024-10-29 — **Google Guarantee Cold Call Script** (2 msgs) — `raw/chatgpt/stb/2024-10-29--google-guarantee-cold-call-script.md`
+- 2024-10-29 — **SEO Audit for Drake Renovations** (2 msgs) — `raw/chatgpt/stb/2024-10-29--seo-audit-for-drake-renovations.md`
+- 2024-11-07 — **Ideal SEO Specialist Candidate** (2 msgs) — `raw/chatgpt/stb/2024-11-07--ideal-seo-specialist-candidate.md`
+- 2024-11-11 — **SEO Audit Recommendations** (2 msgs) — `raw/chatgpt/stb/2024-11-11--seo-audit-recommendations.md`
+- 2024-11-22 — **Doctor Outreach Email Template** (6 msgs) — `raw/chatgpt/stb/2024-11-22--doctor-outreach-email-template.md`
+- 2024-11-26 — **SEO Package Breakdown** (8 msgs) — `raw/chatgpt/stb/2024-11-26--seo-package-breakdown.md`
+- 2024-12-23 — **GBP Setup Agency Proposal** (20 msgs) — `raw/chatgpt/stb/2024-12-23--gbp-setup-agency-proposal.md`
+- 2025-01-12 — **BEE SEARCHABLE BUSINESS PLAN/website** (40 msgs) — `raw/chatgpt/stb/2025-01-12--bee-searchable-business-plan-website.md`
+- 2025-01-16 — **Website Background Image Ideas** (22 msgs) — `raw/chatgpt/stb/2025-01-16--website-background-image-ideas.md`
+- 2025-01-17 — **B12 website builder terms** (4 msgs) — `raw/chatgpt/stb/2025-01-17--b12-website-builder-terms.md`
+- 2025-01-17 — **website re-write home page** (4 msgs) — `raw/chatgpt/stb/2025-01-17--website-re-write-home-page.md`
+- 2025-02-11 — **Website Link Request** (1 msgs) — `raw/chatgpt/stb/2025-02-11--website-link-request.md`
+- 2025-02-12 — **Rescale Collab Website** (6 msgs) — `raw/chatgpt/stb/2025-02-12--rescale-collab-website.md`
+- 2025-03-26 — **SEO Audit for Pro Pest** (86 msgs) — `raw/chatgpt/stb/2025-03-26--seo-audit-for-pro-pest.md`
+- 2025-04-08 — **Email Outreach Strategy** (40 msgs) — `raw/chatgpt/stb/2025-04-08--email-outreach-strategy.md`
+- 2025-04-09 — **Plastic Surgeon Outreach Email** (133 msgs) — `raw/chatgpt/stb/2025-04-09--plastic-surgeon-outreach-email.md`
+- 2025-04-11 — **Roofing LSA Outreach Plan** (6 msgs) — `raw/chatgpt/stb/2025-04-11--roofing-lsa-outreach-plan.md`
+- 2025-04-15 — **SEO Audit nxloans.com** (20 msgs) — `raw/chatgpt/stb/2025-04-15--seo-audit-nxloans-com.md`
+- 2025-04-29 — **Crystal Water Solutions - proposal** (9 msgs) — `raw/chatgpt/stb/2025-04-29--crystal-water-solutions-proposal.md`
+- 2025-05-08 — **LSA Proposal for Allstate** (16 msgs) — `raw/chatgpt/stb/2025-05-08--lsa-proposal-for-allstate.md`
+- 2025-05-27 — **SEO Audit Chic'n Crave** (8 msgs) — `raw/chatgpt/stb/2025-05-27--seo-audit-chic-n-crave.md`
+- 2025-06-04 — **Local Lead Generation Proposal** (9 msgs) — `raw/chatgpt/stb/2025-06-04--local-lead-generation-proposal.md`
+- 2025-06-12 — **Google Ads SEO Proposal** (7 msgs) — `raw/chatgpt/stb/2025-06-12--google-ads-seo-proposal.md`
+- 2025-07-11 — **Email Proposal Reformatting** (16 msgs) — `raw/chatgpt/stb/2025-07-11--email-proposal-reformatting.md`
+- 2025-07-18 — **Proposal formatting revision** (5 msgs) — `raw/chatgpt/stb/2025-07-18--proposal-formatting-revision.md`
+- 2025-07-22 — **Zoominfo EMAIL templates** (22 msgs) — `raw/chatgpt/stb/2025-07-22--zoominfo-email-templates.md`
+- 2025-07-29 — **Website audit blueconstruction** (5 msgs) — `raw/chatgpt/stb/2025-07-29--website-audit-blueconstruction.md`
+- 2025-07-31 — **ICP client list for ZOOMinfo** (205 msgs) — `raw/chatgpt/stb/2025-07-31--icp-client-list-for-zoominfo.md`
+- 2025-09-04 — **Proposal methods-DEEP RESEARCH** (190 msgs) — `raw/chatgpt/stb/2025-09-04--proposal-methods-deep-research.md`
+- 2025-10-12 — **DALL-E outreach creation** (18 msgs) — `raw/chatgpt/stb/2025-10-12--dall-e-outreach-creation.md`
+- 2025-10-19 — **Cold outreach methods** (6 msgs) — `raw/chatgpt/stb/2025-10-19--cold-outreach-methods.md`
+- 2025-10-26 — **HTML email template 11-1** (57 msgs) — `raw/chatgpt/stb/2025-10-26--html-email-template-11-1.md`
+- 2025-11-03 — **Dall-e email template design** (8 msgs) — `raw/chatgpt/stb/2025-11-03--dall-e-email-template-design.md`
+- 2025-11-07 — **Salesloft HTML template** (36 msgs) — `raw/chatgpt/stb/2025-11-07--salesloft-html-template.md`
+- 2025-11-15 — **Swiss design website** (13 msgs) — `raw/chatgpt/stb/2025-11-15--swiss-design-website.md`
+- 2025-11-16 — **3D pixel art website** (13 msgs) — `raw/chatgpt/stb/2025-11-16--3d-pixel-art-website.md`
+- 2025-11-20 — **Proposal introduction paragraph** (12 msgs) — `raw/chatgpt/stb/2025-11-20--proposal-introduction-paragraph.md`
+- 2025-11-29 — **Landing page revisions** (51 msgs) — `raw/chatgpt/stb/2025-11-29--landing-page-revisions.md`
+- 2025-12-04 — **Email campaign outreach** (4 msgs) — `raw/chatgpt/stb/2025-12-04--email-campaign-outreach.md`
+- 2025-12-13 — **Create email template** (39 msgs) — `raw/chatgpt/stb/2025-12-13--create-email-template.md`
+- 2025-12-13 — **Empower email template creation** (17 msgs) — `raw/chatgpt/stb/2025-12-13--empower-email-template-creation.md`
+- 2025-12-18 — **Custom proposal creation** (12 msgs) — `raw/chatgpt/stb/2025-12-18--custom-proposal-creation.md`
+- 2026-01-05 — **STB Digital new price list** (4 msgs) — `raw/chatgpt/stb/2026-01-05--stb-digital-new-price-list.md`
+- 2026-01-13 — **Google Ads Proposal** (8 msgs) — `raw/chatgpt/stb/2026-01-13--google-ads-proposal.md`
+- 2026-01-24 — **HTML proposals** (58 msgs) — `raw/chatgpt/stb/2026-01-24--html-proposals.md`
+- 2026-01-27 — **Remix Mpowr Landing Page** (6 msgs) — `raw/chatgpt/stb/2026-01-27--remix-mpowr-landing-page.md`
+- 2026-01-27 — **Salesloft multi channel cadence** (7 msgs) — `raw/chatgpt/stb/2026-01-27--salesloft-multi-channel-cadence.md`
+- 2026-01-29 — **Kimi - Google Ads Proposal** (49 msgs) — `raw/chatgpt/stb/2026-01-29--kimi-google-ads-proposal.md`
+- 2026-02-10 — **Digital Growth Partnership Proposal** (4 msgs) — `raw/chatgpt/stb/2026-02-10--digital-growth-partnership-proposal.md`
+- 2026-02-11 — **Proposal Comparison Analysis** (19 msgs) — `raw/chatgpt/stb/2026-02-11--proposal-comparison-analysis.md`
+- 2026-02-12 — **Photorealistic Café Branding Shot** (5 msgs) — `raw/chatgpt/stb/2026-02-12--photorealistic-caf-branding-shot.md`
+- 2026-02-13 — **MPOWR Outreach - Mark** (10 msgs) — `raw/chatgpt/stb/2026-02-13--mpowr-outreach-mark.md`
+- 2026-02-18 — **Advise Wisely website** (16 msgs) — `raw/chatgpt/stb/2026-02-18--advise-wisely-website.md`
+- 2026-02-25 — **Google Sheets Website Finder** (4 msgs) — `raw/chatgpt/stb/2026-02-25--google-sheets-website-finder.md`
+- 2026-02-27 — **SEO Growth and PPC** (36 msgs) — `raw/chatgpt/stb/2026-02-27--seo-growth-and-ppc.md`
+- 2026-03-01 — **Website Service Analysis** (18 msgs) — `raw/chatgpt/stb/2026-03-01--website-service-analysis.md`
+- 2026-03-04 — **Landing Page Code Save** (10 msgs) — `raw/chatgpt/stb/2026-03-04--landing-page-code-save.md`
+- 2026-03-06 — **Landing Page Design Request** (49 msgs) — `raw/chatgpt/stb/2026-03-06--landing-page-design-request.md`
+- 2026-06-29 — **Google Ads Advantages for Business** (113 msgs) — `raw/chatgpt/stb/2026-06-29--google-ads-advantages-for-business.md`
+- 2026-06-29 — **Google ads test** (18 msgs) — `raw/chatgpt/stb/2026-06-29--google-ads-test.md`
+- 2026-06-29 — **HTML website generator.** (51 msgs) — `raw/chatgpt/stb/2026-06-29--html-website-generator.md`
+- 2026-06-29 — **cold call scripts 3-1** (22 msgs) — `raw/chatgpt/stb/2026-06-29--cold-call-scripts-3-1.md`
+- 2026-06-29 — **Build Website: HTML/CSS/JS.** (3 msgs) — `raw/chatgpt/stb/2026-06-29--build-website-html-css-js.md`
+- 2026-06-29 — **Google Ads 8 Steps.** (20 msgs) — `raw/chatgpt/stb/2026-06-29--google-ads-8-steps.md`
+- 2026-06-29 — **Optimizing Website Design.** (54 msgs) — `raw/chatgpt/stb/2026-06-29--optimizing-website-design.md`
+- 2026-06-29 — **Bootstrap website code.** (28 msgs) — `raw/chatgpt/stb/2026-06-29--bootstrap-website-code.md`
+- 2026-06-29 — **Mattress Store Ad Campaigns** (33 msgs) — `raw/chatgpt/stb/2026-06-29--mattress-store-ad-campaigns.md`
+- unknown — **asset:Prancheta 169@4x-8.png** (null msgs) — `raw/chatgpt/stb/unknown--asset-prancheta-169-4x-8-png.md`
+- unknown — **asset:warrior services logo.PNG** (null msgs) — `raw/chatgpt/stb/unknown--asset-warrior-services-logo-png.md`
+- unknown — **asset:FB new website.PNG** (null msgs) — `raw/chatgpt/stb/unknown--asset-fb-new-website-png.md`
+- unknown — **asset:Ray LinkedIn images 2-19-26.jpeg** (null msgs) — `raw/chatgpt/stb/unknown--asset-ray-linkedin-images-2-19-26-jpeg.md`
+- unknown — **asset:Prancheta 181@4x-8.png** (null msgs) — `raw/chatgpt/stb/unknown--asset-prancheta-181-4x-8-png.md`
+- unknown — **asset:Ray LinkedIn images for posting 2-19-26 - 2.jpeg** (null msgs) — `raw/chatgpt/stb/unknown--asset-ray-linkedin-images-for-posting-2-19-26-2-jpeg.md`
+- unknown — **asset:TCB logo first draft.PNG** (null msgs) — `raw/chatgpt/stb/unknown--asset-tcb-logo-first-draft-png.md`
+- unknown — **asset:omnio.PNG** (null msgs) — `raw/chatgpt/stb/unknown--asset-omnio-png.md`

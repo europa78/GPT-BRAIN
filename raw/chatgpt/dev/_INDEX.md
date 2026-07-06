@@ -1,0 +1,88 @@
+# Coding / Dev / Infra — raw index
+
+84 conversations, 2591 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-02-17 — **Datasys part deux** (180 msgs) — `raw/chatgpt/dev/2023-02-17--datasys-part-deux.md`
+- 2023-04-04 — **Python Transcription with SpeechRecognition.** (40 msgs) — `raw/chatgpt/dev/2023-04-04--python-transcription-with-speechrecognition.md`
+- 2023-04-24 — **Python Article Processing** (114 msgs) — `raw/chatgpt/dev/2023-04-24--python-article-processing.md`
+- 2023-04-25 — **4-25-Python LDA Topic Modeling** (84 msgs) — `raw/chatgpt/dev/2023-04-25--4-25-python-lda-topic-modeling.md`
+- 2023-04-26 — **Python ML Content Analysis** (20 msgs) — `raw/chatgpt/dev/2023-04-26--python-ml-content-analysis.md`
+- 2023-04-27 — **Python Script for URL Summarization.** (51 msgs) — `raw/chatgpt/dev/2023-04-27--python-script-for-url-summarization.md`
+- 2023-04-28 — **SQL Database Definition** (6 msgs) — `raw/chatgpt/dev/2023-04-28--sql-database-definition.md`
+- 2023-04-29 — **Python 4_29** (80 msgs) — `raw/chatgpt/dev/2023-04-29--python-4-29.md`
+- 2023-05-01 — **Vector Database for Programming.** (14 msgs) — `raw/chatgpt/dev/2023-05-01--vector-database-for-programming.md`
+- 2023-05-02 — **ThinkScript Editor_5-2** (18 msgs) — `raw/chatgpt/dev/2023-05-02--thinkscript-editor-5-2.md`
+- 2023-05-09 — **"Generating Article Analysis Script"** (2 msgs) — `raw/chatgpt/dev/2023-05-09--generating-article-analysis-script.md`
+- 2023-05-26 — **Library_Script** (2 msgs) — `raw/chatgpt/dev/2023-05-26--library-script.md`
+- 2023-05-26 — **PythonScript_Article** (4 msgs) — `raw/chatgpt/dev/2023-05-26--pythonscript-article.md`
+- 2023-06-02 — **CODE 9 steps** (10 msgs) — `raw/chatgpt/dev/2023-06-02--code-9-steps.md`
+- 2023-06-19 — **Redfin API Data Extraction** (26 msgs) — `raw/chatgpt/dev/2023-06-19--redfin-api-data-extraction.md`
+- 2023-07-03 — **GPT_GoogleSheets_Functions** (10 msgs) — `raw/chatgpt/dev/2023-07-03--gpt-googlesheets-functions.md`
+- 2023-07-08 — **String vs. Python Objects** (8 msgs) — `raw/chatgpt/dev/2023-07-08--string-vs-python-objects.md`
+- 2023-07-12 — **Collaboration Opportunity: Fluid-Datasys** (4 msgs) — `raw/chatgpt/dev/2023-07-12--collaboration-opportunity-fluid-datasys.md`
+- 2023-07-12 — **Job Description Analysis** (4 msgs) — `raw/chatgpt/dev/2023-07-12--job-description-analysis.md`
+- 2023-07-12 — **Web Dev Build: HTML/CSS/JS** (10 msgs) — `raw/chatgpt/dev/2023-07-12--web-dev-build-html-css-js.md`
+- 2023-08-19 — **ChatGPT Functions for Sheets** (10 msgs) — `raw/chatgpt/dev/2023-08-19--chatgpt-functions-for-sheets.md`
+- 2023-08-19 — **Google Sheets Functions Help** (6 msgs) — `raw/chatgpt/dev/2023-08-19--google-sheets-functions-help.md`
+- 2023-08-21 — **Google Sheet Custom Functions** (28 msgs) — `raw/chatgpt/dev/2023-08-21--google-sheet-custom-functions.md`
+- 2023-09-16 — **Local Code Interpreter Tool** (6 msgs) — `raw/chatgpt/dev/2023-09-16--local-code-interpreter-tool.md`
+- 2023-09-27 — **Economic calendar** (52 msgs) — `raw/chatgpt/dev/2023-09-27--economic-calendar.md`
+- 2023-10-20 — **APP SCRIPTS#2** (30 msgs) — `raw/chatgpt/dev/2023-10-20--app-scripts-2.md`
+- 2023-11-28 — **Create Google Sheet Script** (4 msgs) — `raw/chatgpt/dev/2023-11-28--create-google-sheet-script.md`
+- 2023-12-03 — **Create Webpage: HTML, CSS, JS** (4 msgs) — `raw/chatgpt/dev/2023-12-03--create-webpage-html-css-js.md`
+- 2023-12-06 — **two fingers album description** (41 msgs) — `raw/chatgpt/dev/2023-12-06--two-fingers-album-description.md`
+- 2023-12-08 — **LOI for Datasys Acquisition** (10 msgs) — `raw/chatgpt/dev/2023-12-08--loi-for-datasys-acquisition.md`
+- 2023-12-14 — **Datasys Political Deck summary** (12 msgs) — `raw/chatgpt/dev/2023-12-14--datasys-political-deck-summary.md`
+- 2023-12-16 — **Create PyNance Script** (8 msgs) — `raw/chatgpt/dev/2023-12-16--create-pynance-script.md`
+- 2024-05-29 — **Use OpenAI API** (4 msgs) — `raw/chatgpt/dev/2024-05-29--use-openai-api.md`
+- 2024-06-05 — **Economic Calendar for June** (17 msgs) — `raw/chatgpt/dev/2024-06-05--economic-calendar-for-june.md`
+- 2024-08-07 — **Video Transcription Request** (4 msgs) — `raw/chatgpt/dev/2024-08-07--video-transcription-request.md`
+- 2024-08-17 — **Image Description Analysis** (7 msgs) — `raw/chatgpt/dev/2024-08-17--image-description-analysis.md`
+- 2024-11-16 — **Selenium PYTHON script** (25 msgs) — `raw/chatgpt/dev/2024-11-16--selenium-python-script.md`
+- 2024-12-02 — **ReaScript Overview and Languages** (16 msgs) — `raw/chatgpt/dev/2024-12-02--reascript-overview-and-languages.md`
+- 2024-12-09 — **APP SCRIPTS** (104 msgs) — `raw/chatgpt/dev/2024-12-09--app-scripts.md`
+- 2024-12-16 — **Google Sheets Help - area code** (6 msgs) — `raw/chatgpt/dev/2024-12-16--google-sheets-help-area-code.md`
+- 2024-12-16 — **Area Code Extraction** (8 msgs) — `raw/chatgpt/dev/2024-12-16--area-code-extraction.md`
+- 2025-01-25 — **Minimalist Code Planning** (12 msgs) — `raw/chatgpt/dev/2025-01-25--minimalist-code-planning.md`
+- 2025-04-04 — **Modify script for CSV** (4 msgs) — `raw/chatgpt/dev/2025-04-04--modify-script-for-csv.md`
+- 2025-05-26 — **Betting Analysis Model - python** (110 msgs) — `raw/chatgpt/dev/2025-05-26--betting-analysis-model-python.md`
+- 2025-10-04 — **Workflow script fix** (8 msgs) — `raw/chatgpt/dev/2025-10-04--workflow-script-fix.md`
+- 2025-10-26 — **Edit HTML in Colab** (6 msgs) — `raw/chatgpt/dev/2025-10-26--edit-html-in-colab.md`
+- 2025-11-02 — **Learn html book** (132 msgs) — `raw/chatgpt/dev/2025-11-02--learn-html-book.md`
+- 2025-11-07 — **HTML email coding tips** (26 msgs) — `raw/chatgpt/dev/2025-11-07--html-email-coding-tips.md`
+- 2025-11-15 — **Create HTML version** (14 msgs) — `raw/chatgpt/dev/2025-11-15--create-html-version.md`
+- 2025-11-17 — **Render HTML with rings** (4 msgs) — `raw/chatgpt/dev/2025-11-17--render-html-with-rings.md`
+- 2025-11-26 — **HTML CSS edits request** (152 msgs) — `raw/chatgpt/dev/2025-11-26--html-css-edits-request.md`
+- 2025-11-28 — **Render HTML file** (22 msgs) — `raw/chatgpt/dev/2025-11-28--render-html-file.md`
+- 2025-12-04 — **Boca Raton Observer businesses** (20 msgs) — `raw/chatgpt/dev/2025-12-04--boca-raton-observer-businesses.md`
+- 2025-12-05 — **Boca Observer email** (28 msgs) — `raw/chatgpt/dev/2025-12-05--boca-observer-email.md`
+- 2025-12-16 — **Combine HTML files** (10 msgs) — `raw/chatgpt/dev/2025-12-16--combine-html-files.md`
+- 2025-12-26 — **HTML CSS JS Programmer** (25 msgs) — `raw/chatgpt/dev/2025-12-26--html-css-js-programmer.md`
+- 2025-12-27 — **HTML File Rendered** (4 msgs) — `raw/chatgpt/dev/2025-12-27--html-file-rendered.md`
+- 2026-01-04 — **Mr Hood Repair HTML email** (16 msgs) — `raw/chatgpt/dev/2026-01-04--mr-hood-repair-html-email.md`
+- 2026-01-07 — **Integrated Pain Management FB** (19 msgs) — `raw/chatgpt/dev/2026-01-07--integrated-pain-management-fb.md`
+- 2026-02-11 — **MCA resume HTML** (77 msgs) — `raw/chatgpt/dev/2026-02-11--mca-resume-html.md`
+- 2026-02-11 — **Warrior comp HTML** (65 msgs) — `raw/chatgpt/dev/2026-02-11--warrior-comp-html.md`
+- 2026-02-14 — **Packaging Electron App** (4 msgs) — `raw/chatgpt/dev/2026-02-14--packaging-electron-app.md`
+- 2026-02-15 — **Node.js Vite Setup Explanation** (40 msgs) — `raw/chatgpt/dev/2026-02-15--node-js-vite-setup-explanation.md`
+- 2026-02-15 — **HTML Wrapper for App** (10 msgs) — `raw/chatgpt/dev/2026-02-15--html-wrapper-for-app.md`
+- 2026-02-16 — **2025 Nonfiction Calendar** (54 msgs) — `raw/chatgpt/dev/2026-02-16--2025-nonfiction-calendar.md`
+- 2026-02-20 — **Three.js React Globe** (28 msgs) — `raw/chatgpt/dev/2026-02-20--three-js-react-globe.md`
+- 2026-02-22 — **Extracting Z.AI Code** (11 msgs) — `raw/chatgpt/dev/2026-02-22--extracting-z-ai-code.md`
+- 2026-02-23 — **Resume Code Rendered** (23 msgs) — `raw/chatgpt/dev/2026-02-23--resume-code-rendered.md`
+- 2026-03-07 — **Generate image description** (50 msgs) — `raw/chatgpt/dev/2026-03-07--generate-image-description.md`
+- 2026-03-15 — **AI Code Generation Screenshot** (2 msgs) — `raw/chatgpt/dev/2026-03-15--ai-code-generation-screenshot.md`
+- 2026-03-25 — **Rebuttal Transcription** (4 msgs) — `raw/chatgpt/dev/2026-03-25--rebuttal-transcription.md`
+- 2026-03-27 — **Document transcription request** (2 msgs) — `raw/chatgpt/dev/2026-03-27--document-transcription-request.md`
+- 2026-06-29 — **call script** (38 msgs) — `raw/chatgpt/dev/2026-06-29--call-script.md`
+- 2026-06-29 — **JAVA and ChatGPT API** (462 msgs) — `raw/chatgpt/dev/2026-06-29--java-and-chatgpt-api.md`
+- 2026-06-29 — **Python Library Overview.** (8 msgs) — `raw/chatgpt/dev/2026-06-29--python-library-overview.md`
+- 2026-06-29 — **Creating ThinkScript on TOS** (2 msgs) — `raw/chatgpt/dev/2026-06-29--creating-thinkscript-on-tos.md`
+- 2026-06-29 — **Gradio Model Integration.** (10 msgs) — `raw/chatgpt/dev/2026-06-29--gradio-model-integration.md`
+- unknown — **asset:HTML doc (unmapped).html** (null msgs) — `raw/chatgpt/dev/unknown--asset-html-doc-unmapped-html.md`
+- unknown — **asset:main.jsx** (null msgs) — `raw/chatgpt/dev/unknown--asset-main-jsx.md`
+- unknown — **asset:(export HTML/asset)** (null msgs) — `raw/chatgpt/dev/unknown--asset-export-html-asset.md`
+- unknown — **asset:(export HTML/asset)#b11** (null msgs) — `raw/chatgpt/dev/unknown--asset-export-html-asset-b11.md`
+- unknown — **asset:(export HTML/asset)#b16** (null msgs) — `raw/chatgpt/dev/unknown--asset-export-html-asset-b16.md`
+- unknown — **asset:the script editor 1.png** (null msgs) — `raw/chatgpt/dev/unknown--asset-the-script-editor-1-png.md`
+- unknown — **asset:the script editor 3.png** (null msgs) — `raw/chatgpt/dev/unknown--asset-the-script-editor-3-png.md`

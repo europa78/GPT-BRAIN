@@ -1,0 +1,53 @@
+# Prospecting / Lead Gen — raw index
+
+49 conversations, 1438 messages. Read-only ground truth — never rewrite raw/.
+
+- 2022-12-11 — **prospect probability** (91 msgs) — `raw/chatgpt/prospect/2022-12-11--prospect-probability.md`
+- 2023-03-23 — **Prospect email** (12 msgs) — `raw/chatgpt/prospect/2023-03-23--prospect-email.md`
+- 2023-04-27 — **Python script for web scraping.** (74 msgs) — `raw/chatgpt/prospect/2023-04-27--python-script-for-web-scraping.md`
+- 2023-05-11 — **Custom Web Scraping Actor** (6 msgs) — `raw/chatgpt/prospect/2023-05-11--custom-web-scraping-actor.md`
+- 2023-05-23 — **Efficient Web Scraping Solution** (13 msgs) — `raw/chatgpt/prospect/2023-05-23--efficient-web-scraping-solution.md`
+- 2023-06-13 — **Rentable_apartments** (20 msgs) — `raw/chatgpt/prospect/2023-06-13--rentable-apartments.md`
+- 2023-07-06 — **Contact info for prospects.** (18 msgs) — `raw/chatgpt/prospect/2023-07-06--contact-info-for-prospects.md`
+- 2023-07-14 — **Lead Distribution Tech Stack** (12 msgs) — `raw/chatgpt/prospect/2023-07-14--lead-distribution-tech-stack.md`
+- 2023-08-12 — **Craigslist Scraping Restrictions** (6 msgs) — `raw/chatgpt/prospect/2023-08-12--craigslist-scraping-restrictions.md`
+- 2023-08-17 — **Scraping Flippa for Data** (4 msgs) — `raw/chatgpt/prospect/2023-08-17--scraping-flippa-for-data.md`
+- 2023-11-16 — **Lead Scout - Training Process** (28 msgs) — `raw/chatgpt/prospect/2023-11-16--lead-scout-training-process.md`
+- 2023-11-18 — **LeadGorilla 2.0 Lead Gen** (23 msgs) — `raw/chatgpt/prospect/2023-11-18--leadgorilla-2-0-lead-gen.md`
+- 2023-11-19 — **Dall-E Baseball card leads** (18 msgs) — `raw/chatgpt/prospect/2023-11-19--dall-e-baseball-card-leads.md`
+- 2023-11-24 — **Real Estate Lead Gen** (26 msgs) — `raw/chatgpt/prospect/2023-11-24--real-estate-lead-gen.md`
+- 2023-12-03 — **Lead gen images - auto** (2 msgs) — `raw/chatgpt/prospect/2023-12-03--lead-gen-images-auto.md`
+- 2023-12-05 — **Datasys DNC categories** (4 msgs) — `raw/chatgpt/prospect/2023-12-05--datasys-dnc-categories.md`
+- 2023-12-27 — **Enhanced Email for Prospects** (10 msgs) — `raw/chatgpt/prospect/2023-12-27--enhanced-email-for-prospects.md`
+- 2023-12-27 — **LinkedIn Message for Prospecting** (38 msgs) — `raw/chatgpt/prospect/2023-12-27--linkedin-message-for-prospecting.md`
+- 2024-02-13 — **Web Scraping for Leads** (6 msgs) — `raw/chatgpt/prospect/2024-02-13--web-scraping-for-leads.md`
+- 2024-03-07 — **Web Scraping Project Guide** (10 msgs) — `raw/chatgpt/prospect/2024-03-07--web-scraping-project-guide.md`
+- 2024-04-18 — **Roofing images** (18 msgs) — `raw/chatgpt/prospect/2024-04-18--roofing-images.md`
+- 2024-05-13 — **Lead Gen Consult Request** (6 msgs) — `raw/chatgpt/prospect/2024-05-13--lead-gen-consult-request.md`
+- 2024-05-24 — **Lead Generation Strategies** (19 msgs) — `raw/chatgpt/prospect/2024-05-24--lead-generation-strategies.md`
+- 2024-11-18 — **Lead Generation Sources** (18 msgs) — `raw/chatgpt/prospect/2024-11-18--lead-generation-sources.md`
+- 2024-12-10 — **TEXT message to prospect** (6 msgs) — `raw/chatgpt/prospect/2024-12-10--text-message-to-prospect.md`
+- 2025-01-08 — **Lead formatting request** (18 msgs) — `raw/chatgpt/prospect/2025-01-08--lead-formatting-request.md`
+- 2025-01-08 — **Google Business Profile Checklist** (6 msgs) — `raw/chatgpt/prospect/2025-01-08--google-business-profile-checklist.md`
+- 2025-01-10 — **Industries for GBP DATA AXLE** (8 msgs) — `raw/chatgpt/prospect/2025-01-10--industries-for-gbp-data-axle.md`
+- 2025-01-23 — **LeadSwift Filter Guide** (29 msgs) — `raw/chatgpt/prospect/2025-01-23--leadswift-filter-guide.md`
+- 2025-01-23 — **LeadSwift** (13 msgs) — `raw/chatgpt/prospect/2025-01-23--leadswift.md`
+- 2025-02-05 — **Lead Generation Strategies#2** (4 msgs) — `raw/chatgpt/prospect/2025-02-05--lead-generation-strategies-2.md`
+- 2025-03-23 — **Lead Gen Strategies DM** (71 msgs) — `raw/chatgpt/prospect/2025-03-23--lead-gen-strategies-dm.md`
+- 2025-06-03 — **Local Lead Generation Strategy** (34 msgs) — `raw/chatgpt/prospect/2025-06-03--local-lead-generation-strategy.md`
+- 2025-06-05 — **Local Lead Generation Strategy#2** (32 msgs) — `raw/chatgpt/prospect/2025-06-05--local-lead-generation-strategy-2.md`
+- 2025-07-16 — **Identifying business prospects** (4 msgs) — `raw/chatgpt/prospect/2025-07-16--identifying-business-prospects.md`
+- 2025-07-16 — **Facebook prospecting strategy** (10 msgs) — `raw/chatgpt/prospect/2025-07-16--facebook-prospecting-strategy.md`
+- 2025-07-26 — **Pool builders list** (140 msgs) — `raw/chatgpt/prospect/2025-07-26--pool-builders-list.md`
+- 2025-08-05 — **Automated lead generation** (187 msgs) — `raw/chatgpt/prospect/2025-08-05--automated-lead-generation.md`
+- 2025-08-20 — **ZoomInfo lead generation** (4 msgs) — `raw/chatgpt/prospect/2025-08-20--zoominfo-lead-generation.md`
+- 2025-12-26 — **Repair Lead Magnet Page** (8 msgs) — `raw/chatgpt/prospect/2025-12-26--repair-lead-magnet-page.md`
+- 2026-02-05 — **Family office prospects** (181 msgs) — `raw/chatgpt/prospect/2026-02-05--family-office-prospects.md`
+- 2026-03-29 — **Google Business Profile Task** (6 msgs) — `raw/chatgpt/prospect/2026-03-29--google-business-profile-task.md`
+- 2026-06-29 — **Datasys leads** (64 msgs) — `raw/chatgpt/prospect/2026-06-29--datasys-leads.md`
+- 2026-06-29 — **Scraping for Digital Leads.** (4 msgs) — `raw/chatgpt/prospect/2026-06-29--scraping-for-digital-leads.md`
+- 2026-06-29 — **Scraping with Playwright** (38 msgs) — `raw/chatgpt/prospect/2026-06-29--scraping-with-playwright.md`
+- 2026-06-29 — **Data scraping Python** (89 msgs) — `raw/chatgpt/prospect/2026-06-29--data-scraping-python.md`
+- unknown — **asset:heritage Renovations roofing - cost per lead.PNG** (null msgs) — `raw/chatgpt/prospect/unknown--asset-heritage-renovations-roofing-cost-per-lead-png.md`
+- unknown — **asset:the home mag 2 pages.PNG** (null msgs) — `raw/chatgpt/prospect/unknown--asset-the-home-mag-2-pages-png.md`
+- unknown — **asset:Bretts handyman and contruction GBP.PNG** (null msgs) — `raw/chatgpt/prospect/unknown--asset-bretts-handyman-and-contruction-gbp-png.md`

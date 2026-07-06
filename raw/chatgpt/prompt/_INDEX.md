@@ -1,0 +1,141 @@
+# Prompt Eng / GPT Building — raw index
+
+137 conversations, 4664 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-03-27 — **GPT-4 AI Best Practices.** (14 msgs) — `raw/chatgpt/prompt/2023-03-27--gpt-4-ai-best-practices.md`
+- 2023-04-12 — **Software spec request.** (10 msgs) — `raw/chatgpt/prompt/2023-04-12--software-spec-request.md`
+- 2023-04-12 — **Continue prompt** (14 msgs) — `raw/chatgpt/prompt/2023-04-12--continue-prompt.md`
+- 2023-04-12 — **Auto GPT: Self-Improving AI.** (14 msgs) — `raw/chatgpt/prompt/2023-04-12--auto-gpt-self-improving-ai.md`
+- 2023-04-15 — **Baby GPT as Markov Chain.** (8 msgs) — `raw/chatgpt/prompt/2023-04-15--baby-gpt-as-markov-chain.md`
+- 2023-04-17 — **GPT-4 spec 4-17** (10 msgs) — `raw/chatgpt/prompt/2023-04-17--gpt-4-spec-4-17.md`
+- 2023-04-18 — **Wix Website for GPT-4** (6 msgs) — `raw/chatgpt/prompt/2023-04-18--wix-website-for-gpt-4.md`
+- 2023-04-23 — **Image prompt optimization.** (4 msgs) — `raw/chatgpt/prompt/2023-04-23--image-prompt-optimization.md`
+- 2023-04-26 — **Spec for LDA Script_4-26** (22 msgs) — `raw/chatgpt/prompt/2023-04-26--spec-for-lda-script-4-26.md`
+- 2023-05-08 — **Lead Prospecting Prompts.** (2 msgs) — `raw/chatgpt/prompt/2023-05-08--lead-prospecting-prompts.md`
+- 2023-05-15 — **GPT-4 Marketing Website Specification** (10 msgs) — `raw/chatgpt/prompt/2023-05-15--gpt-4-marketing-website-specification.md`
+- 2023-05-15 — **Affiliate Website Spec & Plan** (13 msgs) — `raw/chatgpt/prompt/2023-05-15--affiliate-website-spec-plan.md`
+- 2023-05-28 — **GDrive + GPT Tutorial** (11 msgs) — `raw/chatgpt/prompt/2023-05-28--gdrive-gpt-tutorial.md`
+- 2023-06-07 — **Optimize Prompt: Popular Niche, Low DR, Affiliate Programs** (10 msgs) — `raw/chatgpt/prompt/2023-06-07--optimize-prompt-popular-niche-low-dr-affiliate-programs.md`
+- 2023-07-04 — **AI Tech Stack Prompts** (17 msgs) — `raw/chatgpt/prompt/2023-07-04--ai-tech-stack-prompts.md`
+- 2023-07-18 — **Prompt Optimization: YouTube Product Search** (2 msgs) — `raw/chatgpt/prompt/2023-07-18--prompt-optimization-youtube-product-search.md`
+- 2023-08-30 — **GPT for Sheets scripts** (28 msgs) — `raw/chatgpt/prompt/2023-08-30--gpt-for-sheets-scripts.md`
+- 2023-10-01 — **Python Function for GPT-3** (26 msgs) — `raw/chatgpt/prompt/2023-10-01--python-function-for-gpt-3.md`
+- 2023-10-12 — **GPT Integration in Sheets** (16 msgs) — `raw/chatgpt/prompt/2023-10-12--gpt-integration-in-sheets.md`
+- 2023-11-12 — **Grimoire - GPT** (14 msgs) — `raw/chatgpt/prompt/2023-11-12--grimoire-gpt.md`
+- 2023-11-16 — **Lead Scout GPT** (22 msgs) — `raw/chatgpt/prompt/2023-11-16--lead-scout-gpt.md`
+- 2023-11-16 — **AI Websites GPT** (6 msgs) — `raw/chatgpt/prompt/2023-11-16--ai-websites-gpt.md`
+- 2023-11-16 — **AI Today GPT** (33 msgs) — `raw/chatgpt/prompt/2023-11-16--ai-today-gpt.md`
+- 2023-11-16 — **Market Analyst GPT** (34 msgs) — `raw/chatgpt/prompt/2023-11-16--market-analyst-gpt.md`
+- 2023-11-16 — **Prince GPT - Dalio** (11 msgs) — `raw/chatgpt/prompt/2023-11-16--prince-gpt-dalio.md`
+- 2023-11-17 — **Prompty GPT** (20 msgs) — `raw/chatgpt/prompt/2023-11-17--prompty-gpt.md`
+- 2023-11-17 — **ChatYouTube - GPT** (2 msgs) — `raw/chatgpt/prompt/2023-11-17--chatyoutube-gpt.md`
+- 2023-11-17 — **Immaculate Playlist generator - GPT** (12 msgs) — `raw/chatgpt/prompt/2023-11-17--immaculate-playlist-generator-gpt.md`
+- 2023-11-17 — **DesignerGPT - GPT** (26 msgs) — `raw/chatgpt/prompt/2023-11-17--designergpt-gpt.md`
+- 2023-11-17 — **Best custom GPTs - GPT** (69 msgs) — `raw/chatgpt/prompt/2023-11-17--best-custom-gpts-gpt.md`
+- 2023-11-19 — **News Snacks GPT** (18 msgs) — `raw/chatgpt/prompt/2023-11-19--news-snacks-gpt.md`
+- 2023-11-20 — **Blog Wizard - GPT** (2 msgs) — `raw/chatgpt/prompt/2023-11-20--blog-wizard-gpt.md`
+- 2023-11-20 — **Python Pal - GPT** (18 msgs) — `raw/chatgpt/prompt/2023-11-20--python-pal-gpt.md`
+- 2023-11-20 — **Canva - GPT** (3 msgs) — `raw/chatgpt/prompt/2023-11-20--canva-gpt.md`
+- 2023-11-21 — **FinanceGuru(news) - GPT** (54 msgs) — `raw/chatgpt/prompt/2023-11-21--financeguru-news-gpt.md`
+- 2023-11-21 — **Sheets Assistant - GPT** (6 msgs) — `raw/chatgpt/prompt/2023-11-21--sheets-assistant-gpt.md`
+- 2023-11-22 — **Summarizer - GPT** (15 msgs) — `raw/chatgpt/prompt/2023-11-22--summarizer-gpt.md`
+- 2023-11-22 — **Article Analyzer Pro - GPT** (4 msgs) — `raw/chatgpt/prompt/2023-11-22--article-analyzer-pro-gpt.md`
+- 2023-11-27 — **ProductGPT - GPT** (4 msgs) — `raw/chatgpt/prompt/2023-11-27--productgpt-gpt.md`
+- 2023-11-28 — **American insight - GPT** (18 msgs) — `raw/chatgpt/prompt/2023-11-28--american-insight-gpt.md`
+- 2023-11-28 — **Excel Finance Guru - GPT** (2 msgs) — `raw/chatgpt/prompt/2023-11-28--excel-finance-guru-gpt.md`
+- 2023-11-28 — **Quantum Politician AI - GPT** (33 msgs) — `raw/chatgpt/prompt/2023-11-28--quantum-politician-ai-gpt.md`
+- 2023-11-28 — **Automation Consultant by Zapier - GPT** (6 msgs) — `raw/chatgpt/prompt/2023-11-28--automation-consultant-by-zapier-gpt.md`
+- 2023-11-28 — **100 Ways to Make Money with AI - GPT** (67 msgs) — `raw/chatgpt/prompt/2023-11-28--100-ways-to-make-money-with-ai-gpt.md`
+- 2023-11-29 — **Cold Email - GPT** (8 msgs) — `raw/chatgpt/prompt/2023-11-29--cold-email-gpt.md`
+- 2023-11-29 — **Lead Innovator - GPT** (8 msgs) — `raw/chatgpt/prompt/2023-11-29--lead-innovator-gpt.md`
+- 2023-11-29 — **BizDev Pro - GPT** (18 msgs) — `raw/chatgpt/prompt/2023-11-29--bizdev-pro-gpt.md`
+- 2023-11-29 — **Cold Email Maverick - GPT** (22 msgs) — `raw/chatgpt/prompt/2023-11-29--cold-email-maverick-gpt.md`
+- 2023-12-01 — **Quantum Catalyst AI - GPT** (20 msgs) — `raw/chatgpt/prompt/2023-12-01--quantum-catalyst-ai-gpt.md`
+- 2023-12-01 — **Email Wizard - GPT** (10 msgs) — `raw/chatgpt/prompt/2023-12-01--email-wizard-gpt.md`
+- 2023-12-01 — **Email Wizard - GPT#2** (4 msgs) — `raw/chatgpt/prompt/2023-12-01--email-wizard-gpt-2.md`
+- 2023-12-01 — **AlphaNotes - GPT** (8 msgs) — `raw/chatgpt/prompt/2023-12-01--alphanotes-gpt.md`
+- 2023-12-02 — **Prompt Painter - GPT (SaucePack)** (7 msgs) — `raw/chatgpt/prompt/2023-12-02--prompt-painter-gpt-saucepack.md`
+- 2023-12-04 — **programmatic advertising expert - GPT** (108 msgs) — `raw/chatgpt/prompt/2023-12-04--programmatic-advertising-expert-gpt.md`
+- 2023-12-04 — **Technical Spec Summarizer - GPT** (8 msgs) — `raw/chatgpt/prompt/2023-12-04--technical-spec-summarizer-gpt.md`
+- 2023-12-04 — **Prompt Reverse Engineer 2.2 - GPT** (12 msgs) — `raw/chatgpt/prompt/2023-12-04--prompt-reverse-engineer-2-2-gpt.md`
+- 2023-12-14 — **Voice/Style/Tone AI Prompt Snippet Generator - GPT** (16 msgs) — `raw/chatgpt/prompt/2023-12-14--voice-style-tone-ai-prompt-snippet-generator-gpt.md`
+- 2023-12-14 — **Hitchens prompt** (2 msgs) — `raw/chatgpt/prompt/2023-12-14--hitchens-prompt.md`
+- 2023-12-14 — **Tech Support Advisor - GPT** (6 msgs) — `raw/chatgpt/prompt/2023-12-14--tech-support-advisor-gpt.md`
+- 2023-12-14 — **FinBuddy - GPT** (28 msgs) — `raw/chatgpt/prompt/2023-12-14--finbuddy-gpt.md`
+- 2023-12-14 — **Image Copy Machine - GPT** (12 msgs) — `raw/chatgpt/prompt/2023-12-14--image-copy-machine-gpt.md`
+- 2023-12-14 — **Product Management Guide - GPT** (4 msgs) — `raw/chatgpt/prompt/2023-12-14--product-management-guide-gpt.md`
+- 2023-12-15 — **Meta Ads Creation - GPT** (4 msgs) — `raw/chatgpt/prompt/2023-12-15--meta-ads-creation-gpt.md`
+- 2023-12-19 — **ProductGPT - GPT#2** (2 msgs) — `raw/chatgpt/prompt/2023-12-19--productgpt-gpt-2.md`
+- 2023-12-21 — **CreateCustomGPT - GPT** (12 msgs) — `raw/chatgpt/prompt/2023-12-21--createcustomgpt-gpt.md`
+- 2023-12-21 — **AI Prompts GPT - GPT** (10 msgs) — `raw/chatgpt/prompt/2023-12-21--ai-prompts-gpt-gpt.md`
+- 2023-12-21 — **Quantum Politician AI - GPT#2** (40 msgs) — `raw/chatgpt/prompt/2023-12-21--quantum-politician-ai-gpt-2.md`
+- 2023-12-22 — **Playlist AI - GPT** (34 msgs) — `raw/chatgpt/prompt/2023-12-22--playlist-ai-gpt.md`
+- 2023-12-23 — **AI Prompts GPT Training** (4 msgs) — `raw/chatgpt/prompt/2023-12-23--ai-prompts-gpt-training.md`
+- 2024-01-09 — **Quant Coder - GPT** (19 msgs) — `raw/chatgpt/prompt/2024-01-09--quant-coder-gpt.md`
+- 2024-01-10 — **Ad Agency - GPT** (18 msgs) — `raw/chatgpt/prompt/2024-01-10--ad-agency-gpt.md`
+- 2024-01-11 — **Code Tutor - GPT** (2 msgs) — `raw/chatgpt/prompt/2024-01-11--code-tutor-gpt.md`
+- 2024-01-11 — **Books - GPT** (36 msgs) — `raw/chatgpt/prompt/2024-01-11--books-gpt.md`
+- 2024-01-11 — **Visual Chart Analyst - GPT** (8 msgs) — `raw/chatgpt/prompt/2024-01-11--visual-chart-analyst-gpt.md`
+- 2024-01-17 — **Market My Site - GPT** (4 msgs) — `raw/chatgpt/prompt/2024-01-17--market-my-site-gpt.md`
+- 2024-01-29 — **Digital Marketing Mentor - GPT** (12 msgs) — `raw/chatgpt/prompt/2024-01-29--digital-marketing-mentor-gpt.md`
+- 2024-03-05 — **web pilot - GPT** (19 msgs) — `raw/chatgpt/prompt/2024-03-05--web-pilot-gpt.md`
+- 2024-03-05 — **SEO - SEO GPT / AIPRM** (96 msgs) — `raw/chatgpt/prompt/2024-03-05--seo-seo-gpt-aiprm.md`
+- 2024-03-09 — **Diagrams - GPT** (96 msgs) — `raw/chatgpt/prompt/2024-03-09--diagrams-gpt.md`
+- 2024-04-25 — **AIM Prompt** (2 msgs) — `raw/chatgpt/prompt/2024-04-25--aim-prompt.md`
+- 2024-04-25 — **AIPRM Prompt "Business Marketing Strategist"** (2 msgs) — `raw/chatgpt/prompt/2024-04-25--aiprm-prompt-business-marketing-strategist.md`
+- 2024-04-25 — **AIPRM Prompt - summarize** (12 msgs) — `raw/chatgpt/prompt/2024-04-25--aiprm-prompt-summarize.md`
+- 2024-05-08 — **Scholar GPT - GPT** (8 msgs) — `raw/chatgpt/prompt/2024-05-08--scholar-gpt-gpt.md`
+- 2024-05-08 — **Marketing Strategist Prompt** (8 msgs) — `raw/chatgpt/prompt/2024-05-08--marketing-strategist-prompt.md`
+- 2024-05-14 — **Advanced Capabilities: GPT-4 vs Me** (16 msgs) — `raw/chatgpt/prompt/2024-05-14--advanced-capabilities-gpt-4-vs-me.md`
+- 2024-06-02 — **Prompt Engineer - WSJ stocks** (34 msgs) — `raw/chatgpt/prompt/2024-06-02--prompt-engineer-wsj-stocks.md`
+- 2024-06-07 — **Professional journalist prompt** (6 msgs) — `raw/chatgpt/prompt/2024-06-07--professional-journalist-prompt.md`
+- 2024-06-11 — **YouTube Summarize Expert Prompt** (16 msgs) — `raw/chatgpt/prompt/2024-06-11--youtube-summarize-expert-prompt.md`
+- 2024-06-19 — **Crafting Optimal Prompt** (12 msgs) — `raw/chatgpt/prompt/2024-06-19--crafting-optimal-prompt.md`
+- 2024-07-11 — **STOCK PREDICTION PROMPT** (38 msgs) — `raw/chatgpt/prompt/2024-07-11--stock-prediction-prompt.md`
+- 2024-08-16 — **Personalized LinkedIn Message** (4 msgs) — `raw/chatgpt/prompt/2024-08-16--personalized-linkedin-message.md`
+- 2024-10-03 — **SEO GPT** (36 msgs) — `raw/chatgpt/prompt/2024-10-03--seo-gpt.md`
+- 2024-10-21 — **SEO Audit for Gramer (PROMPT)** (29 msgs) — `raw/chatgpt/prompt/2024-10-21--seo-audit-for-gramer-prompt.md`
+- 2024-11-03 — **Advanced Prompt Techniques** (2 msgs) — `raw/chatgpt/prompt/2024-11-03--advanced-prompt-techniques.md`
+- 2024-11-26 — **vllm image description request** (12 msgs) — `raw/chatgpt/prompt/2024-11-26--vllm-image-description-request.md`
+- 2024-12-06 — **GPT for sheets GBP APP SCRIPT** (88 msgs) — `raw/chatgpt/prompt/2024-12-06--gpt-for-sheets-gbp-app-script.md`
+- 2024-12-08 — **Custom GPT - API calls** (43 msgs) — `raw/chatgpt/prompt/2024-12-08--custom-gpt-api-calls.md`
+- 2025-02-18 — **Website Integration with GPT** (8 msgs) — `raw/chatgpt/prompt/2025-02-18--website-integration-with-gpt.md`
+- 2025-03-12 — **LLM Prompt Best Practices** (56 msgs) — `raw/chatgpt/prompt/2025-03-12--llm-prompt-best-practices.md`
+- 2025-04-09 — **Plastic Surgery Email prompt** (30 msgs) — `raw/chatgpt/prompt/2025-04-09--plastic-surgery-email-prompt.md`
+- 2025-04-09 — **Market Analysis prompt** (16 msgs) — `raw/chatgpt/prompt/2025-04-09--market-analysis-prompt.md`
+- 2025-04-16 — **Prompt engineer** (17 msgs) — `raw/chatgpt/prompt/2025-04-16--prompt-engineer.md`
+- 2025-05-12 — **World Class Digital Marketer PROMPT** (37 msgs) — `raw/chatgpt/prompt/2025-05-12--world-class-digital-marketer-prompt.md`
+- 2025-05-18 — **API Calls with GPT** (4 msgs) — `raw/chatgpt/prompt/2025-05-18--api-calls-with-gpt.md`
+- 2025-06-03 — **GPT Model - 6-29** (250 msgs) — `raw/chatgpt/prompt/2025-06-03--gpt-model-6-29.md`
+- 2025-06-03 — **Expert Prompt Creation** (24 msgs) — `raw/chatgpt/prompt/2025-06-03--expert-prompt-creation.md`
+- 2025-06-04 — **Gemini Deep Research Prompt** (126 msgs) — `raw/chatgpt/prompt/2025-06-04--gemini-deep-research-prompt.md`
+- 2025-06-13 — **Baseball Prediction Prompt** (7 msgs) — `raw/chatgpt/prompt/2025-06-13--baseball-prediction-prompt.md`
+- 2025-06-13 — **multi-step prompt 6-29** (264 msgs) — `raw/chatgpt/prompt/2025-06-13--multi-step-prompt-6-29.md`
+- 2025-06-15 — **LLM PREDICTION MODEL** (199 msgs) — `raw/chatgpt/prompt/2025-06-15--llm-prediction-model.md`
+- 2025-07-11 — **Digital Marketing Prompts** (12 msgs) — `raw/chatgpt/prompt/2025-07-11--digital-marketing-prompts.md`
+- 2025-08-02 — **Libgen scraping task LLM** (238 msgs) — `raw/chatgpt/prompt/2025-08-02--libgen-scraping-task-llm.md`
+- 2025-08-11 — **Arbitrage Prompts** (32 msgs) — `raw/chatgpt/prompt/2025-08-11--arbitrage-prompts.md`
+- 2025-08-30 — **Custom GPT prompt creation** (6 msgs) — `raw/chatgpt/prompt/2025-08-30--custom-gpt-prompt-creation.md`
+- 2025-08-31 — **List of documents - GPT** (6 msgs) — `raw/chatgpt/prompt/2025-08-31--list-of-documents-gpt.md`
+- 2025-08-31 — **Custom GPT No API** (35 msgs) — `raw/chatgpt/prompt/2025-08-31--custom-gpt-no-api.md`
+- 2025-09-03 — **Create custom GPTs- Zoominfo** (10 msgs) — `raw/chatgpt/prompt/2025-09-03--create-custom-gpts-zoominfo.md`
+- 2025-09-06 — **Prompt engineering task** (86 msgs) — `raw/chatgpt/prompt/2025-09-06--prompt-engineering-task.md`
+- 2025-10-23 — **Loveable website prompts / Logo** (528 msgs) — `raw/chatgpt/prompt/2025-10-23--loveable-website-prompts-logo.md`
+- 2025-11-07 — **Draft expert prompts** (15 msgs) — `raw/chatgpt/prompt/2025-11-07--draft-expert-prompts.md`
+- 2025-11-13 — **Perfect LLM prompt 5.1 - LSA cat** (129 msgs) — `raw/chatgpt/prompt/2025-11-13--perfect-llm-prompt-5-1-lsa-cat.md`
+- 2025-12-03 — **PROMPT ENGINEER Boca Observer Email** (56 msgs) — `raw/chatgpt/prompt/2025-12-03--prompt-engineer-boca-observer-email.md`
+- 2026-02-04 — **Nonfiction Release Prompt** (4 msgs) — `raw/chatgpt/prompt/2026-02-04--nonfiction-release-prompt.md`
+- 2026-02-12 — **LLM Autograd Explanation** (12 msgs) — `raw/chatgpt/prompt/2026-02-12--llm-autograd-explanation.md`
+- 2026-02-14 — **Codex Prompt Templates** (19 msgs) — `raw/chatgpt/prompt/2026-02-14--codex-prompt-templates.md`
+- 2026-02-20 — **PROMPT TEMPLATE** (38 msgs) — `raw/chatgpt/prompt/2026-02-20--prompt-template.md`
+- 2026-02-23 — **Sell Side Analyst Investor Prompt** (29 msgs) — `raw/chatgpt/prompt/2026-02-23--sell-side-analyst-investor-prompt.md`
+- 2026-02-28 — **Codex prompts** (166 msgs) — `raw/chatgpt/prompt/2026-02-28--codex-prompts.md`
+- 2026-03-06 — **Prompt optimization for demo** (19 msgs) — `raw/chatgpt/prompt/2026-03-06--prompt-optimization-for-demo.md`
+- 2026-03-07 — **Discord Strategy for ALBT PROMPT** (16 msgs) — `raw/chatgpt/prompt/2026-03-07--discord-strategy-for-albt-prompt.md`
+- 2026-03-29 — **Landing Page Prompt Engineering** (2 msgs) — `raw/chatgpt/prompt/2026-03-29--landing-page-prompt-engineering.md`
+- 2026-06-29 — **Web Spec for Building** (14 msgs) — `raw/chatgpt/prompt/2026-06-29--web-spec-for-building.md`
+- 2026-06-29 — **Effective Prompts in ChatGPT** (20 msgs) — `raw/chatgpt/prompt/2026-06-29--effective-prompts-in-chatgpt.md`
+- 2026-06-29 — **reverse prompt engineer** (48 msgs) — `raw/chatgpt/prompt/2026-06-29--reverse-prompt-engineer.md`
+- 2026-06-29 — **Useful ChatGPT Prompts** (6 msgs) — `raw/chatgpt/prompt/2026-06-29--useful-chatgpt-prompts.md`
+- 2026-06-29 — **Prompt GEN** (29 msgs) — `raw/chatgpt/prompt/2026-06-29--prompt-gen.md`
+- 2026-06-29 — **GPT-3 Practical Prompts** (230 msgs) — `raw/chatgpt/prompt/2026-06-29--gpt-3-practical-prompts.md`

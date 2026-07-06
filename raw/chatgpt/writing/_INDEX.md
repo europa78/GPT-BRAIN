@@ -1,0 +1,124 @@
+# Writing / Research / General — raw index
+
+120 conversations, 3093 messages. Read-only ground truth — never rewrite raw/.
+
+- 2023-01-13 — **Facebook Blueprint Study Help** (111 msgs) — `raw/chatgpt/writing/2023-01-13--facebook-blueprint-study-help.md`
+- 2023-04-05 — **keyword research** (42 msgs) — `raw/chatgpt/writing/2023-04-05--keyword-research.md`
+- 2023-04-27 — **URL Processing and Summarization.** (4 msgs) — `raw/chatgpt/writing/2023-04-27--url-processing-and-summarization.md`
+- 2023-05-10 — **"Unlimited Power" Summary** (41 msgs) — `raw/chatgpt/writing/2023-05-10--unlimited-power-summary.md`
+- 2023-05-14 — **Design Patterns in Software** (13 msgs) — `raw/chatgpt/writing/2023-05-14--design-patterns-in-software.md`
+- 2023-05-21 — **Google Content Research Guide** (13 msgs) — `raw/chatgpt/writing/2023-05-21--google-content-research-guide.md`
+- 2023-05-21 — **Gmail Draft: Review & Confirm** (52 msgs) — `raw/chatgpt/writing/2023-05-21--gmail-draft-review-confirm.md`
+- 2023-05-22 — **Yahoo articles 5-22** (20 msgs) — `raw/chatgpt/writing/2023-05-22--yahoo-articles-5-22.md`
+- 2023-06-06 — **Keyword Research for Vertical Farming** (2 msgs) — `raw/chatgpt/writing/2023-06-06--keyword-research-for-vertical-farming.md`
+- 2023-06-27 — **POST Request for D&B Research** (30 msgs) — `raw/chatgpt/writing/2023-06-27--post-request-for-d-b-research.md`
+- 2023-07-09 — **House Sitting Jobs Nearby** (2 msgs) — `raw/chatgpt/writing/2023-07-09--house-sitting-jobs-nearby.md`
+- 2023-07-17 — **Zap/Facebook auto** (6 msgs) — `raw/chatgpt/writing/2023-07-17--zap-facebook-auto.md`
+- 2023-07-21 — **CSV FILE SUMMARY** (36 msgs) — `raw/chatgpt/writing/2023-07-21--csv-file-summary.md`
+- 2023-07-21 — **Email Draft Review** (4 msgs) — `raw/chatgpt/writing/2023-07-21--email-draft-review.md`
+- 2023-07-25 — **article title analysis** (10 msgs) — `raw/chatgpt/writing/2023-07-25--article-title-analysis.md`
+- 2023-08-18 — **EMail news letter📧** (8 msgs) — `raw/chatgpt/writing/2023-08-18--email-news-letter.md`
+- 2023-09-23 — **Facebook BluePrint** (38 msgs) — `raw/chatgpt/writing/2023-09-23--facebook-blueprint.md`
+- 2023-10-10 — **Email Drafts for Agencies** (6 msgs) — `raw/chatgpt/writing/2023-10-10--email-drafts-for-agencies.md`
+- 2023-11-14 — **YouTube Video Summary** (4 msgs) — `raw/chatgpt/writing/2023-11-14--youtube-video-summary.md`
+- 2023-11-28 — **Munger book list** (2 msgs) — `raw/chatgpt/writing/2023-11-28--munger-book-list.md`
+- 2023-12-07 — **Botanical Vintage Artwork Composition** (2 msgs) — `raw/chatgpt/writing/2023-12-07--botanical-vintage-artwork-composition.md`
+- 2023-12-07 — **Cubist Abstract Digital Art** (4 msgs) — `raw/chatgpt/writing/2023-12-07--cubist-abstract-digital-art.md`
+- 2023-12-07 — **Colorful Mural-Style Doodle Art** (8 msgs) — `raw/chatgpt/writing/2023-12-07--colorful-mural-style-doodle-art.md`
+- 2023-12-07 — **Psychedelic Art Analysis** (2 msgs) — `raw/chatgpt/writing/2023-12-07--psychedelic-art-analysis.md`
+- 2023-12-07 — **Cubist Abstract Digital Art#2** (2 msgs) — `raw/chatgpt/writing/2023-12-07--cubist-abstract-digital-art-2.md`
+- 2023-12-19 — **Indeed job quiz** (35 msgs) — `raw/chatgpt/writing/2023-12-19--indeed-job-quiz.md`
+- 2023-12-20 — **Abstract Gray Art Image** (13 msgs) — `raw/chatgpt/writing/2023-12-20--abstract-gray-art-image.md`
+- 2023-12-26 — **The Minority Rule** (10 msgs) — `raw/chatgpt/writing/2023-12-26--the-minority-rule.md`
+- 2024-01-01 — **Abstract Face Art Design** (18 msgs) — `raw/chatgpt/writing/2024-01-01--abstract-face-art-design.md`
+- 2024-01-01 — **Vintage Album Cover Design** (12 msgs) — `raw/chatgpt/writing/2024-01-01--vintage-album-cover-design.md`
+- 2024-01-19 — **Sales Books** (8 msgs) — `raw/chatgpt/writing/2024-01-19--sales-books.md`
+- 2024-01-20 — **New Non-Fiction Books January 2024** (19 msgs) — `raw/chatgpt/writing/2024-01-20--new-non-fiction-books-january-2024.md`
+- 2024-01-24 — **Logo Design: Vibrant Style** (20 msgs) — `raw/chatgpt/writing/2024-01-24--logo-design-vibrant-style.md`
+- 2024-01-29 — **Facebook Ad for Painting** (2 msgs) — `raw/chatgpt/writing/2024-01-29--facebook-ad-for-painting.md`
+- 2024-02-20 — **Startup Business Plan Development** (12 msgs) — `raw/chatgpt/writing/2024-02-20--startup-business-plan-development.md`
+- 2024-03-10 — **BOOK** (16 msgs) — `raw/chatgpt/writing/2024-03-10--book.md`
+- 2024-03-31 — **Plumber Listings Summary** (85 msgs) — `raw/chatgpt/writing/2024-03-31--plumber-listings-summary.md`
+- 2024-04-19 — **Graph Summary: DALL-E Misunderstanding** (6 msgs) — `raw/chatgpt/writing/2024-04-19--graph-summary-dall-e-misunderstanding.md`
+- 2024-04-24 — **Booked Appointments Workflow** (6 msgs) — `raw/chatgpt/writing/2024-04-24--booked-appointments-workflow.md`
+- 2024-04-25 — **AIPRM- proficient researcher** (4 msgs) — `raw/chatgpt/writing/2024-04-25--aiprm-proficient-researcher.md`
+- 2024-05-10 — **Painting Logo Design** (32 msgs) — `raw/chatgpt/writing/2024-05-10--painting-logo-design.md`
+- 2024-05-18 — **Wall St. Journal: Detailed Summary** (6 msgs) — `raw/chatgpt/writing/2024-05-18--wall-st-journal-detailed-summary.md`
+- 2024-05-24 — **Optimized Facebook Ad Images** (6 msgs) — `raw/chatgpt/writing/2024-05-24--optimized-facebook-ad-images.md`
+- 2024-06-07 — **Newest Non-Fiction Books** (60 msgs) — `raw/chatgpt/writing/2024-06-07--newest-non-fiction-books.md`
+- 2024-06-12 — **Facebook Ads Assistance Guide** (12 msgs) — `raw/chatgpt/writing/2024-06-12--facebook-ads-assistance-guide.md`
+- 2024-06-15 — **New Book Releases June** (7 msgs) — `raw/chatgpt/writing/2024-06-15--new-book-releases-june.md`
+- 2024-06-19 — **Resume Rewrite Task** (12 msgs) — `raw/chatgpt/writing/2024-06-19--resume-rewrite-task.md`
+- 2024-06-23 — **QuestLove Hip-Hop Artists- structured format** (20 msgs) — `raw/chatgpt/writing/2024-06-23--questlove-hip-hop-artists-structured-format.md`
+- 2024-06-24 — **Hip Hop Artists List** (6 msgs) — `raw/chatgpt/writing/2024-06-24--hip-hop-artists-list.md`
+- 2024-07-10 — **Similar Artists to Roy Ayers** (18 msgs) — `raw/chatgpt/writing/2024-07-10--similar-artists-to-roy-ayers.md`
+- 2024-07-10 — **List Artists and Songs** (6 msgs) — `raw/chatgpt/writing/2024-07-10--list-artists-and-songs.md`
+- 2024-07-11 — **Economic News Summary** (47 msgs) — `raw/chatgpt/writing/2024-07-11--economic-news-summary.md`
+- 2024-07-21 — **Book EPUB Inquiry** (4 msgs) — `raw/chatgpt/writing/2024-07-21--book-epub-inquiry.md`
+- 2024-08-14 — **13F Filings Summary** (6 msgs) — `raw/chatgpt/writing/2024-08-14--13f-filings-summary.md`
+- 2024-08-19 — **T.J. English Books List** (6 msgs) — `raw/chatgpt/writing/2024-08-19--t-j-english-books-list.md`
+- 2024-08-20 — **Fair Value Gap Explained** (20 msgs) — `raw/chatgpt/writing/2024-08-20--fair-value-gap-explained.md`
+- 2024-09-08 — **August 2024 Book Releases** (83 msgs) — `raw/chatgpt/writing/2024-09-08--august-2024-book-releases.md`
+- 2024-09-13 — **Economic Inquiry Summary** (14 msgs) — `raw/chatgpt/writing/2024-09-13--economic-inquiry-summary.md`
+- 2024-09-28 — **YouTube Video Link Summary** (9 msgs) — `raw/chatgpt/writing/2024-09-28--youtube-video-link-summary.md`
+- 2024-10-20 — **Logo Design for Digital Agency** (3 msgs) — `raw/chatgpt/writing/2024-10-20--logo-design-for-digital-agency.md`
+- 2024-12-05 — **Jazz Legacy Design Concept** (2 msgs) — `raw/chatgpt/writing/2024-12-05--jazz-legacy-design-concept.md`
+- 2024-12-13 — **Facebook Ads Insights** (10 msgs) — `raw/chatgpt/writing/2024-12-13--facebook-ads-insights.md`
+- 2025-01-03 — **Job Posting Assistance** (29 msgs) — `raw/chatgpt/writing/2025-01-03--job-posting-assistance.md`
+- 2025-01-05 — **Free Job Posting Sites** (2 msgs) — `raw/chatgpt/writing/2025-01-05--free-job-posting-sites.md`
+- 2025-01-12 — **Logo Design Request** (69 msgs) — `raw/chatgpt/writing/2025-01-12--logo-design-request.md`
+- 2025-01-29 — **Business Registration Summary** (2 msgs) — `raw/chatgpt/writing/2025-01-29--business-registration-summary.md`
+- 2025-02-06 — **Gaining Facebook Business Access** (6 msgs) — `raw/chatgpt/writing/2025-02-06--gaining-facebook-business-access.md`
+- 2025-02-21 — **CSV Data Summary** (20 msgs) — `raw/chatgpt/writing/2025-02-21--csv-data-summary.md`
+- 2025-03-16 — **Book Recommendations and Discovery** (8 msgs) — `raw/chatgpt/writing/2025-03-16--book-recommendations-and-discovery.md`
+- 2025-03-23 — **New Book Releases 2025** (262 msgs) — `raw/chatgpt/writing/2025-03-23--new-book-releases-2025.md`
+- 2025-05-01 — **NEPQ book analysis** (93 msgs) — `raw/chatgpt/writing/2025-05-01--nepq-book-analysis.md`
+- 2025-05-04 — **Historical Research Insights** (43 msgs) — `raw/chatgpt/writing/2025-05-04--historical-research-insights.md`
+- 2025-05-18 — **SGP Betting Odds Summary** (12 msgs) — `raw/chatgpt/writing/2025-05-18--sgp-betting-odds-summary.md`
+- 2025-05-18 — **MLB Game Lines Summary** (2 msgs) — `raw/chatgpt/writing/2025-05-18--mlb-game-lines-summary.md`
+- 2025-05-23 — **Start Engine - crowd funding** (4 msgs) — `raw/chatgpt/writing/2025-05-23--start-engine-crowd-funding.md`
+- 2025-05-23 — **Business Card Summary** (10 msgs) — `raw/chatgpt/writing/2025-05-23--business-card-summary.md`
+- 2025-05-29 — **Book Critic Expertise** (34 msgs) — `raw/chatgpt/writing/2025-05-29--book-critic-expertise.md`
+- 2025-06-02 — **Betting Odds Explained** (2 msgs) — `raw/chatgpt/writing/2025-06-02--betting-odds-explained.md`
+- 2025-06-06 — **Email Drafting and Summarizing** (8 msgs) — `raw/chatgpt/writing/2025-06-06--email-drafting-and-summarizing.md`
+- 2025-06-21 — **YouTube Data Video Summary** (12 msgs) — `raw/chatgpt/writing/2025-06-21--youtube-data-video-summary.md`
+- 2025-06-28 — **CLAY - Deep research** (5 msgs) — `raw/chatgpt/writing/2025-06-28--clay-deep-research.md`
+- 2025-07-04 — **Sharp book betting models** (15 msgs) — `raw/chatgpt/writing/2025-07-04--sharp-book-betting-models.md`
+- 2025-07-26 — **Non-fiction book releases** (56 msgs) — `raw/chatgpt/writing/2025-07-26--non-fiction-book-releases.md`
+- 2025-08-02 — **Search Bloomsbury books** (23 msgs) — `raw/chatgpt/writing/2025-08-02--search-bloomsbury-books.md`
+- 2025-08-03 — **Sunbiz deep research** (5 msgs) — `raw/chatgpt/writing/2025-08-03--sunbiz-deep-research.md`
+- 2025-08-07 — **Research on pool companies** (5 msgs) — `raw/chatgpt/writing/2025-08-07--research-on-pool-companies.md`
+- 2025-08-09 — **StartEngine company analysis** (39 msgs) — `raw/chatgpt/writing/2025-08-09--startengine-company-analysis.md`
+- 2025-08-10 — **New non-fiction books 2025** (10 msgs) — `raw/chatgpt/writing/2025-08-10--new-non-fiction-books-2025.md`
+- 2025-08-10 — **DEEP Research - Metavesco** (33 msgs) — `raw/chatgpt/writing/2025-08-10--deep-research-metavesco.md`
+- 2025-08-30 — **Arbitrage research task** (263 msgs) — `raw/chatgpt/writing/2025-08-30--arbitrage-research-task.md`
+- 2025-09-07 — **Arbitrage research task#2** (7 msgs) — `raw/chatgpt/writing/2025-09-07--arbitrage-research-task-2.md`
+- 2025-09-09 — **SMS comparison Deep Research** (9 msgs) — `raw/chatgpt/writing/2025-09-09--sms-comparison-deep-research.md`
+- 2025-10-03 — **Reddit Book list** (6 msgs) — `raw/chatgpt/writing/2025-10-03--reddit-book-list.md`
+- 2025-10-04 — **Grants/ Loans DEEP RESEARCH** (14 msgs) — `raw/chatgpt/writing/2025-10-04--grants-loans-deep-research.md`
+- 2025-10-04 — **Locate book request** (5 msgs) — `raw/chatgpt/writing/2025-10-04--locate-book-request.md`
+- 2025-10-12 — **Email design variation** (24 msgs) — `raw/chatgpt/writing/2025-10-12--email-design-variation.md`
+- 2025-11-15 — **Mr. Hood Repair LOGO** (10 msgs) — `raw/chatgpt/writing/2025-11-15--mr-hood-repair-logo.md`
+- 2025-11-30 — **Design techniques for ornament** (16 msgs) — `raw/chatgpt/writing/2025-11-30--design-techniques-for-ornament.md`
+- 2025-11-30 — **Design techniques for Christmas tree** (10 msgs) — `raw/chatgpt/writing/2025-11-30--design-techniques-for-christmas-tree.md`
+- 2025-12-05 — **Logo redesign brief** (9 msgs) — `raw/chatgpt/writing/2025-12-05--logo-redesign-brief.md`
+- 2025-12-27 — **No more parties in LA image** (5 msgs) — `raw/chatgpt/writing/2025-12-27--no-more-parties-in-la-image.md`
+- 2026-01-25 — **LinkedIn Ads for Startups** (56 msgs) — `raw/chatgpt/writing/2026-01-25--linkedin-ads-for-startups.md`
+- 2026-02-06 — **Nonfiction book tracker** (361 msgs) — `raw/chatgpt/writing/2026-02-06--nonfiction-book-tracker.md`
+- 2026-02-14 — **New Books Jan-Feb 2026** (2 msgs) — `raw/chatgpt/writing/2026-02-14--new-books-jan-feb-2026.md`
+- 2026-02-20 — **LSA Growth Engine Explained** (4 msgs) — `raw/chatgpt/writing/2026-02-20--lsa-growth-engine-explained.md`
+- 2026-02-21 — **Book Recommendations List** (4 msgs) — `raw/chatgpt/writing/2026-02-21--book-recommendations-list.md`
+- 2026-02-21 — **Books from PDF List** (37 msgs) — `raw/chatgpt/writing/2026-02-21--books-from-pdf-list.md`
+- 2026-02-23 — **El Mencho CJNG Books** (16 msgs) — `raw/chatgpt/writing/2026-02-23--el-mencho-cjng-books.md`
+- 2026-02-23 — **Research Avalon companies** (41 msgs) — `raw/chatgpt/writing/2026-02-23--research-avalon-companies.md`
+- 2026-03-06 — **Cali Cartel Book Inquiry** (20 msgs) — `raw/chatgpt/writing/2026-03-06--cali-cartel-book-inquiry.md`
+- 2026-03-07 — **Book Recommendations Request** (1 msgs) — `raw/chatgpt/writing/2026-03-07--book-recommendations-request.md`
+- 2026-03-07 — **Non-fiction Book Scout** (6 msgs) — `raw/chatgpt/writing/2026-03-07--non-fiction-book-scout.md`
+- 2026-03-14 — **George Torres Books** (6 msgs) — `raw/chatgpt/writing/2026-03-14--george-torres-books.md`
+- 2026-06-29 — **FB Advanced Matching Explained** (135 msgs) — `raw/chatgpt/writing/2026-06-29--fb-advanced-matching-explained.md`
+- 2026-06-29 — **Artistic Drawing Styles.** (34 msgs) — `raw/chatgpt/writing/2026-06-29--artistic-drawing-styles.md`
+- 2026-06-29 — **RockArtists&Dilla** (56 msgs) — `raw/chatgpt/writing/2026-06-29--rockartists-dilla.md`
+- 2026-06-29 — **Sell Facebook, Email Services to NexHealth** (4 msgs) — `raw/chatgpt/writing/2026-06-29--sell-facebook-email-services-to-nexhealth.md`
+- 2026-06-29 — **List Artists and Songs#2** (2 msgs) — `raw/chatgpt/writing/2026-06-29--list-artists-and-songs-2.md`
+- 2026-06-29 — **Java books** (4 msgs) — `raw/chatgpt/writing/2026-06-29--java-books.md`
+- unknown — **asset:El-Traidor-Anabel-Hernandez-spanish.docx** (null msgs) — `raw/chatgpt/writing/unknown--asset-el-traidor-anabel-hernandez-spanish-docx.md`
