@@ -1,15 +1,30 @@
 ---
 type: entity
-status: stub — awaiting backfill compile
-sources: []
+status: compiled
+compiled: 2026-07-06
+sources:
+  - raw/chatgpt/mpwr/2025-07-16--virtual-investor-relations-expert.md
+  - raw/chatgpt/mpwr/2025-10-20--investor-outreach-strategies.md
+  - raw/chatgpt/mpwr/2025-11-01--investor-email-template.md
+  - raw/chatgpt/mpwr/2026-02-04--family-office-latam-fintech-2-10-26.md
+  - raw/chatgpt/mpwr/2025-11-18--mpwr-solar-rings-solar-system-lander.md
 ---
 # mPWR
-> One-liner: telecom-fintech startup for underbanked populations in emerging markets; Mike leads fundraising and investor outreach.
+> One-liner: telecom-fintech startup (styled mPWR/MPOWR) for underbanked populations in emerging markets; Mike runs investor outreach — booking virtual investor meetings with the CEO of a Nasdaq-listed company.
 
-## To compile from raw/
-- Investor outreach campaigns (ZoomInfo, SalesLoft cadences) in `raw/chatgpt/mpwr/`.
-- Pitch assets: elevator pitch, interactive demo ("MPOWR INTERACTIVE DEMO REVOLVER"), HTML investor email series, LinkedIn carousels.
-- Named contacts and threads (e.g. "MPOWR Outreach - Mark").
+## The IR mandate
+- Mike's role: one-person investor-relations operator getting prospective investors to agree to **virtual meetings with the CEO of a Nasdaq-listed company**; the CEO asked for a written plan (2025-07).
+- Plan shape that survived iteration: ~150-name target list → outreach → confirmed virtual meetings, Reg-compliant. Mike repeatedly pushed drafts to be *simpler* and open-ended — no platform names, no daily quotas.
+- Targeting expanded to **family offices / LATAM fintech** (2026-02) and smaller RIAs sized to the [[ALBT]] ticket (2026-02).
+
+## Pitch assets
+- Elevator pitch (misc "MPOWR Elevator Pitch"), HTML investor email series (alt emails 1–3, 2025-11), interactive landers: "solar rings / solar system" (2025-11) and phone lander (2025-12). `confidence: preview-only`
+- Services flip-cards PNG + logo assets in raw/chatgpt/mpwr/ asset stubs.
+
+## Stack & workflows
+- [[SalesLoft]] multi-channel cadences + [[ZoomInfo]] lists for investor prospecting; [[GoHighLevel]] appears in outreach-strategy threads.
+- [[Investor Meeting Pipeline]] — the compiled recurring workflow.
+- LinkedIn investor-search threads (2026-02).
 
 ## Open questions
-- Current raise status, committed investors, deck version in circulation.
+- Current raise status, committed investors, deck version in circulation. `confidence: preview-only`
