@@ -3,7 +3,7 @@ title: "Futuristic Image"
 date: 2026-01-11
 cluster: "Misc / Uncategorized"
 messages: 4
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Futuristic Image
@@ -12,7 +12,7 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[ZoomInfo Pain Clinic Search]] · [[Run Dexter Step-by-Step]] · [[FB Posts 1-20-26]] · [[New Nonfiction Releases 2026]]
 
-## Transcript preview
+## Transcript
 
 **Mike:** Create an image in the same style as the attached screenshot
 

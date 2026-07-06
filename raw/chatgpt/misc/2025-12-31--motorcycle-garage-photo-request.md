@@ -3,7 +3,7 @@ title: "Motorcycle Garage Photo Request"
 date: 2025-12-31
 cluster: "Misc / Uncategorized"
 messages: 8
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Motorcycle Garage Photo Request
@@ -12,8 +12,8 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Mr Hood Repair offer TEMPLATE]] · [[Fire Sprinkler Inspection Guide]] · [[Split Word Doc File]] · [[NHL Betting Analysis]]
 
-## Transcript preview
+## Transcript
 
-**Mike:** Photorealistic direct-flash photo inside a cramped motorcycle garage at night. Full side-profile of a vintage Italian endurance racing motorcycle with red bodywork and metallic gold panels, exposed silver engine, black race exhaust, gold wheels, sitting on a rear paddock stand.…
+**Mike:** Photorealistic direct-flash photo inside a cramped motorcycle garage at night. Full side-profile of a vintage Italian endurance racing motorcycle with red bodywork and metallic gold panels, exposed silver engine, black race exhaust, gold wheels, sitting on a rear paddock stand. The bike has racing-style decals and sticker shapes but NO readable text. Background is packed with other sport motorcycles (including a yellow bike and a white/green bike) tightly parked behind it. Concrete floor, harsh on-camera flash reflections, slight grime and patina, sharp focus, realistic shadows, wide landscape framing.”
 
-**Mike:** “Ultra-realistic photo, wide landscape shot of a classic endurance racing motorcycle in red and gold, side view, gold wheels, exposed engine, black exhaust, on a paddock stand. Shot in a busy workshop with multiple motorcycles behind it, bright flash lighting with strong…
+**Mike:** “Ultra-realistic photo, wide landscape shot of a classic endurance racing motorcycle in red and gold, side view, gold wheels, exposed engine, black exhaust, on a paddock stand. Shot in a busy workshop with multiple motorcycles behind it, bright flash lighting with strong specular highlights, realistic workshop clutter, crisp details, subtle film grain. Decals present but not legible, no readable text, no logos.”

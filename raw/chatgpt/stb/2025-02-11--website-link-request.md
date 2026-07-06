@@ -3,7 +3,7 @@ title: "Website Link Request"
 date: 2025-02-11
 cluster: "STB / Marketing / Web"
 messages: 1
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Website Link Request
@@ -12,6 +12,6 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[B12 website builder terms]] · [[website re-write home page]] · [[Rescale Collab Website]] · [[Canva proposal models requested.]]
 
-## Transcript preview
+## Transcript
 
 **Mike:** https://therapeuticfoundations.com/

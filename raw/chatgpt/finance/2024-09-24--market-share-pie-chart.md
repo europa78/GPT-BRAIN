@@ -3,7 +3,7 @@ title: "Market Share Pie Chart"
 date: 2024-09-24
 cluster: "Finance / Trading / Markets"
 messages: 4
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Market Share Pie Chart
@@ -12,7 +12,7 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Parse and Analyze WSJ.]] · [[Funded Trading Accounts Explained]] · [[STB Digital Marketing Call]] · [[Marketing Strategy for Seminars]]
 
-## Transcript preview
+## Transcript
 
 **Mike:** Create a pie chart of market share.
 

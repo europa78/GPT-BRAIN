@@ -3,7 +3,7 @@ title: "Audio Sampler Creation"
 date: 2026-01-29
 cluster: "Audio / DSP / Instruments"
 messages: 10
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Audio Sampler Creation
@@ -12,7 +12,7 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Audio Frameworks and Plugins]] · [[Sampler Architecture Overview]] · [[DOOM Step Mother synth]] · [[Stable Audio Remix Tips]]
 
-## Transcript preview
+## Transcript
 
 **Mike:** Create an audio sampler using the attached screenshot.
 

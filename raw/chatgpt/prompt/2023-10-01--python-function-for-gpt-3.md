@@ -3,7 +3,7 @@ title: "Python Function for GPT-3"
 date: 2023-10-01
 cluster: "Prompt Eng / GPT Building"
 messages: 26
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Python Function for GPT-3
@@ -12,24 +12,262 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[SEO - SEO GPT / AIPRM]] · [[Email Wizard - GPT]] · [[AI Prompts GPT Training]] · [[AI Today GPT]]
 
-## Transcript preview
+## Transcript
 
-**Mike:** def get_completion(prompt, model="gpt-3.5-turbo"): messages = [{"role": "user", "content": prompt}] response = openai.ChatCompletion.create( model=model, messages=messages, temperature=0, # this is the degree of randomness of the model's output ) return…
+**Mike:** def get_completion(prompt, model="gpt-3.5-turbo"):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=0, # this is the degree of randomness of the model's output
+    )
+    return response.choices[0].message["content"]
 
-**GPT:** This seems to be a Python function that interfaces with the OpenAI API to get a completion response from a given GPT model, specifically the `gpt-3.5-turbo` model by default. The function takes a `prompt` as input and sends it to the API. The completion is returned without any…
+**GPT:** This seems to be a Python function that interfaces with the OpenAI API to get a completion response from a given GPT model, specifically the `gpt-3.5-turbo` model by default. The function takes a `prompt` as input and sends it to the API. The completion is returned without any randomness, as indicated by the `temperature` set to 0.
 
-**Mike:** fact_sheet_chair = """ OVERVIEW - Part of a beautiful family of mid-century inspired office furniture, including filing cabinets, desks, bookcases, meeting tables, and more. - Several options of shell color and base finishes. - Available with plastic back and front upholstery…
+However, there are a few things worth noting:
 
-**GPT:** The provided text is a fact sheet for a chair. It provides detailed information on various aspects of the chair, including its overview, construction details, dimensions, options available, materials used, and its country of origin. Would you like a summary or any specific…
+1. This function appears to be using an older version of the OpenAI API. The method `openai.ChatCompletion.create` might not be available or valid in newer versions. You should refer to the latest OpenAI documentation to ensure compatibility.
+2. The `temperature` parameter is set to 0, which means the output will be deterministic and will always return the most likely completion. Setting it to a higher value, like 0.7, would introduce more randomness to the output.
+3. The function assumes that the `openai` library is imported and that you have set up the necessary API credentials.
+4. The function will return only the content of the message from the completion, stripping away other metadata that might be present in the API response.
+
+Before using this function, ensure you have the necessary API key and that you've set up the `openai` library correctly. You should also be mindful of any costs associated with making API calls.
+
+**Mike:** fact_sheet_chair = """
+OVERVIEW
+- Part of a beautiful family of mid-century inspired office furniture, 
+including filing cabinets, desks, bookcases, meeting tables, and more.
+- Several options of shell color and base finishes.
+- Available with plastic back and front upholstery (SWC-100) 
+or full upholstery (SWC-110) in 10 fabric and 6 leather options.
+- Base finish options are: stainless steel, matte black, 
+gloss white, or chrome.
+- Chair is available with or without armrests.
+- Suitable for home or business settings.
+- Qualified for contract use.
+
+CONSTRUCTION
+- 5-wheel plastic coated aluminum base.
+- Pneumatic chair adjust for easy raise/lower action.
+
+DIMENSIONS
+- WIDTH 53 CM | 20.87”
+- DEPTH 51 CM | 20.08”
+- HEIGHT 80 CM | 31.50”
+- SEAT HEIGHT 44 CM | 17.32”
+- SEAT DEPTH 41 CM | 16.14”
+
+OPTIONS
+- Soft or hard-floor caster options.
+- Two choices of seat foam densities: 
+ medium (1.8 lb/ft3) or high (2.8 lb/ft3)
+- Armless or 8 position PU armrests 
+
+MATERIALS
+SHELL BASE GLIDER
+- Cast Aluminum with modified nylon PA6/PA66 coating.
+- Shell thickness: 10 mm.
+SEAT
+- HD36 foam
+
+COUNTRY OF ORIGIN
+- Italy
+
+**GPT:** The provided text is a fact sheet for a chair. It provides detailed information on various aspects of the chair, including its overview, construction details, dimensions, options available, materials used, and its country of origin.
+
+Would you like a summary or any specific information extracted from this fact sheet?
 
 **Mike:** write a prompt that will generate this text
 
-**GPT:** To generate the provided text about the chair, we would want a prompt that describes what we're looking for in broad terms. Here's a possible prompt: "Provide a detailed fact sheet for a mid-century inspired office chair that is part of a larger collection of office furniture.…
+**GPT:** To generate the provided text about the chair, we would want a prompt that describes what we're looking for in broad terms. Here's a possible prompt:
+
+"Provide a detailed fact sheet for a mid-century inspired office chair that is part of a larger collection of office furniture. The chair should have various shell colors and base finishes, upholstery options, dimensions, construction details, materials used, and its origin country. Make it sound premium and suitable for both home and business settings."
+
+However, it's worth noting that even with this detailed prompt, the exact text you provided might not be generated by the model. The model would generate a fact sheet based on the information in the prompt, but the exact phrasing and details might vary.
 
 **Mike:** write a delimited prompt that is more detailed that will generate this text
 
-**GPT:** To increase the likelihood of generating the exact text you provided, we can craft a more detailed and delimited prompt. Here's an attempt: "Provide a fact sheet on a chair with the following specifications: **Section - OVERVIEW:** 1. Mention that it's part of a mid-century…
+**GPT:** To increase the likelihood of generating the exact text you provided, we can craft a more detailed and delimited prompt. Here's an attempt:
 
-**Mike:** here is a prompt : Your task is to help a marketing team create a description for a retail website of a product based on a technical fact sheet. Write a product description based on the information provided in the technical specifications delimited by triple backticks. Use at…
+"Provide a fact sheet on a chair with the following specifications:
 
-**GPT:** Using your provided prompt, the model would generate a product description based on the fact sheet you've given for the chair. Here's how the model might respond: "Discover our mid-century inspired office chair, crafted in Italy. Featuring adjustable settings, a choice of shell…
+**Section - OVERVIEW:**
+1. Mention that it's part of a mid-century inspired office furniture collection.
+2. List items like filing cabinets, desks, bookcases, meeting tables, etc.
+3. Discuss shell color, base finishes, and upholstery options.
+4. Enumerate base finish options: stainless steel, matte black, gloss white, chrome.
+5. Specify availability with or without armrests.
+6. Note its suitability for both home and business.
+7. Indicate that it's qualified for contract use.
+
+**Section - CONSTRUCTION:**
+1. Describe its 5-wheel plastic coated aluminum base.
+2. Highlight its pneumatic adjust feature for easy raise/lower action.
+
+**Section - DIMENSIONS:**
+1. WIDTH: 53 CM | 20.87”
+2. DEPTH: 51 CM | 20.08”
+3. HEIGHT: 80 CM | 31.50”
+4. SEAT HEIGHT: 44 CM | 17.32”
+5. SEAT DEPTH: 41 CM | 16.14”
+
+**Section - OPTIONS:**
+1. Mention caster options for different floor types.
+2. Discuss two choices of seat foam densities.
+3. Highlight the availability of armless or 8 position PU armrests.
+
+**Section - MATERIALS:**
+1. Detail the shell base glider as Cast Aluminum with modified nylon PA6/PA66 coating and a shell thickness of 10 mm.
+2. Describe the seat as HD36 foam.
+
+**Section - COUNTRY OF ORIGIN:**
+1. Specify Italy as the country of origin.
+
+Generate a cohesive fact sheet using the provided outline."
+
+Again, while this prompt is more detailed and specific, there's still no guarantee that the model will produce the exact text you provided. However, the closer and more specific the prompt, the more likely you are to get a closer match.
+
+**Mike:** here is a prompt :  Your task is to help a marketing team create a 
+description for a retail website of a product based 
+on a technical fact sheet.
+
+Write a product description based on the information 
+provided in the technical specifications delimited by 
+triple backticks.
+
+Use at most 50 words.
+
+Technical specifications: ```{fact_sheet_chair}``
+
+**GPT:** Using your provided prompt, the model would generate a product description based on the fact sheet you've given for the chair. Here's how the model might respond:
+
+"Discover our mid-century inspired office chair, crafted in Italy. Featuring adjustable settings, a choice of shell colors, and upholstered finishes. Perfect for both home and office. Available with or without armrests."
+
+This description is concise and captures some of the key points from the fact sheet.
+
+**Mike:** Your task is to help a marketing team create a 
+description for a retail website of a product based 
+on a technical fact sheet.
+
+Write a product description based on the information 
+provided in the technical specifications delimited by 
+triple backticks.
+
+Technical specifications: ```{fact_sheet_chair}```
+"""
+
+**GPT:** Elevate your workspace with our Italian-crafted, mid-century inspired chair. Choose from a range of shell colors and finishes, with options for full or partial upholstery. Designed for both comfort and aesthetics, this chair features an adjustable height, optional armrests, and a sleek 5-wheel base. Perfect for any modern home or office.
+
+**Mike:** Your task is to help a marketing team create a 
+description for a retail website of a product based 
+on a technical fact sheet.
+
+Write a product description based on the information 
+provided in the technical specifications delimited by 
+triple backticks.
+
+The description is intended for furniture retailers, 
+so should be technical in nature and focus on the 
+materials the product is constructed from.
+
+At the end of the description, include every 7-character 
+Product ID in the technical specification.
+
+Use at most 50 words.
+
+Technical specifications: ```{fact_sheet_chair}```
+"""
+
+**GPT:** Crafted with a shell base glider of cast aluminum and coated with modified nylon PA6/PA66, this chair offers a robust 10 mm shell thickness. The seat is made of HD36 foam. Suitable for discerning furniture retailers. Product IDs: SWC-100, SWC-110.
+
+**Mike:** Your task is to generate a short summary of a product \
+review from an ecommerce site. 
+
+Summarize the review below, delimited by triple 
+backticks, in at most 30 words. 
+
+Review: ```{prod_review}```
+"""
+
+**GPT:** Certainly, please provide the content for `{prod_review}`, and I'll summarize it for you in 30 words or fewer.
+
+**Mike:** Your task is to generate a short summary of a product \
+review from an ecommerce site to give feedback to the \
+Shipping deparmtment. 
+
+Summarize the review below, delimited by triple 
+backticks, in at most 30 words, and focusing on any aspects \
+that mention shipping and delivery of the product. 
+
+Review: ```{prod_review}```
+"""
+
+**GPT:** Of course, please provide the content for `{prod_review}`, and I'll summarize it with a focus on shipping and delivery aspects in 30 words or fewer.
+
+**Mike:** euro rack modules for sound creation
+
+**GPT:** Eurorack is a popular modular synthesizer format. Modules in this format can be mixed and matched in a custom configuration to create a unique synthesizer tailored to the user's preferences. Here's an overview of some of the types of Eurorack modules used for sound creation:
+
+1. **Oscillators/VCOs (Voltage-Controlled Oscillators)**: These are the primary sound sources in a modular system. They produce waveforms like sine, sawtooth, square, and triangle waves.
+ 
+2. **Filters/VCFs (Voltage-Controlled Filters)**: Filters shape the sound by boosting or cutting specific frequency ranges. Common types include low-pass, high-pass, band-pass, and notch filters.
+
+3. **Envelopes**: These shape the amplitude of a sound over time, typically with stages like attack, decay, sustain, and release (ADSR).
+
+4. **LFOs (Low-Frequency Oscillators)**: These produce waveforms like an oscillator, but at a lower frequency, and are commonly used to modulate other modules.
+
+5. **Sequencers**: These modules create sequences of voltages to control pitches, rhythms, or any parameter.
+
+6. **Samplers/Granular Processors**: These can play back, manipulate, and mangle pre-recorded sounds.
+
+7. **Effects**: These include modules like reverbs, delays, distortions, and phasers to further shape and process the sound.
+
+8. **VCAs (Voltage-Controlled Amplifiers)**: Essential for controlling the amplitude of signals, often in tandem with an envelope.
+
+9. **Ring Modulators**: Produce complex tones by multiplying two signals together.
+
+10. **Random Generators/Noise Modules**: Produce random voltages or noise signals that can be used for a variety of purposes, from percussion sounds to modulation.
+
+11. **Mixers/Attenuators**: For mixing multiple signals together or controlling the strength of a signal.
+
+12. **Logic Modules**: Modules that deal with gate/trigger logic, useful for complex rhythmic patterns.
+
+13. **Physical Modeling**: These are specialized modules that emulate the sounds of real-world instruments or objects.
+
+When building a Eurorack system for sound creation, it's essential to have a mix of these modules to ensure a versatile sound palette. The beauty of Eurorack is that you can start with a few modules and expand your system over time, tailoring it to your evolving needs and interests.
+
+**Mike:** prompt = f"""
+Your task is to extract relevant information from \ 
+a product review from an ecommerce site to give \
+feedback to the Shipping department. 
+
+From the review below, delimited by triple quotes \
+extract the information relevant to shipping and \ 
+delivery. Limit to 30 words. 
+
+Review: ```{Kindle_review}```
+"""
+
+**GPT:** Certainly. Please provide the content for `{Kindle_review}`, and I'll extract and summarize the relevant shipping and delivery information in 30 words or fewer.
+
+**Mike:** Identify a list of emotions that the writer of the \
+following review is expressing. Include no more than \
+five items in the list. Format your answer as a list of \
+lower-case words separated by commas.
+
+Review text: '''{lamp_review}'''
+
+**GPT:** Of course, please provide the content for `{lamp_review}`, and I'll identify and list the emotions expressed by the writer in the review.
+
+**Mike:** Needed a nice lamp for my bedroom, and this one had \
+additional storage and not too high of a price point. \
+Got it fast.  The string to our lamp broke during the \
+transit and the company happily sent over a new one. \
+Came within a few days as well. It was easy to put \
+together.  I had a missing part, so I contacted their \
+support and they very quickly got me the missing piece! \
+Lumina seems to me to be a great company that cares \
+about their customers and products!!
+
+**GPT:** satisfied, appreciative, frustrated, relieved, impressed

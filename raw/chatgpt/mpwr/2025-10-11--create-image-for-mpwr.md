@@ -3,7 +3,7 @@ title: "Create image for mPWR"
 date: 2025-10-11
 cluster: "mPWR / Fintech / Investor"
 messages: 6
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Create image for mPWR
@@ -12,9 +12,9 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Virtual investor relations expert]] · [[Promote mPWR]] · [[Investor outreach strategies]] · [[Investor email template]]
 
-## Transcript preview
+## Transcript
 
-**Mike:** Use dall-e to create an image using the hinton lectures as a template. Create an image for the company , mPWR. https://thempwr.com/services/
+**Mike:** Use dall-e to create an image using the hinton lectures as a template.  Create an image for the company , mPWR.  https://thempwr.com/services/
 
 **Mike:** Use this style image to create a similar one for mPWR
 

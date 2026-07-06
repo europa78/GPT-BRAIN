@@ -3,7 +3,7 @@ title: "REAPER manual download"
 date: 2024-11-28
 cluster: "Audio / DSP / Instruments"
 messages: 4
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # REAPER manual download
@@ -12,11 +12,11 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Reaper Bluetooth Output Setup]] · [[Command Line Mastery Summary]] · [[Reaper]] · [[Beautiful Melody Request]]
 
-## Transcript preview
+## Transcript
 
-**Mike:** Access the web form the following info . Fetch the manual form the daw , reaper .
+**Mike:** Access the web form the following info .  Fetch the manual form the daw , reaper .
 
-**GPT:** You can download the REAPER DAW User Guide directly from the official site. It offers comprehensive information on recording, editing, and mixing audio using REAPER, covering all versions up to the latest release. Find the guide here: [REAPER User…
+**GPT:** You can download the REAPER DAW User Guide directly from the official site. It offers comprehensive information on recording, editing, and mixing audio using REAPER, covering all versions up to the latest release. Find the guide here: [REAPER User Guide](https://www.reaper.fm/userguide.php)【6†source】.
 
 **Mike:** Read the guide and give me the answer
 

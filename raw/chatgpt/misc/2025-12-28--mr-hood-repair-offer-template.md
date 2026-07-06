@@ -3,7 +3,7 @@ title: "Mr Hood Repair offer TEMPLATE"
 date: 2025-12-28
 cluster: "Misc / Uncategorized"
 messages: 5
-source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full text lives in conversations.json export)
+source: chatgpt-export conversations.json (FULL transcript)
 ---
 
 # Mr Hood Repair offer TEMPLATE
@@ -12,8 +12,17 @@ source: chatgpt-history (globe snapshot — previews truncated ~280 chars; full 
 
 **Semantic neighbors:** [[Yellow landing Walter]] · [[Lovable Checklist to go live]] · [[Fire Sprinkler Inspection Guide]] · [[Motorcycle Garage Photo Request]]
 
-## Transcript preview
+## Transcript
 
 **Mike:** Convert this screenshot of a hard rock offer into a blank template I can use for any number of products or offers .
 
-**GPT:** Done — I converted that Hard Rock-style offer screenshot into a **reusable blank template builder** you can use for unlimited products/offers. It’s a **single HTML file** (embedded CSS + JS) with: - Live editor → instant preview - Multiple offers (add/duplicate/delete via…
+**GPT:** Done — I converted that Hard Rock-style offer screenshot into a **reusable blank template builder** you can use for unlimited products/offers.
+
+It’s a **single HTML file** (embedded CSS + JS) with:
+- Live editor → instant preview
+- Multiple offers (add/duplicate/delete via dropdown)
+- Optional image upload (auto-embeds as data URL for exports)
+- **Export Web HTML**, **Email-friendly HTML**, or **JSON backup**
+- Autosaves in your browser
+
+[Download the HTML template studio](sandbox:/mnt/data/offer-template-studio-hardrock-style.html)
