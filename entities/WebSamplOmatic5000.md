@@ -3,16 +3,21 @@ type: entity
 status: compiled
 compiled: 2026-07-06
 sources:
+  - raw/chatgpt/audio/2026-01-22--sampler-architecture-overview.md
   - raw/chatgpt/audio/2025-11-27--audio-software-development.md
   - raw/chatgpt/audio/2025-11-26--optimize-audio-sampler-prompt.md
   - raw/chatgpt/audio/2026-02-28--wave-editor-sampler-ui.md
-  - raw/chatgpt/audio/2025-11-24--drum-sampler-frameworks.md
+  - raw/chatgpt/audio/2024-12-07--reaper.md
 ---
 # WebSamplOmatic5000
-> One-liner: flagship browser-based polyphonic sampler — ADSR, filters, LFO, slice mode, hit-point detection, granular time-stretch/BPM detection, delay+reverb FX, WAV export; heading toward a Kontakt/LEAP-style instrument.
+> One-liner: flagship browser-based polyphonic sampler — ADSR, filters, LFO, slice mode, hit-point detection, granular time-stretch/BPM detection, delay+reverb FX, WAV export; heading toward a Kontakt/LEAP-style instrument. Named in homage to REAPER's ReaSamplomatic5000.
+
+## Confirmed in the corpus (full transcripts)
+- **Architecture review (2026-01-22):** `main.js` boots **AudioContext** then constructs **Sampler**, **WaveformRenderer**, **MIDIHandler**, **UIController**; resume-audio-on-first-interaction handling; debug handle exported at `window.WebSamplOmatic5000`.
+- **Name origin (2024-12-07):** GPT walked Mike through REAPER's **ReaSamplomatic5000** for MIDI pitch-tracked sample playback — the flagship's name is a direct homage (see [[REAPER]]).
 
 ## Development history in the corpus
-The name "WebSamplOmatic5000" itself never appears in ChatGPT previews (it's the Claude-side name), but the sampler lineage is unmistakably here:
+The sampler lineage runs through the audio cluster:
 - **2025-11-24 → 11-27:** "best libraries for building an audio sampler like Kontakt" → Battery-style drum sampler in one HTML file → "pro version" with per-pad ADSR + start/end trim → feature-mining the BATTERY 4 manual page by page.
 - **2025-11-26:** prompt-optimization pass for the sampler build prompt itself.
 - **2026-02-28:** wave-editor sampler UI work (Kontakt-class editing surface).

@@ -21,10 +21,17 @@ sources:
 ## Canonical structure (from Welter build)
 Executive summary → situation/competitor gap → recommended services (toggleable) → pricing (from the 2026 sell sheet, see [[STB Digital]]) → next steps.
 
+## The master prompt (full text now in raw, 2026-01-24)
+Key contract, verbatim from the transcript:
+- ROLE: "senior front-end engineer and UI/UX designer… production-quality, single-file websites."
+- Output **exactly ONE complete HTML file** — embedded CSS + JS, no build steps, no frameworks, no external assets required to function.
+- Inputs: business data, links, screenshots, logos. **At most 5 clarifying questions**, then proceed with labeled placeholder assumptions.
+- Required interactions: sticky header + smooth scroll, dropdown, micro-interaction buttons, accordion FAQ, modal ("View proof"), toast, dark/light toggle (localStorage), scroll-reveal respecting `prefers-reduced-motion`.
+- "Screenshots/Proof" section with a **client-side drag-and-drop image loader**; contact section with front-end validation + copy-email/phone buttons; unknown links = labeled "#" placeholders, never broken.
+
 ## Rules of thumb
 - Proposal = product demo of the agency itself; an interactive site *is* the pitch for web services.
 - Price from the standing sell sheet, don't improvise ("STBD Core Services – Sell Sheets w/ Pricing 2026").
-- The master prompt lives in the 2026-01-24 thread; treat it as the factory's source code. `confidence: preview-only` (full prompt text truncated)
 
 ## Links
 [[STB Digital]] · [[Cold Outreach Playbook]] · [[The Rucco Group]] · [[Role-Task Prompting]].

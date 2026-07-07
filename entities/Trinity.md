@@ -11,7 +11,7 @@ sources:
 > One-liner: planned persistent 24/7 orchestration runtime sitting above the [[Antigravity]] agents. The loops in this vault (.claude/commands: /compile, /lint, /synthesis) are natural Trinity jobs.
 
 ## Evidence status
-- Trinity by name is Claude-side only — no direct corpus mentions. The *idea's* ancestry in the corpus: AutoGPT autonomous-loop experiments (2023-04) and Claude agentic-workflow research (2025-12).
+- Trinity by name is Claude-side only — no direct corpus mentions even in full transcripts (2026-07-06 recheck: the only "Trinity" hits are Trinity Water Damage Restoration, unrelated). The *idea's* ancestry in the corpus: AutoGPT autonomous-loop experiments (2023-04) and Claude agentic-workflow research (2025-12).
 - Per vault rules: orientation-grade page; upgrade when raw/sessions/ notes are ingested.
 
 ## Design intent (unverified)

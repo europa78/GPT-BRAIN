@@ -20,7 +20,7 @@ sources:
 6. **Escalation path:** browser single-file → Electron standalone ([[DOOM Sampler]]) → JUCE plugin (lineage note in [[WebSamplOmatic5000]], Claude-side).
 
 ## What broke / limits hit
-- Preview truncation hides the failure details (timing, voice pooling, worklet limits flagged in stub). `confidence: preview-only` — upgrade after full-transcript ingest.
+- Full transcripts are now in raw/ (2026-07-06 ingest) but a first-pass grep found no explicit failure narratives (timing, voice pooling, worklet limits) in the sampler threads — either they're phrased differently or they live Claude-side. Open item for the weekly /synthesis pass.
 
 ## Links
 [[WebSamplOmatic5000]] · [[DOOM Sampler]] · [[Stable Audio]] (content side) · [[REAPER]] (DAW side) · [[Role-Task Prompting]] (how dev prompts are framed).
