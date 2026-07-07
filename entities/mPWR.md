@@ -18,8 +18,9 @@ sources:
 - Targeting expanded to **family offices / LATAM fintech** (2026-02) and smaller RIAs sized to the [[ALBT]] ticket (2026-02).
 
 ## Pitch assets
+- **The interactive demo itself is in the vault:** `raw/chatgpt/_assets/mpowr-interactive-demo-combined_v2-3.html` — "MPOWR Interactive Demo — First-Time User Guide", a working 276KB single-file lander (recovered from the export 2026-07-07).
 - Elevator pitch (misc "MPOWR Elevator Pitch"), HTML investor email series (alt emails 1–3, 2025-11), interactive landers: "solar rings / solar system" (2025-11) and phone lander (2025-12). `confidence: preview-only`
-- Services flip-cards PNG + logo assets in raw/chatgpt/mpwr/ asset stubs.
+- Services flip-cards PNG + logo assets in raw/chatgpt/mpwr/ asset stubs; brand PNG `Prancheta 169@4x-8.png` in _assets.
 
 ## Stack & workflows
 - [[SalesLoft]] multi-channel cadences + [[ZoomInfo]] lists for investor prospecting; [[GoHighLevel]] appears in outreach-strategy threads.
